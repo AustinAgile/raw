@@ -7,6 +7,8 @@ angular.module('raw.controllers', [])
   .controller('RawCtrl', function ($scope, dataService) {
 
     $scope.samples = [
+      { title : 'Hilton (April 2016)', url : 'data/hilton1.csv' },
+      { title : 'Hilton (April 2016 * 3)', url : 'data/hilton2.csv' },
       { title : 'Cars (Multivariate)', url : 'data/multivariate.csv' },
       { title : 'Movies (Dispersion)', url : 'data/dispersions.csv' },
       { title : 'Music industry (Time series)', url : 'data/music.csv' },
@@ -14,7 +16,7 @@ angular.module('raw.controllers', [])
       { title : 'Orchestra (Weighted hierarchy)', url : 'data/orchestra.csv' },
       { title : 'Animal kingdom (Hierarchy)', url : 'data/animals.tsv' },
       { title : 'Titanic\'s passengers (Multi categorical)', url : 'data/titanic.tsv' }
-    ]
+    ];
 
     $scope.$watch('sample', function (sample){
       if (!sample) return;
@@ -42,9 +44,9 @@ angular.module('raw.controllers', [])
       'Distributions': 'rgb(5, 205, 255)',
       'Correlations': '#df0',
       'Others': '#0f0'
-    }
+    };
 
-    $scope.parse = function(text){
+    $scope.parse = function(text) {
 
       if ($scope.model) $scope.model.clear();
 
@@ -65,7 +67,7 @@ angular.module('raw.controllers', [])
       }
       if (!$scope.data.length && $scope.model) $scope.model.clear();
       $scope.loading = false;
-    }
+    };
 
     $scope.delayParse = dataService.debounce($scope.parse, 500, false);
 
@@ -75,7 +77,8 @@ angular.module('raw.controllers', [])
     });
 
     $scope.charts = raw.charts.values().sort(function (a,b){ return a.title() < b.title() ? -1 : a.title() > b.title() ? 1 : 0; });
-    $scope.chart = $scope.charts[0];
+    //$scope.chart = $scope.charts[0];
+    $scope.chart = $scope.charts.filter(function(chart, i) {console.log(i);console.log(chart.title);return chart.title()=="Bump Chart";})[0];
     $scope.model = $scope.chart ? $scope.chart.model() : null;
 
     $scope.$watch('error', function (error){
@@ -89,28 +92,28 @@ angular.module('raw.controllers', [])
       cm.scrollIntoView(error);
       $scope.lastError = error;
 
-    })
+    });
 
     $('body').mousedown(function (e,ui){
       if ($(e.target).hasClass("dimension-info-toggle")) return;
       $('.dimensions-wrapper').each(function (e){
         angular.element(this).scope().open = false;
         angular.element(this).scope().$apply();
-      })
-    })
+      });
+    });
 
     $scope.codeMirrorOptions = {
       lineNumbers : true,
       lineWrapping : true,
       placeholder : 'Paste your text or drop a file from your computer here. No data on hand? Try one of our sample datasets!'
-    }
+    };
 
     $scope.selectChart = function(chart){
       if (chart == $scope.chart) return;
       $scope.model.clear();
       $scope.chart = chart;
       $scope.model = $scope.chart.model();
-    }
+    };
 
     function refreshScroll(){
       $('[data-spy="scroll"]').each(function () {
@@ -136,7 +139,7 @@ angular.module('raw.controllers', [])
         $(".sticky")
           .css("position","fixed")
           .css("width", mappingWidth+"px")
-          .css("top","20px")
+          .css("top","20px");
       }
 
      if(isOver) {
@@ -154,7 +157,7 @@ angular.module('raw.controllers', [])
         .css("top","")
         .css("width", "");
 
-    })
+    });
 
       $scope.sortCategory = function (chart) {
         return chart.category();
@@ -164,3 +167,4 @@ angular.module('raw.controllers', [])
 
 
   })
+;

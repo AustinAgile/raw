@@ -84,6 +84,12 @@ h4 {
   padding-bottom: 215px;
 
 }
+.container {
+  padding-left: 10px;
+  margin-left: 10px;
+
+}
+
 
 #push,
 #footer {
