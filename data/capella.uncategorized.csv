@@ -1,0 +1,378 @@
+Date,Words,Prevalence,Count,MainTopic,TopTopic
+9/28/2016,"ago, stuff, couple, phoenix, paperwork, looked",0.008622806,1064,ago,*** uncategorized ***
+10/6/2016,"ago, hours, pick, order, fix, wife",0.019660177,3271,ago,*** uncategorized ***
+10/5/2016,"ahead, list, guess, hoping, apologize",0.011643703,2982,ahead,*** uncategorized ***
+9/22/2016,"specific, area, accounting, program, network, security, analytics",0.009077896,770,area,*** uncategorized ***
+9/9/2016,"area, study, bit, professional, remote",0.004870252,346,area,*** uncategorized ***
+9/12/2016,"area, full, code, accept, remote",0.008578356,1529,area,*** uncategorized ***
+8/31/2016,"automatically, automated, insurance, move, cleared",0.009783546,762,automatically,*** uncategorized ***
+8/26/2016,"awesome, open, close, scholarship, chat, curious",0.022890808,2491,awesome,*** uncategorized ***
+9/30/2016,"awesome, recommend, letter, statement, resume",0.012103793,1716,awesome,*** uncategorized ***
+8/29/2016,"awesome, soon, admissions, review, chance",0.020371133,2933,awesome,*** uncategorized ***
+8/31/2016,"awesome, super, pretty, student, amazing, agent",0.008534184,568,awesome,*** uncategorized ***
+9/13/2016,"awesome, questions, next, academic, glad, checkin",0.021686045,3495,awesome,*** uncategorized ***
+9/15/2016,"awesome, problem, touch, based, chance",0.017501554,3399,awesome,*** uncategorized ***
+9/16/2016,"awesome, work, bit, military, clock, stick",0.024625442,3421,awesome,*** uncategorized ***
+9/23/2016,"awesome, excited, bad, deal, nervous",0.014480122,2218,awesome,*** uncategorized ***
+9/26/2016,"awesome, miss, return, receive, eat",0.010406502,2152,awesome,*** uncategorized ***
+9/27/2016,"awesome, excited, bit, drive, game",0.011278539,1554,awesome,*** uncategorized ***
+8/31/2016,"fun, bad, crazy, hard, funny, text",0.016829516,1045,bad,*** uncategorized ***
+8/30/2016,"bad, run, game, team, died, season",0.01529219,1025,bad,*** uncategorized ***
+10/14/2016,"bad, run, better, morning, wife, town, drive",0.022089906,1767,bad,*** uncategorized ***
+9/9/2016,"bad, work, sort, weeks, sick, stress, stage",0.009182928,587,bad,*** uncategorized ***
+9/14/2016,"bad, house, stuff, close, seconds, weird",0.017048691,2199,bad,*** uncategorized ***
+9/26/2016,"drop, bad, late, hit, participate, terrible, draft",0.010662241,988,bad,*** uncategorized ***
+9/27/2016,"bad, stuff, job, better, pet, boss, horrible, christmas",0.007949831,546,bad,*** uncategorized ***
+8/29/2016,"basically, half, grad, quest, rich",0.003980106,197,basically,*** uncategorized ***
+9/1/2016,"basically, live, country, care, million, retired, bus",0.008919325,579,basically,*** uncategorized ***
+9/2/2016,"basically, work, pretty, brand, analytics, software, senior",0.003888257,78,basically,*** uncategorized ***
+9/7/2016,"basically, understand, start, questions, new_york, explain",0.01286621,2470,basically,*** uncategorized ***
+10/1/2016,"honestly, basically, work, move, position",0.009150106,27,basically,*** uncategorized ***
+8/26/2016,"couple, best, team, side, apple",0.010748176,1725,best,*** uncategorized ***
+10/3/2016,"best, touch, based, happy, wonderful",0.013536882,3789,best,*** uncategorized ***
+10/5/2016,"best, find, hear, guess, curious",0.005404086,286,best,*** uncategorized ***
+10/7/2016,"best, run, new_york, explain, video, wife",0.013304914,1889,best,*** uncategorized ***
+9/28/2016,"big, play, point, team, funny, game, picture",0.014847085,1453,big,*** uncategorized ***
+9/20/2016,"big, game, play, run, north, season",0.010803364,1527,big,*** uncategorized ***
+10/12/2016,"remember, big, pretty, better, water, hurricane",0.015932621,2213,big,*** uncategorized ***
+9/16/2016,"data, birth, analytics, customer",0.00722824,244,birth,*** uncategorized ***
+9/23/2016,"learning, bit, experience, flexibility, instructor, topic, thoughts",0.005364724,310,bit,*** uncategorized ***
+9/8/2016,"bit, pretty, sort, run",0.013211726,3024,bit,*** uncategorized ***
+10/1/2016,"bit, hold, apologize, understand, touch",0.021285458,97,bit,*** uncategorized ***
+10/15/2016,"bit, end, doctor, quick, undergraduate",0.011528897,59,bit,*** uncategorized ***
+8/26/2016,"box, left, complete, hand, internet",0.014864775,1529,box,*** uncategorized ***
+8/30/2016,"fall, box, terms, start, spring, adjust",0.008643231,650,box,*** uncategorized ***
+9/2/2016,"box, game, laptop, center, event",0.011542096,940,box,*** uncategorized ***
+9/13/2016,"box, voicemail, set, mobile, extension",0.021892043,2366,box,*** uncategorized ***
+9/14/2016,"box, back, reminder, check, birthday, sheree",0.011932434,1933,box,*** uncategorized ***
+9/17/2016,"box, record, wrong, notes",0.027346761,345,box,*** uncategorized ***
+9/22/2016,"box, respond, lease, spend, mobile, shot",0.014092191,2177,box,*** uncategorized ***
+9/27/2016,"box, terms, huge, program, commencement, invite",0.006387449,388,box,*** uncategorized ***
+9/29/2016,"box, voicemail, clock, meet, desk",0.020708367,2786,box,*** uncategorized ***
+10/3/2016,"remember, box, appointment, city, rich",0.008144534,1620,box,*** uncategorized ***
+10/4/2016,"box, away, report, squared, capital",0.00976838,1305,box,*** uncategorized ***
+10/7/2016,"box, verify, services, quick, date_of_brith, real",0.020259141,3286,box,*** uncategorized ***
+10/12/2016,"box, system, set, military, voicemail",0.02235877,2906,box,*** uncategorized ***
+10/4/2016,"area, center, resource, library, quest, remote",0.006069298,323,center,*** uncategorized ***
+9/17/2016,"update, chance, start, sounds, worry, new",0.02262803,180,chance,*** uncategorized ***
+8/29/2016,"change, plan, academic, coach, biggest",0.011126944,1420,change,*** uncategorized ***
+8/31/2016,"house, change, pay, paper, floor, terrible, basement",0.007656384,514,change,*** uncategorized ***
+9/2/2016,"change, program, justice, criminal, appeal",0.007407889,148,change,*** uncategorized ***
+9/8/2016,"change, mind, system, fast, confused, originally",0.010118416,1436,change,*** uncategorized ***
+9/9/2016,"change, new, case, guess, customer",0.015260637,2389,change,*** uncategorized ***
+10/13/2016,"change, academic, registered, learners, advising, advisor",0.015201224,1992,change,*** uncategorized ***
+9/12/2016,"change, case, update, process, escalation",0.026174583,4094,change,*** uncategorized ***
+9/13/2016,"change, new, code, password, enter",0.012501203,2336,change,*** uncategorized ***
+9/15/2016,"change, new, read, writing, code, assessment",0.01966485,2996,change,*** uncategorized ***
+9/17/2016,"service, change, evaluate, open",0.018225031,186,change,*** uncategorized ***
+9/20/2016,"change, move, switch, new, customer",0.018797854,3778,change,*** uncategorized ***
+9/22/2016,"change, new, care, longer, customer, switch",0.015622942,3485,change,*** uncategorized ***
+9/26/2016,"change, new, switch, data, customer",0.010904228,2153,change,*** uncategorized ***
+9/23/2016,"change, certificate, program, graduate, alternative",0.01321097,1685,change,*** uncategorized ***
+9/28/2016,"change, hoping, payment, appeal, pronounce, rules",0.006945413,587,change,*** uncategorized ***
+9/29/2016,"change, new, data, military, folder",0.010848246,1918,change,*** uncategorized ***
+10/3/2016,"change, bit, new, start, withdraw, weird",0.014289153,3545,change,*** uncategorized ***
+10/4/2016,"change, case, close, figure, escalate, weird",0.017646325,2887,change,*** uncategorized ***
+10/5/2016,"change, switch, customer, longer, dial",0.013105355,2336,change,*** uncategorized ***
+10/7/2016,"change, switch, point, communication, wireless",0.012269594,1275,change,*** uncategorized ***
+10/11/2016,"change, new, move, start, switch, customer",0.019801714,4882,change,*** uncategorized ***
+10/17/2016,"change, better, problem, office, central, afternoon",0.0175488,1787,change,*** uncategorized ***
+9/26/2016,"couple, close, end, hard, zone, spouse",0.00597185,527,close,*** uncategorized ***
+9/8/2016,"close, wrong, new, weird, fix",0.020145536,2914,close,*** uncategorized ***
+9/16/2016,"close, work, save, home, low, game",0.016110838,1537,close,*** uncategorized ***
+9/6/2016,"code, meet, enter, transfer, duty, key",0.01667167,2402,code,*** uncategorized ***
+9/9/2016,"code, state, city, south, social_security, zip, date_of_brith",0.009404764,548,code,*** uncategorized ***
+10/3/2016,"area, code, lead, located, trust, cell",0.00567872,745,code,*** uncategorized ***
+9/27/2016,"minutes, code, area, meeting, roll, remote",0.013468892,2518,code,*** uncategorized ***
+8/29/2016,"computer, office, walk, home, cellphone, sick, cell",0.014104234,1649,computer,*** uncategorized ***
+9/21/2016,"computer, friends, cancel, hours, internet",0.009639571,1533,computer,*** uncategorized ***
+9/24/2016,"computer, personal, house, pick",0.013441585,51,computer,*** uncategorized ***
+9/30/2016,"computer, click, work, issue, enter, reset",0.014048422,1689,computer,*** uncategorized ***
+10/7/2016,"computer, stuff, save, work, weird, search",0.015241897,2362,computer,*** uncategorized ***
+10/10/2016,"computer, open, pop, screen, cake",0.01588737,3615,computer,*** uncategorized ***
+9/8/2016,"total, concerns, push, drive, goodness",0.010632586,1613,concerns,*** uncategorized ***
+8/30/2016,"automatically, conference, automated, dial, claim",0.010306731,1032,conference,*** uncategorized ***
+9/15/2016,"connect, enrollment, questions, services, counselor, pop",0.04667442,4382,connect,*** uncategorized ***
+8/30/2016,"connect, moment, hold, department",0.031092528,3169,connect,*** uncategorized ***
+9/29/2016,"connect, moment, problem, information, afternoon, evening",0.031945402,4880,connect,*** uncategorized ***
+10/3/2016,"connect, moment, support, verify",0.017462274,3635,connect,*** uncategorized ***
+10/8/2016,"hang, connect, run, enrollment, moment",0.029378938,269,connect,*** uncategorized ***
+9/1/2016,"receive, couple, connect, chat",0.014141932,2624,couple,*** uncategorized ***
+9/2/2016,"ago, couple, months, remember, new_york, road, lady",0.019377329,1888,couple,*** uncategorized ***
+9/22/2016,"couple, awesome, open, weeks, chat",0.016130256,3372,couple,*** uncategorized ***
+8/30/2016,"customer, work, based, mba, competencies, tutoring",0.003412162,115,customer,*** uncategorized ***
+8/31/2016,"customer, verizon, application, sales, brand",0.004834153,150,customer,*** uncategorized ***
+9/21/2016,"customer, verizon, marketing, work, ring",0.011098671,1067,customer,*** uncategorized ***
+9/23/2016,"customer, work, start, program, company, tied, differentiator",0.004065631,133,customer,*** uncategorized ***
+8/30/2016,"instructor, disability, discussion, complete, accommodation, active",0.003166047,128,disability,*** uncategorized ***
+9/15/2016,"discussion, assignments, post, unit",0.015493756,1319,discussion,*** uncategorized ***
+9/13/2016,"discussion, assignments, post, unit",0.01137819,1138,discussion,*** uncategorized ***
+9/16/2016,"discussion, assignments, read, unit, due",0.010776497,910,discussion,*** uncategorized ***
+9/9/2016,"discussion, assignments, unit, post",0.011857669,1102,discussion,*** uncategorized ***
+9/20/2016,"discussion, box, post, assignments, instructor",0.014767194,2171,discussion,*** uncategorized ***
+8/29/2016,"discussion, paper, writing, assignments, due",0.00734829,566,discussion,*** uncategorized ***
+9/14/2016,"discussion, post, assignments, due, unit",0.015079222,1845,discussion,*** uncategorized ***
+9/12/2016,"discussion, post, assignments, unit",0.012270631,1458,discussion,*** uncategorized ***
+9/28/2016,"discussion, assignment, unit, orientation, customer",0.00841864,771,discussion,*** uncategorized ***
+9/29/2016,"discussion, computer, unit, assignments, phoenix",0.010791694,1480,discussion,*** uncategorized ***
+9/22/2016,"discussion, post, unit, instructor",0.005035898,366,discussion,*** uncategorized ***
+10/10/2016,"discussion, assignments, post, unit",0.015260724,1622,discussion,*** uncategorized ***
+10/7/2016,"discussion, assignments, unit, post, expectations",0.017205573,1785,discussion,*** uncategorized ***
+10/13/2016,"discussion, post, assignments, due",0.015653585,1133,discussion,*** uncategorized ***
+10/12/2016,"discussion, post, assignments, unit",0.024736469,2304,discussion,*** uncategorized ***
+10/17/2016,"discussion, post, books, unit",0.01017954,408,discussion,*** uncategorized ***
+10/11/2016,"discussion, post, questions, read, unit, introduction",0.017838704,2266,discussion,*** uncategorized ***
+10/14/2016,"discussion, post, unit, assignments",0.013905022,978,discussion,*** uncategorized ***
+9/1/2016,"documents, form, letter, submit, resume, statement",0.012858314,1182,documents,*** uncategorized ***
+9/23/2016,"documents, letter, recommend, statement, resume",0.015050819,1624,documents,*** uncategorized ***
+9/26/2016,"documents, letter, statement, recommend, resume",0.011785222,1347,documents,*** uncategorized ***
+9/9/2016,"word, documents, issue, weird, save",0.011200876,1033,documents,*** uncategorized ***
+10/13/2016,"documents, process, review, track, supervisor",0.011419354,1151,documents,*** uncategorized ***
+9/16/2016,"drive, hours, house, stop, rain, mom, south",0.013671933,1414,drive,*** uncategorized ***
+10/12/2016,"drive, wrong, funny, fun",0.020232124,2699,drive,*** uncategorized ***
+10/7/2016,"drop, understand, case, reason, withdraw, waste, denied, coast",0.013498473,1410,drop,*** uncategorized ***
+10/14/2016,"drop, participate, assessment, email, garden, withdraw",0.008779587,512,drop,*** uncategorized ***
+8/29/2016,"end, registered, plan, new, balance, drop, surprised",0.015716584,1993,end,*** uncategorized ***
+8/30/2016,"end, full, payment, reason",0.006649736,635,end,*** uncategorized ***
+9/27/2016,"enter, program, present, questions, share, tied",0.004779809,230,enter,*** uncategorized ***
+9/28/2016,"enter, program, information, work, valid, memory, authorization",0.002454973,90,enter,*** uncategorized ***
+10/12/2016,"cold, escalation, game, watch, fight, terrible",0.007662368,503,escalation,*** uncategorized ***
+9/6/2016,"evaluation, security, classes, technology, network",0.008537378,567,evaluation,*** uncategorized ***
+9/20/2016,"evaluation, accounting, transcript, transfer, international, english",0.007352045,528,evaluation,*** uncategorized ***
+9/29/2016,"evaluation, resources, list, discount, international, supply",0.009563183,1039,evaluation,*** uncategorized ***
+9/9/2016,"wonderful, excellent, questions, find, sender, wisconsin",0.00772227,368,excellent,*** uncategorized ***
+10/12/2016,"experience, work, job, healthcare, entry, interview",0.004441303,236,experience,*** uncategorized ***
+9/1/2016,"career, experience, job, work, similar, industry, training",0.009935372,672,experience,*** uncategorized ***
+9/21/2016,"experience, information, company, work, security, network",0.010492972,823,experience,*** uncategorized ***
+9/8/2016,"fall, turn, save, fact, recently",0.005127519,263,fall,*** uncategorized ***
+9/26/2016,"concern, fall, automatically, schedule, automated",0.01096144,2175,fall,*** uncategorized ***
+9/19/2016,"family, marriage, state, therapy, therapist",0.006944617,374,family,*** uncategorized ***
+10/12/2016,"family, marriage, quicker, back, alabama",0.00578374,325,family,*** uncategorized ***
+10/14/2016,"family, marriage, therapy, clients",0.004065938,213,family,*** uncategorized ***
+9/28/2016,"fast, note, loans, masters, promissory, entrance",0.006295794,503,fast,*** uncategorized ***
+10/6/2016,"fast, loan, note, counseling, promissory, entrance",0.009467442,777,fast,*** uncategorized ***
+8/27/2016,"field, online, license, family, therapy",0.015097037,50,field,*** uncategorized ***
+9/26/2016,"field, area, interested, type, career, position, focus",0.007144119,834,field,*** uncategorized ***
+9/10/2016,"field, morning, clock, work, papers",0.013854736,208,field,*** uncategorized ***
+10/10/2016,"pull, file, verify, security, date_of_brith",0.014647952,3216,file,*** uncategorized ***
+8/30/2016,"friend, find, baby, stuff, north, cold",0.015245025,1393,find,*** uncategorized ***
+9/1/2016,"find, list, website, sense, wrong",0.014395122,2557,find,*** uncategorized ***
+9/2/2016,"find, asked, stay, earlier, mass, winter",0.014134714,1420,find,*** uncategorized ***
+9/8/2016,"find, hold, miss, away, picture, cellphone",0.014548243,3295,find,*** uncategorized ***
+9/15/2016,"find, close, miss, left, chat",0.013933691,3221,find,*** uncategorized ***
+9/21/2016,"find, close, run, place, honestly",0.015981016,2808,find,*** uncategorized ***
+9/29/2016,"find, end, figure, best, hoping",0.013162252,3472,find,*** uncategorized ***
+10/6/2016,"find, set, expect, glad, appointment",0.015811781,3608,find,*** uncategorized ***
+8/26/2016,"finish, option, continue, agree, satisfied",0.010314806,1398,finish,*** uncategorized ***
+10/3/2016,"finish, option, hang, explore, truck, farm",0.007326645,1116,finish,*** uncategorized ***
+8/29/2016,"finish, option, list, building",0.008156742,983,finish,*** uncategorized ***
+9/1/2016,"finish, customer, middle, order, agent",0.007785183,659,finish,*** uncategorized ***
+9/8/2016,"finish, left, code, option, physical",0.012411518,2545,finish,*** uncategorized ***
+10/11/2016,"finish, reason, work, current, least",0.006238376,701,finish,*** uncategorized ***
+9/24/2016,"finish, record, website, department",0.017053388,169,finish,*** uncategorized ***
+9/26/2016,"finish, read, wait, move, writing",0.015555598,3393,finish,*** uncategorized ***
+9/28/2016,"finish, move, evening, enjoy, wireless",0.010252476,1700,finish,*** uncategorized ***
+10/17/2016,"finish, assessment, flex, past, button",0.005844966,250,finish,*** uncategorized ***
+9/13/2016,"leadership, focus, work, courses, strategy, curriculum, profit",0.004809378,297,focus,*** uncategorized ***
+8/29/2016,"full, system, run, automated",0.005952131,557,full,*** uncategorized ***
+9/2/2016,"full, part, total, amount, estimate",0.008979471,867,full,*** uncategorized ***
+9/19/2016,"full, offer, accept, admissions, congratulations",0.010720318,2064,full,*** uncategorized ***
+10/4/2016,"full, new, answer, accept, belonging, considered",0.006930061,748,full,*** uncategorized ***
+9/8/2016,"fun, crazy, play, game, dog, funny",0.014713691,1199,fun,*** uncategorized ***
+9/2/2016,"sick, funny, listen, home, bed, implemented",0.009511498,496,funny,*** uncategorized ***
+8/26/2016,"hear, connect, mind, back, excited, complex",0.013436669,1999,hear,*** uncategorized ***
+9/15/2016,"hear, bad, response, switch, body",0.007950366,1344,hear,*** uncategorized ***
+10/1/2016,"hear, free, direct, university, interested",0.012440502,139,hear,*** uncategorized ***
+8/29/2016,"hear, miss, chat, recently, media",0.010301698,2055,hear,*** uncategorized ***
+9/10/2016,"hear, voicemail, move, data, won, office",0.013977748,322,hear,*** uncategorized ***
+9/1/2016,"hear, follow, start, move, listen, app, sell",0.020786814,2520,hear,*** uncategorized ***
+9/8/2016,"hear, end, sense, break, breakn",0.011151619,2465,hear,*** uncategorized ***
+9/9/2016,"hear, best, conversation, mind, apparently, fair",0.011330306,1951,hear,*** uncategorized ***
+9/14/2016,"hear, understand, helpful, decision",0.015174731,3543,hear,*** uncategorized ***
+9/28/2016,"hear, figure, close, mind, wrong, middle",0.016013883,3398,hear,*** uncategorized ***
+9/30/2016,"hear, morning, understand, work, sleep, fight",0.01949503,3718,hear,*** uncategorized ***
+10/4/2016,"hear, process, worry, letter, tax",0.013005234,3352,hear,*** uncategorized ***
+10/6/2016,"hear, understand, change, figure",0.026781834,4998,hear,*** uncategorized ***
+10/10/2016,"hear, forward, move, touch, automatic",0.029819118,5211,hear,*** uncategorized ***
+10/13/2016,"hear, point, back, asked, happy",0.017499293,3589,hear,*** uncategorized ***
+10/15/2016,"hear, hoping, pop, enrollment",0.028032359,180,hear,*** uncategorized ***
+10/15/2016,"turn, hear, reason, comfortable, current",0.012273596,52,hear,*** uncategorized ***
+10/8/2016,"certification, higher, start, back, unit, job",0.010000176,33,higher,*** uncategorized ***
+9/28/2016,"honestly, baby, difficult, better, water",0.007242239,663,honestly,*** uncategorized ***
+10/12/2016,"ready, honestly, part, job, excited, medical",0.017840152,2183,honestly,*** uncategorized ***
+8/26/2016,"house, stuff, live, job, wife, fire, baby",0.013884804,881,house,*** uncategorized ***
+10/6/2016,"house, home, game, buy, sleep, baby",0.021935055,2746,house,*** uncategorized ***
+10/4/2016,"house, approved, sell, stress, invite",0.008011108,579,house,*** uncategorized ***
+10/11/2016,"human, program, services, work, justice, criminal, profit",0.007491882,399,human,*** uncategorized ***
+10/4/2016,"human, management, resource, leadership, profit, remove",0.008049531,568,human,*** uncategorized ***
+9/27/2016,"idea, email, questions, program, appointment, football, forgiveess, existing",0.003443824,127,idea,*** uncategorized ***
+9/8/2016,"helpful, idea, enjoy, earlier, sports",0.005720598,398,idea,*** uncategorized ***
+10/5/2016,"jump, kill, title, play, match",0.002466407,93,jump,*** uncategorized ***
+10/3/2016,"switch, least, terms, customer, quest, breakdown",0.008666514,1236,least,*** uncategorized ***
+8/27/2016,"list, school, state, college, level, loans, terms",0.015319497,68,list,*** uncategorized ***
+10/8/2016,"list, won, next, home, public, mail",0.018761402,206,list,*** uncategorized ***
+9/28/2016,"live, life, child, family, culture",0.007561456,887,live,*** uncategorized ***
+10/1/2016,"live, work, learning, school, classroom, frame, teaching",0.010956544,46,live,*** uncategorized ***
+10/4/2016,"live, read, drop, left, boy, girl, eat",0.014503097,2410,live,*** uncategorized ***
+9/21/2016,"minutes, morning, box, hours, tonight",0.020633605,3803,minutes,*** uncategorized ***
+9/28/2016,"minutes, won, open, computer, tonight, internet",0.016829476,2748,minutes,*** uncategorized ***
+9/29/2016,"minutes, ready, wonderful, undergrad",0.01101355,2662,minutes,*** uncategorized ***
+10/13/2016,"minutes, hours, soon, text, mac, heart, sweet",0.009324424,1739,minutes,*** uncategorized ***
+8/31/2016,"miss, finish, hang, press, cancel",0.015322269,1980,miss,*** uncategorized ***
+9/27/2016,"miss, stuff, head, away, birthday, town",0.019883771,2577,miss,*** uncategorized ***
+10/4/2016,"miss, sense, spring, winter, fantastic, game",0.006844008,707,miss,*** uncategorized ***
+10/7/2016,"miss, back, common, excellent, cellphone",0.012602907,1881,miss,*** uncategorized ***
+9/19/2016,"moment, record, desk, modify",0.010186557,2618,moment,*** uncategorized ***
+8/26/2016,"moment, voice, longer, maximum, cellphone",0.016566644,1447,moment,*** uncategorized ***
+8/27/2016,"moment, work, system, program, found, best",0.028370601,150,moment,*** uncategorized ***
+9/3/2016,"moment, services, hold, connect, found",0.040701724,182,moment,*** uncategorized ***
+9/10/2016,"moment, sounds, next, note, sign, evening",0.027870497,514,moment,*** uncategorized ***
+10/10/2016,"moment, record, hang, press, representative",0.025893669,4167,moment,*** uncategorized ***
+8/30/2016,"months, throw, program, work, ideal, bsn",0.00287014,90,months,*** uncategorized ***
+9/24/2016,"months, start, counseling, quarter, license, family",0.008383629,50,months,*** uncategorized ***
+8/26/2016,"morning, play, fun, crazy, husband, mom",0.029146807,1737,morning,*** uncategorized ***
+9/1/2016,"morning, won, ready, computer, tonight",0.01647171,2591,morning,*** uncategorized ***
+9/8/2016,"morning, hours, afternoon, schedule, clock, appointment",0.021996229,3405,morning,*** uncategorized ***
+9/20/2016,"morning, hours, office, home, tonight, clock, afternoon",0.032576436,5243,morning,*** uncategorized ***
+9/22/2016,"morning, ready, close, remember, weird",0.014921842,3046,morning,*** uncategorized ***
+9/23/2016,"morning, home, miss, minutes, tonight",0.024017486,3951,morning,*** uncategorized ***
+9/24/2016,"morning, hear, back, email, hard, registered",0.037181323,268,morning,*** uncategorized ***
+10/10/2016,"morning, afternoon, late, ago, clock",0.014358733,4099,morning,*** uncategorized ***
+10/17/2016,"morning, drop, issue, email, extension, manual, boss",0.021562713,1632,morning,*** uncategorized ***
+8/26/2016,"move, data, quick, run, closer, putting",0.009202727,938,move,*** uncategorized ***
+9/2/2016,"move, forward, new, complete, accomplish",0.011537377,1419,move,*** uncategorized ***
+9/29/2016,"move, forward, system, prior, survey",0.014677829,3052,move,*** uncategorized ***
+9/22/2016,"move, point, plan, touch, glad",0.019192113,3400,move,*** uncategorized ***
+10/5/2016,"new, live, evening, data, drive",0.012416043,2757,new,*** uncategorized ***
+10/13/2016,"new, issue, file, pull, technical, remove",0.015890758,2295,new,*** uncategorized ***
+10/7/2016,"office, set, business, payment, voicemail",0.030341942,4452,office,*** uncategorized ***
+9/27/2016,"contact, office, hear, information, morning, close",0.02368923,3924,office,*** uncategorized ***
+9/28/2016,"office, morning, return, confirm",0.017206495,3837,office,*** uncategorized ***
+9/27/2016,"paper, assignments, writing, classes, professor, clean, feedback",0.006277474,381,paper,*** uncategorized ***
+10/14/2016,"paper, writing, assessment, format, straight",0.006408435,500,paper,*** uncategorized ***
+10/3/2016,"paper, writing, learning, bit, professor, resources",0.007203753,748,paper,*** uncategorized ***
+10/11/2016,"paper, writing, work, weeks, feedback, format",0.011337059,1042,paper,*** uncategorized ***
+8/31/2016,"release, paper, writing, word, memory, microsoft, outlook",0.004132914,134,paper,*** uncategorized ***
+9/29/2016,"enjoy, party, new_york, trouble, verizon",0.011274979,1630,party,*** uncategorized ***
+10/14/2016,"imagine, party, copy, source",0.004418995,165,party,*** uncategorized ***
+9/3/2016,"pass, degree, program, save, total, discuss",0.027522634,116,pass,*** uncategorized ***
+9/26/2016,"meet, picture, pretty, facebook, staff",0.007775153,719,picture,*** uncategorized ***
+9/19/2016,"place, asked, wrong, hold, party, bar, clean",0.014663164,2672,place,*** uncategorized ***
+10/3/2016,"place, mentioned, reference, country",0.003176723,79,place,*** uncategorized ***
+10/14/2016,"place, student, work, internship, practicum, international",0.004853475,213,place,*** uncategorized ***
+9/2/2016,"plan, registered, payment, academic, registration",0.013353243,1192,plan,*** uncategorized ***
+9/19/2016,"plan, registered, payment, classes, automated",0.018077116,3612,plan,*** uncategorized ***
+9/29/2016,"north, plan, work, management, childhood, procrastinator, tool",0.003897879,152,plan,*** uncategorized ***
+8/31/2016,"play, back, stuff, kaplan, power, carly",0.006935532,284,play,*** uncategorized ***
+9/2/2016,"boy, play, home, type, mother, music",0.00651331,360,play,*** uncategorized ***
+10/10/2016,"play, team, start, game, season, food",0.012078027,1351,play,*** uncategorized ***
+9/26/2016,"play, watch, game, weekend, vikings",0.012935708,1653,play,*** uncategorized ***
+9/15/2016,"play, watch, money, pick, game, lovely",0.0143781,1246,play,*** uncategorized ***
+10/3/2016,"play, watch, road, game",0.013028714,1946,play,*** uncategorized ***
+10/14/2016,"play, game, team, watch, score, season",0.007108499,523,play,*** uncategorized ***
+10/13/2016,"play, team, watch, back, sports, player",0.008002012,592,play,*** uncategorized ***
+8/29/2016,"point, experience, field, support, related",0.005705597,498,point,*** uncategorized ***
+9/7/2016,"point, back, referral, team, profit, remote, canada",0.009024269,439,point,*** uncategorized ***
+8/31/2016,"point, work, questions, meeting, chat, quest, conversation, accident",0.003614197,69,point,*** uncategorized ***
+9/16/2016,"point, stuff, back, work, function, memory, network, size",0.003956064,150,point,*** uncategorized ***
+9/26/2016,"point, understand, excellent, situation",0.009461919,1849,point,*** uncategorized ***
+9/29/2016,"point, gpa, grade, option, simply, conference, legal",0.008721274,740,point,*** uncategorized ***
+8/31/2016,"improve, practice, care, work, quality, rid, outcomes",0.003093503,70,practice,*** uncategorized ***
+9/1/2016,"press, hang, option, enter, pound, cancel",0.015613436,1411,press,*** uncategorized ***
+9/19/2016,"press, hang, technical, assistance, dial",0.022767378,3388,press,*** uncategorized ***
+8/29/2016,"pretty, reason, honestly, part, bad, hard",0.013119084,2087,pretty,*** uncategorized ***
+9/1/2016,"pretty, crazy, live, run, drive, water, pain",0.017923515,1313,pretty,*** uncategorized ***
+10/4/2016,"pretty, drive, stuff, kids, baby, lady, growing",0.01598846,2445,pretty,*** uncategorized ***
+9/10/2016,"pretty, awesome, problem, basically, area",0.007998363,82,pretty,*** uncategorized ***
+9/12/2016,"pretty, bit, basically, point, military, benefits",0.014438439,3296,pretty,*** uncategorized ***
+9/16/2016,"pretty, stuff, morning, work, tonight, crazy, late",0.027422114,3233,pretty,*** uncategorized ***
+9/19/2016,"pretty, morning, run, play, game, lunch, fun, shot",0.025043553,3014,pretty,*** uncategorized ***
+9/17/2016,"pretty, back, office, point, center, close",0.022056566,229,pretty,*** uncategorized ***
+9/20/2016,"pretty, point, sort, reference, dot",0.010070646,2303,pretty,*** uncategorized ***
+9/28/2016,"pretty, ahead, soon, end, curious",0.005323965,435,pretty,*** uncategorized ***
+8/29/2016,"process, move, forward, frame",0.00843631,1196,process,*** uncategorized ***
+9/16/2016,"process, admissions, application, review, automated",0.021681039,3061,process,*** uncategorized ***
+9/8/2016,"process, next, move, point, touch, update",0.020811941,3742,process,*** uncategorized ***
+10/10/2016,"process, documents, review, wait, letter, statement",0.020549907,3289,process,*** uncategorized ***
+8/30/2016,"public, health, program, healthcare, administration",0.011420236,778,public,*** uncategorized ***
+9/10/2016,"public, point, pick, team, notice",0.008634597,39,public,*** uncategorized ***
+9/22/2016,"public, wonderful, evening, kaplan, apologize",0.007781256,1318,public,*** uncategorized ***
+9/9/2016,"quick, real, pull, school, normal, details",0.011492975,1664,quick,*** uncategorized ***
+9/15/2016,"quick, pull, real, minutes, rolling",0.017532509,2836,quick,*** uncategorized ***
+10/5/2016,"quick, pretty, worry, real, news",0.018143407,3741,quick,*** uncategorized ***
+10/10/2016,"quick, issue, case, support, technical",0.023318094,4998,quick,*** uncategorized ***
+8/26/2016,"read, discussion, writing, assignments, unit",0.014520603,1218,read,*** uncategorized ***
+9/21/2016,"read, discussion, writing, assignments, post",0.015604813,1857,read,*** uncategorized ***
+10/14/2016,"read, live, disability, doctor, new_jersey, specialist, die",0.007325924,447,read,*** uncategorized ***
+10/5/2016,"reading, writing, assessment, pass, score",0.009395234,1274,reading,*** uncategorized ***
+8/31/2016,"receive, understand, chance, total, mail",0.010517044,2159,receive,*** uncategorized ***
+9/8/2016,"receive, reading, review, confirm, withdraw, tele",0.007999399,1132,receive,*** uncategorized ***
+10/3/2016,"receive, documents, close, letter, statement",0.013680286,3005,receive,*** uncategorized ***
+8/26/2016,"recommend, letter, questions, supervisor, statement",0.015728419,962,recommend,*** uncategorized ***
+8/31/2016,"recommend, letter, apply, reference, expand",0.007886344,463,recommend,*** uncategorized ***
+8/30/2016,"listen, remember, questions, start, framework, super, app",0.007054259,227,remember,*** uncategorized ***
+9/8/2016,"remember, learning, best, search, bet, western",0.010651765,1457,remember,*** uncategorized ***
+9/9/2016,"expect, remember, funny, work, disconnected, dial, increase",0.0131986,1035,remember,*** uncategorized ***
+9/10/2016,"remember, mail, live, eat, chance",0.009230865,147,remember,*** uncategorized ***
+9/28/2016,"reason, remember, asked, paper, explain",0.012441385,2089,remember,*** uncategorized ***
+10/4/2016,"remember, ago, asked, deal, forget, vacation",0.011014374,1868,remember,*** uncategorized ***
+8/27/2016,"request, admissions, email, transcript, evaluation, additional",0.025507628,151,request,*** uncategorized ***
+9/10/2016,"request, current, admissions, process, discussion",0.011604141,112,request,*** uncategorized ***
+9/3/2016,"technical, reset, password, application, support",0.033561575,109,reset,*** uncategorized ***
+8/26/2016,"response, point, stuff, focus, written, conversation, promotion",0.011082382,599,response,*** uncategorized ***
+9/2/2016,"response, search, find, site, results",0.008506097,331,response,*** uncategorized ***
+10/8/2016,"sense, management, project, work, design",0.009617171,55,sense,*** uncategorized ***
+10/15/2016,"sense, home, nursing, computer",0.015835441,52,sense,*** uncategorized ***
+9/22/2016,"billing, ship, buy, click, pain, communication",0.005757183,460,ship,*** uncategorized ***
+9/28/2016,"report, skills, work, results, elevator, present",0.004377795,245,skills,*** uncategorized ***
+10/7/2016,"sort, team, hear, work, feedback, listen, fantastic",0.009643988,556,sort,*** uncategorized ***
+9/6/2016,"level, sort, awesome, bit, senior, scenario, draft, michigan",0.005637345,232,sort,*** uncategorized ***
+10/13/2016,"sort, level, terms, sense, statistics, network, security",0.006564235,404,sort,*** uncategorized ***
+8/29/2016,"glad, sports, deal, jump, bigger",0.008422957,798,sports,*** uncategorized ***
+8/27/2016,"option, support, counselor, enrollment, team, learners",0.021108946,93,support,*** uncategorized ***
+9/17/2016,"system, automated, automatic, file, important",0.024080672,230,system,*** uncategorized ***
+9/2/2016,"system, automatically, automated, mentioned, immediately",0.009430635,777,system,*** uncategorized ***
+10/4/2016,"system, total, automatically, catch, automated",0.015891606,2805,system,*** uncategorized ***
+9/26/2016,"system, place, experience, find, biggest, ability",0.005870912,401,system,*** uncategorized ***
+10/6/2016,"system, voice, full, accept, belonging, enter",0.020568796,2079,system,*** uncategorized ***
+10/7/2016,"system, automatically, central, clock, automated",0.015517054,2649,system,*** uncategorized ***
+10/8/2016,"system, terms, start, grades, reason",0.010175714,57,system,*** uncategorized ***
+8/30/2016,"team, sort, understand, meet, feedback, instance, frustrating, barely",0.007619923,303,team,*** uncategorized ***
+9/14/2016,"team, update, change, meeting, escalate, app",0.014608555,1874,team,*** uncategorized ***
+9/1/2016,"team, care, code, save, remote, act",0.013009936,1884,team,*** uncategorized ***
+9/23/2016,"team, hear, real, program, scenario, approach, conversation",0.005524343,285,team,*** uncategorized ***
+9/8/2016,"team, move, back, referral, fire, profit",0.006461567,342,team,*** uncategorized ***
+10/8/2016,"team, advisor, advising, next, double",0.032037978,218,team,*** uncategorized ***
+10/5/2016,"team, bigger, game, food, movie, budget",0.004231957,187,team,*** uncategorized ***
+10/13/2016,"team, bit, start, stuff, sleep, super, lawyer, picture",0.017489907,1339,team,*** uncategorized ***
+10/1/2016,"terms, education, program, instructional, design, sort",0.009130361,20,terms,*** uncategorized ***
+9/27/2016,"terms, program, research, residency, dissertation, cry",0.004285742,251,terms,*** uncategorized ***
+9/15/2016,"terms, run, order, direct, situation",0.008156235,956,terms,*** uncategorized ***
+10/14/2016,"terms, military, tuition, scholarship, discount, reimbursement",0.009354045,759,terms,*** uncategorized ***
+8/30/2016,"test, pass, side, pain, fail, remove, kick",0.009043763,543,test,*** uncategorized ***
+9/12/2016,"test, position, change, bit, training, organization",0.009607423,1128,test,*** uncategorized ***
+9/15/2016,"meeting, total, house, walk, crazy, bank",0.019648393,2009,total,*** uncategorized ***
+8/29/2016,"understand, set, past, reason, zone",0.005314637,268,understand,*** uncategorized ***
+9/6/2016,"understand, live, state, drive, english, country",0.02012146,2407,understand,*** uncategorized ***
+9/8/2016,"understand, area, list, longer, dial",0.006546275,529,understand,*** uncategorized ***
+9/23/2016,"understand, drop, post, discussion, grade, tax",0.015795888,2593,understand,*** uncategorized ***
+9/29/2016,"understand, chance, care, ago, catch, bad",0.015140677,4283,understand,*** uncategorized ***
+10/4/2016,"understand, big, basically, couple, coast, east, rid, odd",0.007048574,415,understand,*** uncategorized ***
+10/12/2016,"update, email, team, questions, purchase, undergrad, materials",0.007292183,251,update,*** uncategorized ***
+8/31/2016,"update, team, application, email, feedback, motivation",0.00439133,90,update,*** uncategorized ***
+9/28/2016,"update, record, review, check, representative, verification, monitor",0.012051147,1202,update,*** uncategorized ***
+10/4/2016,"update, documents, review, statement, resume",0.015255751,2204,update,*** uncategorized ***
+8/30/2016,"watch, start, application, point, referral, valid, donate",0.002971133,91,watch,*** uncategorized ***
+9/21/2016,"watch, crazy, game, lunch, born",0.012086107,1293,watch,*** uncategorized ***
+9/30/2016,"watch, play, stuff, start, water, carly",0.009011076,958,watch,*** uncategorized ***
+8/27/2016,"weekend, problem, computer, mail",0.020016484,116,weekend,*** uncategorized ***
+9/6/2016,"weekend, stuff, wait, pretty, voicemail, weird, holiday",0.039623507,3925,weekend,*** uncategorized ***
+9/16/2016,"weird, start, work, team, strayer, sold, water",0.008697234,570,weird,*** uncategorized ***
+9/23/2016,"weird, watch, funny, switch, dial, goodness",0.016389072,2460,weird,*** uncategorized ***
+9/27/2016,"funny, weird, vote, hear, president",0.005654605,410,weird,*** uncategorized ***
+10/11/2016,"side, weird, back, total, realize, upset",0.012428279,1829,weird,*** uncategorized ***
+9/29/2016,"world, business, work, side, traditional, corporate",0.003582845,132,world,*** uncategorized ***
+10/17/2016,"world, start, services, part, tired, visit, store",0.00723989,210,world,*** uncategorized ***
+9/1/2016,"worry, based, touch, better, catch",0.010994778,1789,worry,*** uncategorized ***
+9/2/2016,"medical, wrong, drop, problem, withdraw, representative",0.012720707,851,wrong,*** uncategorized ***
+9/27/2016,"development, wrong, text, courses, web",0.008104232,565,wrong,*** uncategorized ***

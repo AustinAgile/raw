@@ -1,0 +1,1922 @@
+Date,Words,Prevalence,Count,MainTopic,TopTopic
+8/30/2016,"accept, admissions, complete, offer, promissory, note, registered",0.022540557,2230,accept,accept
+9/15/2016,"accept, admissions, letter, review, admitted",0.019313057,2046,accept,accept
+8/31/2016,"accept, admissions, offer, registered",0.012641193,1635,accept,accept
+9/9/2016,"accept, admissions, offer, registered, admitted",0.019204388,2035,accept,accept
+9/1/2016,"accept, registered, offer, admissions, automated, admitted",0.015808962,2039,accept,accept
+9/2/2016,"agree, degree, job, basically, hospital, promotion",0.007364245,409,agree,accept
+10/12/2016,"approved, referral, work, email, section, legal",0.005311636,168,approved,accept
+9/23/2016,"accept, admissions, offer, admitted, automated",0.016111295,2432,accept,accept
+9/17/2016,"accept, sit, mailbox, prefer",0.014210787,216,accept,accept
+9/19/2016,"hard, agree, switch, fix, goodness, cold",0.003549354,118,agree,accept
+9/28/2016,"accept, offer, full, send, mailbox",0.019705187,2532,accept,accept
+10/10/2016,"accept, offer, order, full, adjust",0.012379863,2532,accept,accept
+9/30/2016,"accept, admissions, offer, registered",0.016295355,2296,accept,accept
+9/30/2016,"agree, start, assessment, school, remote, frustrating, communication",0.004679377,134,agree,accept
+9/30/2016,"approved, handle, board, understand, rid, analysis",0.007179847,342,approved,accept
+10/1/2016,"accept, required, education, courses, leadership, lead",0.011491262,19,accept,accept
+8/26/2016,"application, complete, steps, admissions, waive",0.028752377,2251,application,enroll
+8/29/2016,"application, log, password, submit, user",0.027425806,2277,application,enroll
+9/16/2016,"transfer, courses, evaluation, transcript, electives, official",0.012893955,1047,transfer,enroll
+8/29/2016,"transfer, courses, general, evaluation, electives, math",0.010513436,1064,transfer,enroll
+8/26/2016,"transfer, courses, program, evaluation, electives, match",0.013748935,1050,transfer,enroll
+8/31/2016,"application, log, password, hours, user, reset",0.025573553,2002,application,enroll
+8/31/2016,"transcript, application, request, form, official",0.030587305,2866,transcript,enroll
+9/7/2016,"transcript, application, request, form, official",0.04249559,4081,transcript,enroll
+10/1/2016,"transcript, request, email, form, heading",0.025352255,114,transcript,enroll
+8/30/2016,"transcript, request, form, official",0.023336432,2420,transcript,enroll
+8/29/2016,"transcript, request, form, official",0.020756211,1995,transcript,enroll
+9/22/2016,"transcript, request, form, official",0.018184396,2075,transcript,enroll
+9/19/2016,"transcript, request, form, official",0.024550757,2983,transcript,enroll
+9/8/2016,"transcript, request, form, official",0.026029369,2740,transcript,enroll
+9/2/2016,"transcript, request, form, official, fax",0.022557659,1824,transcript,enroll
+9/15/2016,"transcript, request, form, official, fax",0.019395332,2043,transcript,enroll
+9/30/2016,"transcript, request, form, receive, fax",0.020091976,2422,transcript,enroll
+9/21/2016,"transcript, request, form, school, enter",0.021141437,2623,transcript,enroll
+8/26/2016,"transcript, request, form, school, official",0.025695533,1697,transcript,enroll
+9/9/2016,"transcript, request, form, school, official, fax",0.020934715,2117,transcript,enroll
+9/1/2016,"transcript, request, official, evaluation",0.017246222,1816,transcript,enroll
+9/23/2016,"transcript, request, school, official, evaluation",0.018772923,2053,transcript,enroll
+9/13/2016,"application, transcript, request, form",0.029783545,3895,application,enroll
+9/12/2016,"application, transcript, request, form",0.027167252,4029,application,enroll
+9/14/2016,"application, transcript, request, send, form",0.034795929,3789,application,enroll
+8/26/2016,"enrollment, services, program, counselor, respond",0.025139312,2604,enrollment,enroll
+8/27/2016,"transcript, accept, next, send, fill",0.023625605,133,transcript,enroll
+9/30/2016,"enrollment, academic, team, advisor, advising",0.014007025,2543,enrollment,enroll
+8/27/2016,"submit, sense, contact, issues",0.019952249,70,submit,enroll
+8/27/2016,"transfer, complete, education, transcript, general, evaluation",0.014809341,44,transfer,enroll
+8/27/2016,"application, check, chance, steps, voice",0.026715909,146,application,enroll
+9/19/2016,"enrollment, hold, certificate, line, verify, advising",0.038732389,4993,enrollment,enroll
+9/16/2016,"enrollment, hold, services, line, assist, voicemail",0.053133517,4493,enrollment,enroll
+9/20/2016,"enrollment, hold, services, line, verify, moment",0.053967615,5914,enrollment,enroll
+9/12/2016,"enrollment, questions, connect, counselor, spell",0.026964106,4492,enrollment,enroll
+8/30/2016,"transfer, list, wrong, drop",0.00900446,1200,transfer,enroll
+9/26/2016,"enrollment, connect, counselor, moment",0.029889933,4391,enrollment,enroll
+9/23/2016,"enrollment, services, connect, counselor",0.028097066,4263,enrollment,enroll
+8/31/2016,"enrollment, services, line, moment, counselor",0.040147381,3519,enrollment,enroll
+8/30/2016,"military, benefit, program, discount, midnight",0.005247612,308,military,enroll
+9/20/2016,"military, benefits, school, program, veteran, mobile",0.00524468,350,military,enroll
+9/2/2016,"military, courses, email, quarter, discount, benefits, standard",0.008490729,322,military,enroll
+9/26/2016,"application, admissions, complete, steps, submit",0.025260395,3603,application,enroll
+9/1/2016,"application, complete, start, form, waive, status, fee",0.029302823,2816,application,enroll
+9/30/2016,"application, complete, start, submit, assessment",0.024920009,3182,application,enroll
+9/8/2016,"application, complete, submit, admissions, waive, statement",0.026638647,2886,application,enroll
+10/1/2016,"application, log, ahead, email, password, stop",0.05317923,190,application,enroll
+9/28/2016,"application, log, complete, click, password",0.024153925,2515,application,enroll
+9/27/2016,"application, log, submit, click",0.030813856,3136,application,enroll
+9/9/2016,"application, process, program, steps, waive, fee",0.02251367,2568,application,enroll
+9/22/2016,"application, start, complete, admissions, steps, orientation",0.027125081,3392,application,enroll
+9/20/2016,"application, start, complete, process, steps, waive",0.027469255,4073,application,enroll
+9/21/2016,"application, start, email, process, waive, fee, fill",0.020823889,2926,application,enroll
+9/23/2016,"application, start, form, fill, waive",0.022499537,3045,application,enroll
+8/30/2016,"application, start, steps, complete, submit, waive",0.028127893,3434,application,enroll
+9/29/2016,"application, transcript, request, form, official",0.029907537,3800,application,enroll
+8/31/2016,"application, work, back, move, wireless, clean, discontinued, router",0.005424081,106,application,enroll
+8/31/2016,"scholarship, apply, application, work, approved, advantage",0.008008056,394,scholarship,enroll
+10/4/2016,"scholarship, work, apply, application, wireless, suggest, fill",0.006130133,370,scholarship,enroll
+9/28/2016,"enrollment, line, hold, moment, advising",0.042376398,4938,enrollment,enroll
+9/1/2016,"scholarship, apply, discount, marketing, reimbursement",0.010947192,874,scholarship,enroll
+9/15/2016,"scholarship, apply, tuition, discount, reimbursement",0.010779706,871,scholarship,enroll
+9/23/2016,"scholarship, program, apply, tuition, reimbursement, discount",0.008487651,638,scholarship,enroll
+9/2/2016,"application, complete, start, submit, waive",0.030469076,2498,application,enroll
+10/11/2016,"military, discount, program, benefits, task",0.00525232,341,military,enroll
+9/27/2016,"application, program, start, fee, lady, waive",0.006656287,376,application,enroll
+9/16/2016,"application, start, complete, questions, score, date_of_brith, waive",0.005671616,244,application,enroll
+9/6/2016,"application, start, log, email, password, waive, user",0.029087054,3821,application,enroll
+9/3/2016,"transcript, point, complete, process, choice, request",0.009182509,25,transcript,enroll
+9/3/2016,"transfer, problem, deal, minutes",0.02374169,162,transfer,enroll
+9/3/2016,"application, scholarship, excellent, submit",0.031864243,110,application,enroll
+9/28/2016,"military, benefits, security, part, army",0.006781898,491,military,enroll
+10/5/2016,"military, security, criminal, justice",0.007530977,464,military,enroll
+9/14/2016,"military, work, benefits, start, security, network",0.00671551,358,military,enroll
+9/3/2016,"transcript, admissions, official, requirements, evaluation",0.02492148,72,transcript,enroll
+9/8/2016,"transfer, military, benefits, discount, duty",0.009303331,980,transfer,enroll
+9/9/2016,"military, benefits, form, support, force, certified",0.005682578,224,military,enroll
+9/9/2016,"apologize, transfer, work, total, huge, surgery",0.00632167,192,transfer,enroll
+9/10/2016,"apply, application, include, specialization, united",0.006982741,35,apply,enroll
+9/10/2016,"transcript, application, complete, registered, official, submit",0.011737713,110,transcript,enroll
+9/10/2016,"transfer, rolled, education, psychology, specific",0.016309951,253,transfer,enroll
+9/13/2016,"military, benefits, sort, discount, veteran",0.006918713,485,military,enroll
+9/21/2016,"scholarship, back, start, program, bookstore, download, map",0.005563421,196,scholarship,enroll
+9/14/2016,"enrollment, counselor, best, better, convenience, apologize",0.01666485,3116,enrollment,enroll
+9/14/2016,"apply, scholarship, offer, discount, extended",0.011684643,1492,apply,enroll
+10/4/2016,"application, complete, admissions, submit, promissory",0.026646358,4032,application,enroll
+9/15/2016,"application, complete, log, start, password, steps",0.026478417,2849,application,enroll
+10/3/2016,"application, complete, start, admissions, update, steps",0.026918026,4356,application,enroll
+9/16/2016,"application, log, click, complete, password, tori",0.020610761,1809,application,enroll
+9/19/2016,"application, log, click, submit, password, user",0.028233008,3236,application,enroll
+10/6/2016,"application, log, complete, start, password, response, user",0.023303434,3155,application,enroll
+10/10/2016,"application, log, start, steps, password, user",0.019006446,3090,application,enroll
+10/14/2016,"transcript, request, form, application, enter",0.015005141,1310,transcript,enroll
+10/17/2016,"transcript, request, form, documents",0.023362446,1058,transcript,enroll
+10/5/2016,"application, start, complete, steps, waive, user",0.019334836,3035,application,enroll
+10/11/2016,"application, transcript, request, complete, form",0.032408303,3922,application,enroll
+10/13/2016,"application, transcript, request, form, official",0.027180725,2654,application,enroll
+10/12/2016,"application, transcript, request, start, official",0.031583641,3573,application,enroll
+10/7/2016,"application, transcript, request, start, official",0.027621671,3515,application,enroll
+9/15/2016,"transfer, hold, excellent, continue",0.012667923,2441,transfer,enroll
+9/17/2016,"transcript, gpa, back, school, department, form",0.015857449,65,transcript,enroll
+9/17/2016,"application, sounds, ahead, mentioned",0.025712221,339,application,enroll
+9/19/2016,"transfer, finish, change, questions, evaluation",0.017779788,4136,transfer,enroll
+9/24/2016,"transfer, support, chat, issues, technical",0.019407735,170,transfer,enroll
+9/24/2016,"enrollment, moment, sounds, return",0.030217972,314,enrollment,enroll
+9/24/2016,"application, transcript, send, form, worry",0.018047602,94,application,enroll
+9/26/2016,"transfer, evaluation, official, transcript, unofficial",0.007801877,653,transfer,enroll
+9/28/2016,"transcript, email, send, request, official, form",0.028388357,3443,transcript,enroll
+9/26/2016,"transcript, request, form, fill, fax",0.017970608,2398,transcript,enroll
+9/27/2016,"scholarship, work, apply, pop, ran, blocker",0.00560741,325,scholarship,enroll
+9/27/2016,"military, criminal, justice, benefits",0.007440795,358,military,enroll
+10/14/2016,"enrollment, hold, line, moment, verify",0.048768872,4506,enrollment,enroll
+10/13/2016,"enrollment, moment, connect, counselor, record, verify",0.034562989,3851,enrollment,enroll
+10/12/2016,"enrollment, services, hold, moment, verify",0.038666983,5014,enrollment,enroll
+9/29/2016,"transfer, general, math, english, east, promotion",0.008052817,557,transfer,enroll
+10/11/2016,"enrollment, services, connect, counselor, afternoon",0.026310783,5051,enrollment,enroll
+10/10/2016,"enrollment, services, evaluation, counselor, member",0.018540455,4492,enrollment,enroll
+9/29/2016,"transfer, services, enrollment, counselor, longer",0.021269282,4351,transfer,enroll
+9/30/2016,"apply, new, excited, campus, blue",0.0083106,1016,apply,enroll
+9/30/2016,"confirm, military, experience, potentially, zip, hospital",0.006179365,341,military,enroll
+10/1/2016,"transfer, program, central, assessment, standard",0.018727902,79,transfer,enroll
+10/8/2016,"transcript, official, school, gpa, graduate",0.01960279,108,transcript,enroll
+10/4/2016,"transcript, request, form, official",0.019071732,2817,transcript,enroll
+10/3/2016,"transcript, request, form, official",0.020647587,3160,transcript,enroll
+10/5/2016,"transcript, request, form, school, official",0.019495236,2901,transcript,enroll
+10/13/2016,"scholarship, cost, quarter, tuition, discount",0.009529435,735,scholarship,enroll
+10/3/2016,"military, security, benefits, technology",0.006219593,504,military,enroll
+10/4/2016,"military, discount, benefits, eligible, customer",0.006501039,429,military,enroll
+10/5/2016,"scholarship, access, early, discount, checkin",0.013866083,1876,scholarship,enroll
+10/5/2016,"transfer, soon, box, chance",0.015188223,3747,transfer,enroll
+10/5/2016,"enrollment, program, understand, counselor, analysis, gmail",0.014558922,3157,enrollment,enroll
+10/7/2016,"military, wrong, benefits, wait, chapter",0.011299688,1235,military,enroll
+10/8/2016,"application, stuff, fill, process, age, waive",0.021576798,68,application,enroll
+10/13/2016,"transfer, hold, line, find, operator",0.022240213,3415,transfer,enroll
+10/10/2016,"transfer, line, hold, minutes, spell, wrong",0.023082527,4782,transfer,enroll
+10/17/2016,"application, complete, admissions, process, fee",0.017086765,1380,application,enroll
+10/14/2016,"application, start, process, complete, admissions, waive",0.023811895,2865,application,enroll
+10/15/2016,"application, complete, class, start, familiar, weeks",0.025279642,129,application,enroll
+10/15/2016,"transcript, program, transfer, flex, grade, honestly",0.021639551,51,transcript,enroll
+10/15/2016,"transcript, link, documents, questions, official",0.030078585,99,transcript,enroll
+10/17/2016,"transfer, transcript, program, evaluation, official",0.008570606,361,transfer,enroll
+8/27/2016,"assistance, pretty, work, place, awesome",0.01749351,58,assistance,assistance
+8/31/2016,"assistance, academic, next, learners, advisor, advising",0.014611608,2130,assistance,assistance
+9/7/2016,"click, log, box, pop, button, screen",0.026944589,3204,click,contact
+9/8/2016,"click, log, computer, password, button",0.018785311,2036,click,contact
+8/31/2016,"click, skills, personal, link, inventory, button",0.011466561,935,click,contact
+8/26/2016,"click, link, open, student, button, bottom, color",0.015353886,1024,click,contact
+10/3/2016,"click, log, assessment, complete, password, button",0.017369813,2484,click,contact
+9/13/2016,"click, log, complete, assessment, score, inventory",0.01912093,2376,click,contact
+9/12/2016,"click, log, computer, password, reset",0.020530363,2983,click,contact
+10/5/2016,"click, log, link, orientation, campus, center",0.018278236,2213,click,contact
+10/4/2016,"click, log, orientation, complete, unit",0.020872861,2699,click,contact
+9/26/2016,"click, log, password, computer, button",0.011338118,1221,click,contact
+9/14/2016,"letter, recommend, statement, resume",0.011274077,1229,letter,contact
+10/12/2016,"message, back, full, tone, unavailable, modify",0.064529778,3253,message,contact
+10/14/2016,"message, back, miss, moment, unavailable, unable, dial",0.067772557,3188,message,contact
+10/13/2016,"message, back, press, soon, unavailable, tone",0.064933461,2702,message,contact
+10/11/2016,"message, reach, back, record, canada",0.090380583,4667,message,contact
+10/6/2016,"message, reach, press, record, mailbox",0.071726559,3807,message,contact
+10/15/2016,"message, return, opportunity, moment, spend",0.030005346,114,message,contact
+10/17/2016,"message, tone, moment, modify, branch",0.044900733,1504,message,contact
+9/28/2016,"message, miss, moment, modify, port, jules",0.043386791,2935,message,contact
+8/26/2016,"message, press, record, return, tone, voicemail",0.046670777,1647,message,contact
+8/27/2016,"message, reach, records, return",0.04169949,150,message,contact
+9/30/2016,"message, record, press, mailbox, tone",0.067930524,3050,message,contact
+10/1/2016,"message, soon, send, full, miss",0.046313263,152,message,contact
+9/29/2016,"message, tone, return, moment, unavailable",0.046280366,3126,message,contact
+9/30/2016,"note, fast, loans, masters, promissory, entrance",0.008435868,623,note,contact
+8/31/2016,"note, loans, counseling, masters, promissory, entrance",0.010316264,549,note,contact
+8/29/2016,"note, promissory, fast, masters, entrance, agreement",0.012410078,721,note,contact
+9/6/2016,"send, email, transcript, request, form, mail",0.055112026,4542,send,contact
+9/20/2016,"email, send, transcript, request, form",0.045147816,5628,email,contact
+9/10/2016,"send, email, contact, list",0.02679157,370,send,contact
+10/7/2016,"email, send, check, documents, statement",0.050934549,5356,email,contact
+10/5/2016,"email, send, check, receive, mail",0.038876373,5780,email,contact
+9/2/2016,"email, send, documents, recommend, resume",0.0382141,3169,email,contact
+8/30/2016,"email, send, information, check, gmail, mail",0.037738207,4256,email,contact
+9/1/2016,"email, send, information, contact, shoot, gmail",0.035765321,3930,email,contact
+9/9/2016,"email, send, information, link, fill",0.037301044,4212,email,contact
+8/31/2016,"email, send, information, link, gmail, shoot",0.033587273,3969,email,contact
+8/26/2016,"email, send, information, questions, sports",0.03907762,3232,email,contact
+9/13/2016,"email, send, information, receive, mail",0.037450158,5805,email,contact
+10/3/2016,"email, send, link, capella, existing",0.029147214,5950,email,contact
+9/26/2016,"email, send, link, gmail, junk",0.029390683,5394,email,contact
+8/29/2016,"email, send, mail, contact, gmail, info",0.030359896,3967,email,contact
+9/12/2016,"email, send, receive, direct, copy",0.033656274,5988,email,contact
+10/4/2016,"email, send, receive, mail, confirm",0.038566347,6198,email,contact
+10/6/2016,"email, send, transcript, request",0.048827647,6007,email,contact
+9/14/2016,"email, work, back, send, office, clock, morning",0.049587812,5593,email,contact
+8/27/2016,"conversation, email, front, away, file",0.01662094,72,email,contact
+8/27/2016,"send, important, case, link",0.007630987,56,send,contact
+10/13/2016,"send, mail, link, set, apparently",0.013902099,2710,send,contact
+8/27/2016,"email, sign, pass, questions, letters, confirm",0.013476115,39,email,contact
+8/31/2016,"message, full, moment, unavailable, modify, climb",0.03202715,1600,message,contact
+8/29/2016,"message, hang, return, soon, tone, ease",0.038080923,2073,message,contact
+9/2/2016,"message, reach, moment, return, mailbox, tone, google",0.048688738,1902,message,contact
+9/1/2016,"message, record, mailbox, tone, google",0.038066882,1780,message,contact
+8/30/2016,"message, record, press, hang, tone",0.036718677,1970,message,contact
+10/17/2016,"writing, paper, work, online, structure, break",0.007715829,359,writing,contact
+9/22/2016,"writing, read, assessment, paper, library",0.010284244,1050,writing,contact
+9/6/2016,"writing, read, assessment, submit, computer",0.02282175,3208,writing,contact
+9/14/2016,"facebook, customer, chat, conversation, referral",0.005503346,247,facebook,contact
+10/5/2016,"email, send, work, program, mobile, conversation, report, convert",0.002395512,54,email,contact
+9/23/2016,"click, computer, pop, screen, button",0.012408173,1593,click,contact
+10/6/2016,"click, open, computer, list, button",0.020777928,3450,click,contact
+9/2/2016,"click, pop, open, top, window, chrome",0.016319467,1148,click,contact
+9/27/2016,"email, check, send, update, double",0.029026622,4148,email,contact
+9/3/2016,"send, email, hours, log, gmail",0.045518156,207,send,contact
+9/7/2016,"email, send, application, log, password, reset, user",0.05342486,4581,email,contact
+9/21/2016,"email, send, awesome, next, touch",0.049582723,5450,email,contact
+9/24/2016,"email, send, connect, access, communication",0.022925943,170,email,contact
+9/19/2016,"email, send, information, contact, letter",0.041020383,5725,email,contact
+9/23/2016,"email, send, information, link, gmail",0.034357988,4955,email,contact
+9/15/2016,"email, send, information, link, potentially",0.033394069,4561,email,contact
+9/8/2016,"email, send, link, contact, gmail",0.035871744,4521,email,contact
+9/17/2016,"email, send, log, support, reply",0.049543821,439,email,contact
+9/22/2016,"email, send, receive, mail, gmail, shoot",0.031424994,4945,email,contact
+9/16/2016,"email, send, transcript, request",0.0464207,4730,email,contact
+10/4/2016,"message, back, soon, record, unavailable, modify, beep",0.053967011,3231,message,contact
+9/19/2016,"message, back, tone, representative, unavailable",0.047715004,2984,message,contact
+9/10/2016,"message, hang, finish, community",0.068658293,449,message,contact
+10/3/2016,"message, mailbox, hang, moment, modify, strength",0.044696792,2874,message,contact
+9/17/2016,"message, moment, full, reached, meet, home",0.053046899,292,message,contact
+9/6/2016,"message, press, hang, record, tone",0.036606563,2480,message,contact
+9/9/2016,"message, press, record, mailbox, avenue",0.041221772,1836,message,contact
+9/16/2016,"message, press, record, tone",0.058327425,2729,message,contact
+9/15/2016,"message, reach, forward, automated, beep",0.063798764,2927,message,contact
+9/7/2016,"message, reach, press, record, hang",0.052380895,3055,message,contact
+9/14/2016,"message, reach, voice, mailbox",0.084087707,3643,message,contact
+9/13/2016,"message, record, press, tone, unavailable",0.060345078,3280,message,contact
+10/7/2016,"message, soon, back, record, tone, hang",0.054418118,3579,message,contact
+10/5/2016,"message, tone, full, hang, routine, unavailable",0.050388641,2852,message,contact
+9/12/2016,"message, tone, return, miss, unavailable",0.039497603,2892,message,contact
+9/20/2016,"message, voice, mailbox, automatically, automated",0.066074728,3205,message,contact
+9/8/2016,"message, back, voicemail, soon, tone, unavailable",0.043610957,1974,message,contact
+9/24/2016,"message, full, mailbox, send, accept",0.072712354,266,message,contact
+9/27/2016,"message, leave, press, soon, tone",0.078554549,2887,message,contact
+9/21/2016,"message, press, record, tone, unavailable",0.056404798,3151,message,contact
+9/23/2016,"message, return, soon, moment, beep",0.048017393,2843,message,contact
+9/22/2016,"message, tone, return, moment, modify, zack",0.050821539,2823,message,contact
+9/26/2016,"message, tone, return, moment, unavailable, modify",0.044135103,3081,message,contact
+9/10/2016,"send, recommend, letter, click, enter, link",0.01115231,70,send,contact
+9/10/2016,"email, confirm, application, change, recently",0.015894572,127,email,contact
+9/13/2016,"reimbursement, chat, approved, work, remote",0.012272193,1954,chat,contact
+9/14/2016,"writing, paper, assessment, read, test",0.008936929,808,writing,contact
+10/13/2016,"writing, paper, assessment, student, tutor",0.010288589,826,writing,contact
+9/13/2016,"writing, paper, resource, turn, tutor, apa",0.00958389,909,writing,contact
+9/22/2016,"click, log, personal, application, inventory, password",0.015052598,1256,click,contact
+9/20/2016,"click, log, submit, link, reset",0.02470263,3128,click,contact
+9/16/2016,"resources, writing, academic, library, grow, format",0.005968836,352,writing,contact
+9/16/2016,"won, writing, new_york, paper, delete, american",0.013274521,1431,writing,contact
+9/17/2016,"list, contact, information, program, rest",0.021660705,278,contact,contact
+9/20/2016,"email, involved, couple, policy, act, north_carolina",0.006206698,430,email,contact
+9/23/2016,"hospital, google, company, ago, daughter, director",0.00614788,346,google,contact
+9/24/2016,"email, change, application, certificate, gmail, log",0.02333175,145,email,contact
+9/24/2016,"important, email, sort, level, united, position",0.010392482,30,email,contact
+10/11/2016,"email, send, information, contact, gmail, letter",0.042257909,6206,email,contact
+9/29/2016,"email, send, information, receive, fill, scan",0.039378382,5699,email,contact
+9/30/2016,"email, send, link, fill",0.032593762,5076,email,contact
+10/12/2016,"email, send, mail, copy, fax, scan",0.025585661,3213,email,contact
+10/10/2016,"email, send, transcript, request",0.042580797,6280,email,contact
+9/27/2016,"send, transcript, email, request, official, form",0.040666091,4062,send,contact
+9/28/2016,"code, chat, email, work, lunch, remote",0.007481722,683,chat,contact
+9/28/2016,"letter, faculty, check, decision, solution, escalation",0.007638926,596,letter,contact
+9/28/2016,"voicemail, extension, street, delete, disappeared",0.009515451,1249,voicemail,contact
+9/30/2016,"facebook, find, friends, customer, girl, boy",0.00990958,845,facebook,contact
+10/1/2016,"email, scholarship, check, note, status",0.038291771,150,email,contact
+10/14/2016,"click, log, open, submit, dot, button",0.016565631,1467,click,contact
+10/3/2016,"verizon, wireless, device, data, motorola",0.005958719,308,wireless,contact
+10/5/2016,"note, fast, loan, complete, promissory, entrance",0.007649697,599,note,contact
+10/5/2016,"letter, approved, recommend, supervisor, instructor",0.008888874,739,letter,contact
+10/5/2016,"sign, fax, print, slow",0.007336957,669,fax,contact
+10/8/2016,"email, capella, information, university, follow",0.082688307,352,email,contact
+10/8/2016,"book, email, classes, luck, resource, kit",0.020334035,92,email,contact
+10/10/2016,"message, soon, tone, convenience, earliest, beep",0.044614406,3223,message,contact
+10/13/2016,"email, information, contact, receive, new_york, gmail",0.024002203,4237,email,contact
+10/15/2016,"email, send, check, connect, shoot",0.048080898,200,email,contact
+10/17/2016,"email, send, information, couple, msn, contact",0.041932175,2831,email,contact
+10/14/2016,"email, send, mail, evaluation",0.031277441,4539,email,contact
+10/15/2016,"send, work, basically, quarter, admissions",0.014067567,77,send,contact
+10/15/2016,"access, mail, books, click",0.024804501,115,mail,contact
+10/17/2016,"voicemail, academic, center, coach",0.016232939,1116,voicemail,contact
+10/17/2016,"click, open, work, form, cut, sign, approved",0.016071642,784,click,contact
+9/22/2016,"classes, transfer, general, division, english, lower, upper",0.006619252,410,classes,courses
+9/12/2016,"courses, transfer, general, specific, evaluation",0.014358866,3164,courses,courses
+9/1/2016,"program, dissertation, research, phd, emergency, fantastic",0.004890576,177,program,courses
+8/31/2016,"program, doctor, research, dissertation, phd, capstone, noon",0.007850634,285,program,courses
+9/20/2016,"program, faculty, work, research, seminar, cap, face",0.005346918,335,program,courses
+8/26/2016,"program, research, doctor, dissertation, residency, phd",0.007993157,202,program,courses
+8/30/2016,"program, research, work, dissertation, residency, topic",0.006696009,212,program,courses
+9/2/2016,"program, residency, work, dissertation, faculty, respect",0.00568054,141,program,courses
+9/14/2016,"quarter, cost, courses, weeks, cover, tuition",0.012089346,1441,quarter,courses
+9/26/2016,"quarter, cost, scholarship, tuition, eligible",0.010402072,1336,quarter,courses
+10/6/2016,"quarter, courses, scholarship, apply",0.012755113,1661,quarter,courses
+9/13/2016,"quarter, courses, scholarship, cost, tuition",0.013569868,1708,quarter,courses
+10/3/2016,"quarter, start, cost, scholarship, tuition",0.012601343,1899,quarter,courses
+9/8/2016,"quarter, student, full, cost, scholarship, semester",0.015153905,1433,quarter,courses
+10/11/2016,"program, bachelor, masters, interested, pursue",0.074699214,5507,program,courses
+10/12/2016,"program, degree, masters, bachelor, administration",0.037655356,3267,program,courses
+10/13/2016,"program, degree, masters, bachelor, certificate",0.035865443,3429,program,courses
+8/26/2016,"program, masters, bachelor, degree, criminal, emergency, justice",0.039305152,2396,program,courses
+10/10/2016,"program, masters, degree, bachelor",0.044412374,5404,program,courses
+9/2/2016,"program, masters, degree, bachelor, public",0.035858039,2553,program,courses
+9/20/2016,"courses, certificate, program, transfer, graduate, electives",0.015874824,2433,courses,courses
+8/30/2016,"due, courses, complete, start, petition, traditional",0.004101109,224,courses,courses
+8/26/2016,"program, flex, weeks, courses, traditional, flex_path, average",0.012918277,476,program,courses
+8/27/2016,"courses, program, complete, start, traditional, quarter, flex",0.01370729,40,courses,courses
+8/31/2016,"mid, program, questions, point, spinning, career, session",0.001914977,49,program,courses
+9/27/2016,"california, hours, family, work, marriage, therapist",0.002439489,93,hours,courses
+8/26/2016,"program, license, state, accredited, internship, marriage",0.013007285,390,program,courses
+9/23/2016,"program, quarter, residency, classes, internship, practicum, travel",0.00744891,345,program,courses
+8/30/2016,"classes, start, work, program, internship, ace, facebook, easy",0.002829318,69,classes,courses
+8/31/2016,"program, work, quarter, counseling, residency, internship, practicum, louisiana",0.003639342,92,program,courses
+9/15/2016,"books, click, orientation, access, bookstore, download, purchase",0.012503573,911,books,courses
+10/14/2016,"books, computer, access, download, vital, laptop",0.010151955,621,books,courses
+9/27/2016,"books, computer, download, print, sleep, ebook",0.010751616,715,books,courses
+9/16/2016,"books, email, bookstore, log, source, vital",0.00946494,544,books,courses
+9/14/2016,"books, order, bookstore, find, purchase, allowance",0.008691901,612,books,courses
+9/13/2016,"books, orientation, access, computer, bookstore, download",0.014348354,1740,books,courses
+8/26/2016,"books, orientation, access, order, bookstore",0.013391146,755,books,courses
+8/29/2016,"courses, division, learning, program, lower, upper, environment",0.00451972,213,courses,courses
+10/5/2016,"project, management, work, basically, analytics, loved",0.004953258,275,project,courses
+8/26/2016,"courses, program, degree, complete, division, pell, lower, timing",0.00709243,284,courses,courses
+8/31/2016,"program, masters, psychology, doctor, phd",0.024104705,2015,program,courses
+8/29/2016,"classes, advisor, schedule, worth, expensive",0.010961097,1412,classes,courses
+8/30/2016,"classes, quarter, start, weeks, half",0.017959732,2146,classes,courses
+8/26/2016,"classes, quarter, weeks, pay, semester",0.014865482,1319,classes,courses
+9/2/2016,"classes, start, quarter, scholarship",0.025357809,2444,classes,courses
+9/1/2016,"classes, start, weeks, quarter, break",0.019668635,2032,classes,courses
+8/31/2016,"classes, weeks, online, full, months",0.017998585,2145,classes,courses
+9/15/2016,"program, accredited, work, information, regionally, higher, commission",0.011671825,653,program,courses
+9/17/2016,"courses, complete, program, start, orientation, traditional, process",0.011962397,59,courses,courses
+9/20/2016,"program, complete, work, courses, traditional, flex, flex_path, pace",0.0136947,905,program,courses
+9/16/2016,"program, courses, work, learning, important, flexibility, structure",0.01007721,608,program,courses
+8/26/2016,"program, education, learning, terms, higher, teaching",0.015502194,879,program,courses
+9/2/2016,"courses, learning, education, program, structure, competencies, regionally, division",0.008764973,269,courses,courses
+9/21/2016,"courses, program, start, work, discount, division, flexibility, traditional",0.008934327,516,courses,courses
+9/22/2016,"program, school, accredited, online, regionally, flexibility, commission",0.007952106,470,program,courses
+9/13/2016,"program, student, degree, loans, federal, eligible",0.008217159,686,program,courses
+9/19/2016,"courses, work, learning, complete, division, competencies, format, structure",0.010169598,529,courses,courses
+8/31/2016,"program, work, degree, learning, expensive, skills, important, career",0.009752283,577,program,courses
+8/26/2016,"hours, figure, office, half, wrong",0.012147549,1776,hours,courses
+10/6/2016,"program, courses, complete, transfer, flex, flex_path, traditional, pass",0.017386957,1865,program,courses
+10/1/2016,"program, courses, option, opportunity, coach, billing, important",0.010490249,21,program,courses
+9/2/2016,"weeks, courses, session, finish, fix, billing, model",0.007629953,267,courses,courses
+10/3/2016,"program, flex, complete, flex_path, traditional, pace",0.012025163,986,program,courses
+8/27/2016,"program, accredited, graduate, hours, accounting, quarter",0.012241875,24,program,courses
+8/29/2016,"program, accredited, regionally, online, higher, commission",0.009434592,642,program,courses
+10/7/2016,"technology, program, learning, security, network, english",0.007977452,369,program,courses
+10/11/2016,"program, security, certificate, information, network, technology",0.007149652,341,program,courses
+9/7/2016,"program, security, courses, accredited, network, lab, virtual",0.0083468,319,program,courses
+8/27/2016,"program, offer, degree, masters, leadership, development, certificate",0.023294484,115,program,courses
+10/1/2016,"idea, classes, student, graduate, money, experience, eligible",0.010946983,39,classes,courses
+8/27/2016,"program, start, process, apply, scholarship, initial",0.033014503,101,program,courses
+8/27/2016,"courses, life, point, check, classroom, background",0.017875101,88,courses,courses
+8/27/2016,"program, education, special, doctor, phd",0.018082134,39,program,courses
+9/15/2016,"program, degree, masters, bachelor",0.031521534,3190,program,courses
+9/9/2016,"program, degree, masters, bachelor, criminal, psychology",0.031031892,2414,program,courses
+10/11/2016,"program, accredited, hours, quarter, internship, practicum, residency",0.007901975,374,program,courses
+10/7/2016,"program, accredited, work, quarter, regionally, cost, field",0.009023489,406,program,courses
+9/30/2016,"program, counseling, license, state, licensure, face",0.016205999,1090,program,courses
+9/20/2016,"program, counseling, license, state, licensure, internship",0.017678689,1471,program,courses
+9/19/2016,"program, counseling, residency, classes, internship, practicum, travel",0.008555082,506,program,courses
+10/1/2016,"program, faculty, counseling, internship, accredited",0.011105762,27,program,courses
+9/12/2016,"quarter, program, residency, work, dissertation, travel, faculty",0.007770561,485,quarter,courses
+9/16/2016,"program, quarter, work, classes, accredited, internship, residency, regionally",0.004985026,166,program,courses
+10/3/2016,"program, residency, work, quarter, practicum, travel, supervision",0.009479363,687,program,courses
+10/12/2016,"program, social, work, accredited, worker, resume",0.009251163,629,program,courses
+9/10/2016,"program, sounds, school, quarter, fall, state, licensure",0.006592768,46,program,courses
+9/14/2016,"program, state, license, requirements, accreditation, practicum",0.010816367,627,program,courses
+10/5/2016,"program, state, requirements, license, internship, accredited",0.011294053,755,program,courses
+10/10/2016,"program, state, requirements, license, licensure, internship",0.015859959,1385,program,courses
+10/6/2016,"program, state, work, accredited, internship, residency, practicum",0.010101515,608,program,courses
+9/13/2016,"program, state, work, requirements, practicum, internship, recommend",0.00864078,553,program,courses
+9/21/2016,"program, work, license, accredited, internship, practicum, residency",0.009319339,445,program,courses
+10/4/2016,"program, work, state, internship, residency, practicum, travel",0.004976469,219,program,courses
+10/17/2016,"program, university, masters, capella, interested, pursuing",0.084086082,2597,program,courses
+9/30/2016,"quarter, student, loans, pay, tuition, discount",0.010878058,1004,quarter,courses
+8/29/2016,"program, doctor, public, health, phd, capstone",0.013895592,1172,program,courses
+10/6/2016,"program, doctor, research, phd, dissertation, behavior",0.013926737,1637,program,courses
+10/5/2016,"program, phd, research, dissertation, limit, residency",0.007128897,463,program,courses
+9/8/2016,"program, residency, internship, work, practicum, travel",0.006095114,301,program,courses
+9/7/2016,"program, state, work, license, internship, marriage",0.017839681,898,program,courses
+9/9/2016,"program, work, research, doctor, dissertation, phd, psychologist",0.00672986,228,program,courses
+9/6/2016,"classes, books, start, email, bookstore, registered, download",0.029268951,3175,classes,courses
+9/1/2016,"books, click, unit, discussion, purchase, bookstore",0.011472729,740,books,courses
+9/14/2016,"classes, finish, basically, sense, math, semester",0.01335649,2281,classes,courses
+9/23/2016,"classes, flex, program, weeks, flex_path, traditional, assignments",0.009937112,635,classes,courses
+9/16/2016,"classes, online, weeks, full, apply",0.016414598,2178,classes,courses
+9/2/2016,"books, order, kit, resources, bookstore, store",0.009339494,355,books,courses
+9/10/2016,"classes, quarter, job, questions, amount",0.012741375,132,classes,courses
+9/12/2016,"classes, quarter, start, weeks, break, scholarship",0.018018512,3351,classes,courses
+9/15/2016,"classes, start, quarter, pay, payment, weeks",0.022079542,2666,classes,courses
+9/7/2016,"classes, start, weeks, plan, academic",0.031999303,3749,classes,courses
+9/13/2016,"classes, transfer, electives, general, core, math",0.012847886,2257,classes,courses
+9/20/2016,"classes, weeks, finish, start, semester",0.019351038,3455,classes,courses
+9/21/2016,"classes, weeks, flex, program, flex_path",0.022704804,2589,classes,courses
+9/9/2016,"classes, weeks, quarter, full, half",0.019907306,2723,classes,courses
+9/8/2016,"classes, weeks, start, next, core, math",0.015033654,2179,classes,courses
+9/2/2016,"program, flex, complete, traditional, gpa, pass",0.013206501,693,program,courses
+8/30/2016,"program, work, security, network, technology, associates",0.005262976,193,program,courses
+9/9/2016,"books, box, order, bookstore, materials",0.013324844,959,books,courses
+8/29/2016,"books, buy, order, access, purchase, download, bookstore",0.007841554,501,books,courses
+9/12/2016,"books, cover, resources, order, bookstore, style, purchase",0.008555923,695,books,courses
+9/22/2016,"books, order, access, bookstore, purchase",0.008705248,671,books,courses
+8/31/2016,"books, order, quarter, resource, throw, bookstore",0.010328911,627,books,courses
+9/26/2016,"books, orientation, access, registered",0.014704306,1719,books,courses
+9/19/2016,"books, questions, order, purchase, bookstore, library",0.010419989,757,books,courses
+8/30/2016,"books, refund, resources, materials, realistic, bookstore",0.00871967,479,books,courses
+9/23/2016,"books, resource, access, buy, bookstore, download, purchase",0.009026976,482,books,courses
+9/8/2016,"books, resources, order, bookstore, purchase",0.010771851,670,books,courses
+9/7/2016,"books, resources, questions, materials, bookstore, store, purchase",0.013843419,1125,books,courses
+8/29/2016,"hours, minutes, asked, tonight, clock",0.017455287,2873,hours,courses
+9/7/2016,"program, university, capella, enrollment, counselor, justice",0.066338973,4100,program,courses
+10/17/2016,"program, terms, learning, knowledge, test, curriculum",0.004239452,130,program,courses
+9/7/2016,"program, terms, masters, education, fan, cycle, integrated, share",0.003808901,152,program,courses
+9/26/2016,"program, courses, complete, requirements",0.013144781,2030,program,courses
+10/4/2016,"program, quarter, requirements, complete, typically, cost",0.013019773,1533,program,courses
+9/19/2016,"program, clinical, state, license, psychologist, dnp, licensure",0.011733026,1068,program,courses
+8/30/2016,"program, counseling, license, state, internship, mental",0.014978279,724,program,courses
+8/31/2016,"program, license, state, requirements, licensure, clinical",0.014290675,900,program,courses
+9/6/2016,"quarter, classes, student, weeks, typically, cost, break",0.016311772,1449,quarter,courses
+8/29/2016,"quarter, cost, weeks, program, break",0.012320849,1179,quarter,courses
+9/19/2016,"classes, quarter, courses, start, scholarship, cost",0.022790894,3013,classes,courses
+9/21/2016,"courses, quarter, work, pretty, descriptions, single, individual",0.009018286,747,courses,courses
+9/20/2016,"quarter, start, courses, scholarship, break, cost",0.014040128,1538,quarter,courses
+10/8/2016,"program, based, university, forward",0.044823557,363,program,courses
+9/22/2016,"program, doctor, phd, apply, study",0.020356725,3011,program,courses
+8/29/2016,"program, interested, connect, counselor, pursue, inquired, inquiry",0.03495635,3046,program,courses
+9/12/2016,"program, questions, fit, bit, excellent, wonderful",0.02672997,4354,program,courses
+10/15/2016,"program, work, nursing, best, undergrad",0.047152746,211,program,courses
+8/31/2016,"assignments, discussion, work, paper, instructor, format",0.008560924,516,assignments,courses
+9/19/2016,"classes, discussion, paper, writing, unit, assignments",0.015380405,1816,classes,courses
+8/31/2016,"program, school, basically, difficulty, marriage, camera, colorado",0.001940287,42,program,courses
+8/30/2016,"program, work, quarter, questions, potentially, treatment, dissertation, pursue",0.003222133,83,program,courses
+8/29/2016,"program, work, student, faculty, supervision, travel, practicum",0.004360501,185,program,courses
+8/30/2016,"courses, complete, start, program, electives, general, core",0.012623825,1172,courses,courses
+8/31/2016,"courses, quarter, questions, work, descriptions, tele, math",0.011294152,883,courses,courses
+8/31/2016,"program, student, requirements, california, rep, internship, cake",0.003957944,138,program,courses
+9/23/2016,"classes, online, start, job, college, associates",0.017146396,1686,classes,courses
+10/1/2016,"program, work, courses, information, grants, level, assignments, behavior",0.012411173,28,program,courses
+10/5/2016,"courses, degree, program, accredited, regionally, division",0.009314004,567,courses,courses
+10/13/2016,"program, flex, complete, flex_path, traditional, session",0.009380513,509,program,courses
+10/11/2016,"program, flex, courses, complete, traditional, flex_path, pace",0.011255177,943,program,courses
+10/7/2016,"program, flex, traditional, weeks, flex_path, pass",0.013349266,878,program,courses
+10/10/2016,"program, flex, weeks, traditional, flex_path, pace",0.011818645,940,program,courses
+9/29/2016,"program, school, accreditation, learning, regionally, commission, environment",0.008237505,600,program,courses
+9/27/2016,"program, school, degree, requirements, elective, environment, communication, employees",0.00250755,105,program,courses
+10/12/2016,"classes, weeks, flex, complete, flex_path, traditional, pace",0.014430392,1229,classes,courses
+9/30/2016,"program, work, learning, accredited, flexibility, discussion, role",0.007154745,360,program,courses
+10/1/2016,"general, classes, program, flex, traditional, flex_path",0.012463819,51,classes,courses
+9/12/2016,"project, paper, back, management, competencies, supply",0.005255899,401,project,courses
+8/30/2016,"program, bit, information, best, goal, fit",0.023616892,3356,program,courses
+9/6/2016,"program, information, bit, questions, specific, interested",0.042290145,4261,program,courses
+9/10/2016,"program, information, convenience, familiar, earliest",0.033385583,395,program,courses
+9/24/2016,"program, information, email, send, technology, contact",0.058169959,327,program,courses
+9/8/2016,"program, information, interested, connect, wonderful",0.03065835,3991,program,courses
+9/14/2016,"program, information, masters, send, public",0.031972282,4496,program,courses
+10/1/2016,"program, information, send, email, potentially, technology",0.053135902,230,program,courses
+9/22/2016,"courses, complete, scholarship, requirements, core, electives",0.011082876,1280,courses,courses
+9/15/2016,"courses, complete, specialization, requirements, core, electives",0.010492727,1026,courses,courses
+8/30/2016,"program, enter, work, complete, paper, prior, competencies",0.004252048,164,program,courses
+9/30/2016,"courses, general, program, transfer, division, electives",0.011086749,1017,courses,courses
+9/14/2016,"courses, program, complete, requirements, electives, average, model",0.007519199,426,courses,courses
+9/29/2016,"courses, quarter, requirements, program, eligible",0.011008149,1018,courses,courses
+9/23/2016,"courses, quarter, start, transfer, electives, total",0.014007559,1397,courses,courses
+10/4/2016,"courses, transfer, business, general, electives, core",0.009911031,1043,courses,courses
+9/28/2016,"courses, transfer, program, complete, electives, evaluation",0.011568755,1124,courses,courses
+9/6/2016,"classes, justice, criminal, work, war, forensic",0.007576972,295,classes,courses
+8/30/2016,"schedule, meet, appointment, road, cancel",0.012931301,1688,schedule,courses
+9/2/2016,"program, accredited, cost, quarter, residency, regionally",0.006877465,226,program,courses
+8/31/2016,"quarter, cost, loans, courses, eligible, division, lower",0.009636294,607,quarter,courses
+9/14/2016,"classes, degree, start, masters, heart, organizational, interview, industry",0.002407517,65,classes,courses
+9/17/2016,"classes, degree, start, work, state, accredited, money, part",0.009060171,21,classes,courses
+9/16/2016,"classes, masters, start, degree, sec, addiction, alaska, double",0.002763338,63,classes,courses
+9/1/2016,"program, quarter, cost, start, eligible, typically",0.013497604,1033,program,courses
+9/8/2016,"program, start, online, application, related, regionally, commission, discussion",0.009939359,620,program,courses
+9/19/2016,"program, work, requirements, hours, board, field, limit, background",0.007952011,406,program,courses
+8/31/2016,"program, work, background, idea, map, curiosity",0.003622366,10,program,courses
+9/1/2016,"jump, classes, plug, include, photo, camera, camp",0.005260696,235,classes,courses
+9/1/2016,"courses, transfer, program, complete, electives, division",0.012395256,1205,courses,courses
+9/1/2016,"hours, part, half, post, response",0.007719445,815,hours,courses
+9/28/2016,"hours, work, half, part, new_york, commitment",0.008434329,928,hours,courses
+9/2/2016,"finance, courses, program, business, accounting, flexibility, core",0.007124101,332,courses,courses
+9/21/2016,"program, health, public, work, informatics, policy",0.007994193,402,program,courses
+9/29/2016,"program, research, complete, start, dissertation, faculty, position",0.005157642,359,program,courses
+9/28/2016,"program, research, work, side, capstone, site",0.003381543,174,program,courses
+9/30/2016,"program, certificate, masters, graduate, mba, accounting",0.013708007,1291,program,courses
+9/21/2016,"program, counseling, masters, psychology, mental, behavior, clinical",0.023425362,1865,program,courses
+9/29/2016,"program, masters, degree, bachelor, certificate",0.031519661,3854,program,courses
+9/27/2016,"program, masters, degree, psychology, clinical, doctor",0.028349894,2696,program,courses
+9/2/2016,"program, coach, professor, courses, advertising, organizational",0.003493564,62,program,courses
+9/3/2016,"books, cover, classes, cost, tuition",0.01499778,48,books,courses
+9/7/2016,"courses, complete, degree, division, lower, upper, resources",0.00741845,384,courses,courses
+9/3/2016,"courses, complete, least, quarter, weeks",0.017956499,63,courses,courses
+9/12/2016,"learning, courses, degree, education, division, competencies, accredited",0.007032429,481,courses,courses
+9/9/2016,"program, courses, complete, work, division, structure, traditional, pace",0.009457983,457,program,courses
+9/13/2016,"program, information, security, technology, network, accredited",0.007745402,448,program,courses
+9/8/2016,"courses, program, complete, degree, division, lower, model",0.008723997,416,courses,courses
+9/27/2016,"program, security, accredited, school, network, comment, government",0.004027746,164,program,courses
+9/23/2016,"classes, technology, information, security, network, designed",0.006100977,298,classes,courses
+9/6/2016,"courses, transfer, general, start, elective, core",0.01397847,1543,courses,courses
+10/11/2016,"classes, program, transfer, school, wall, kaplan, reality, freshman",0.001816803,35,classes,courses
+10/5/2016,"program, bachelor, degree, information, connect",0.037979376,4129,program,courses
+10/3/2016,"program, degree, masters, bachelor",0.028839707,4048,program,courses
+9/3/2016,"program, information, questions, university, sort, answer",0.053367578,219,program,courses
+9/13/2016,"program, interested, information, enrollment, counselor, connect",0.060337439,5487,program,courses
+10/8/2016,"classes, finish, paper, nursing, eligible, months",0.010525698,42,classes,courses
+9/6/2016,"classes, flex, weeks, complete, traditional, flex_path, pace",0.01635405,1072,classes,courses
+9/13/2016,"program, flex, complete, pass, flex_path, traditional, pace",0.013457888,939,program,courses
+9/7/2016,"program, flex, complete, traditional, flex_path, gpa",0.016417291,1045,program,courses
+9/19/2016,"program, nursing, flex, flex_path, bsn",0.016950408,1332,program,courses
+9/3/2016,"classes, program, degree, bit, cost, paced, turn",0.010751353,29,classes,courses
+9/7/2016,"program, doctor, work, phd, dissertation, public",0.018402275,1566,program,courses
+9/7/2016,"program, education, certificate, masters, enter, wonderful, childhood",0.010913512,578,program,courses
+9/8/2016,"academic, courses, payment, plan, balance, advisor, advising",0.015147002,1815,courses,courses
+9/27/2016,"program, courses, sounds, curriculum, designed, pursue",0.010338041,598,program,courses
+9/21/2016,"program, doctor, phd, work, dissertation, justice",0.013414566,1261,program,courses
+9/19/2016,"program, doctor, research, phd, dissertation",0.008801305,415,program,courses
+9/20/2016,"program, doctor, residency, phd, dissertation, dda",0.006650693,308,program,courses
+10/12/2016,"program, education, learning, teaching, teacher, curriculum, instructions",0.006083905,320,program,courses
+9/15/2016,"program, work, doctor, dissertation, residency, phd, research",0.007552009,355,program,courses
+9/16/2016,"program, work, doctor, research, dissertation, residency, phd",0.006536416,244,program,courses
+9/14/2016,"program, work, residency, dissertation, faculty, face",0.004450495,179,program,courses
+9/23/2016,"program, work, student, questions, colleagues, excellent, provide, abuse",0.003812525,158,program,courses
+9/9/2016,"low, program, work, psychology, intro, english, ashford",0.003374446,80,program,courses
+10/3/2016,"courses, academic, plan, advisor, advising",0.01125065,1548,courses,courses
+9/9/2016,"courses, plan, academic, registered, coach, advising",0.015960679,1857,courses,courses
+9/9/2016,"schedule, work, fall, hours, appointment, late",0.010986454,976,schedule,courses
+9/9/2016,"stick, classes, send, log, analytics, north, cops",0.003247542,41,classes,courses
+9/10/2016,"courses, business, scholarship, transfer, resources",0.004707678,19,courses,courses
+9/23/2016,"program, interested, bachelor, masters, pursuing, wonderful",0.053498589,4057,program,courses
+9/20/2016,"program, interested, degree, bachelor, criminal, pursuing",0.072646874,5244,program,courses
+9/26/2016,"program, interested, university, pursue, convenience, inquiry",0.051084168,4497,program,courses
+9/19/2016,"program, university, interested, questions, inquiry, kaplan",0.082188802,5386,program,courses
+9/13/2016,"hours, half, wrong, road",0.010795053,2261,hours,courses
+10/11/2016,"program, back, team, work, feature, remote, reaction, promotion",0.003309345,94,program,courses
+10/13/2016,"program, courses, new, back, quality, product, improve, concept",0.001723524,33,program,courses
+10/14/2016,"program, questions, school, back, inbox, teacher, confident, concerns",0.002913762,7,program,courses
+9/14/2016,"program, residency, dissertation, phd, growth",0.005531561,194,program,courses
+9/14/2016,"courses, standard, program, work, content, britney, effect",0.006052193,332,courses,courses
+9/16/2016,"program, services, human, masters, justice, criminal, phd",0.011784496,1132,program,courses
+9/23/2016,"family, classes, work, marriage, therapy, illinois",0.007498697,511,classes,courses
+9/16/2016,"program, degree, graduate, start, statement, internship, supervision, practicum",0.004526268,139,program,courses
+9/16/2016,"program, work, classes, start, growth, dnp, holidays, capstone",0.002620146,5,program,courses
+9/17/2016,"courses, guess, administration, transfer, plan",0.018409577,228,courses,courses
+9/17/2016,"classes, program, experience, flex, discount, pass",0.012896905,51,classes,courses
+9/17/2016,"books, program, excellent, work, provide, head",0.010546228,64,books,courses
+9/17/2016,"program, helpful, nursing, work, specialization, apologize",0.02042379,212,program,courses
+9/17/2016,"hours, classes, nursing, work, sort, discussion",0.012271049,113,hours,courses
+9/17/2016,"classes, bit, paced, courses, live",0.013620673,104,classes,courses
+9/17/2016,"resource, program, management, human, pop",0.022154937,150,program,courses
+9/17/2016,"program, work, start, back, real, online",0.023246151,256,program,courses
+9/19/2016,"classes, semester, military, criminal, justice, benefits",0.008168758,664,classes,courses
+9/20/2016,"books, set, plan, academic, voicemail, bookstore",0.027639508,4071,books,courses
+10/17/2016,"program, complete, flex, flex_path, traditional, format, pace",0.007804641,206,program,courses
+10/14/2016,"program, courses, complete, flex, flex_path, traditional, pace",0.011191025,595,program,courses
+10/7/2016,"courses, transfer, degree, business, accounting, electives, mba",0.013458424,1019,courses,courses
+10/13/2016,"courses, work, business, learning, traditional, division, pdf, project",0.004676344,183,courses,courses
+9/21/2016,"big, books, deal, work, army, food, vacation, minor",0.008463607,659,books,courses
+9/22/2016,"quarter, cover, apply, approved, break",0.007150185,976,quarter,courses
+9/30/2016,"classes, books, quarter, order, bookstore, load",0.016081458,2054,classes,courses
+9/22/2016,"classes, pay, start, weeks, reimbursement, payment",0.019148655,2885,classes,courses
+10/7/2016,"class, quarter, start, pay, discount, cost",0.02528929,3406,class,courses
+10/5/2016,"classes, quarter, start, weeks, semester, depends",0.019290572,3141,classes,courses
+9/28/2016,"classes, quarter, weeks, bit, semester, pace",0.016285877,2287,classes,courses
+9/27/2016,"classes, quarter, weeks, courses, amount, cost",0.019615472,2395,classes,courses
+10/8/2016,"classes, quarter, work, start, individual, division, depends",0.020361612,70,classes,courses
+10/6/2016,"class, start, next, weeks",0.032909364,4935,class,courses
+10/4/2016,"class, start, weeks, questions, extra, professor",0.015361413,2887,class,courses
+9/29/2016,"classes, start, pay, weeks, semester",0.017487526,2592,classes,courses
+10/3/2016,"classes, weeks, full, start, break",0.015037604,2866,classes,courses
+9/26/2016,"classes, weeks, half, cost, breakdown, compare",0.010890275,1760,classes,courses
+10/10/2016,"class, start, weeks, next, semester",0.028534401,4969,class,courses
+9/23/2016,"classes, start, next, weeks, registered, academic, touch",0.029367987,3678,classes,courses
+10/14/2016,"classes, start, quarter, weeks",0.020697447,2538,classes,courses
+10/11/2016,"classes, start, quarter, weeks, scholarship",0.028459029,4165,classes,courses
+10/13/2016,"classes, start, weeks, quarter, months",0.023909402,3317,classes,courses
+10/17/2016,"classes, start, weeks, quarter, scholarship, instructor",0.019374016,1398,classes,courses
+9/24/2016,"classes, degree, quarter, start, awesome, accreditation",0.010544331,31,classes,courses
+9/24/2016,"books, financial, aid, expect",0.007215192,32,books,courses
+10/12/2016,"program, complete, work, assessment, competencies, feedback, match",0.002078266,63,program,courses
+9/24/2016,"cost, program, courses, move, management",0.01321053,71,program,courses
+9/30/2016,"program, supply, start, send, chain, quit, space",0.00321644,85,program,courses
+10/14/2016,"program, work, flex, classes, standard, mba, interaction",0.001539818,33,program,courses
+9/24/2016,"hours, find, couple, stuff, home",0.028343155,278,hours,courses
+9/24/2016,"classes, courses, start, money, play",0.019733574,123,classes,courses
+9/26/2016,"least, electives, assuming, wrong, communication",0.006646077,858,electives,courses
+9/28/2016,"program, requirements, license, state, internship, practicum, psychologist, clinical",0.009365276,725,program,courses
+9/27/2016,"program, requirements, state, license, internship, residency",0.007440514,358,program,courses
+9/29/2016,"program, residency, accreditation, state, travel, internship, florida",0.006369136,386,program,courses
+9/26/2016,"program, state, requirements, license, practicum, licensure, accredited",0.010000429,887,program,courses
+9/27/2016,"hours, morning, fun, pick, trip, wake, tuning, loved",0.009401412,726,hours,courses
+9/29/2016,"books, materials, order, bookstore, voucher, purchase",0.007961995,571,books,courses
+9/28/2016,"books, registered, orientation, email, bookstore, access",0.017046696,1792,books,courses
+9/27/2016,"quarter, discussion, program, plan, seminar, unit",0.005296685,371,quarter,courses
+9/27/2016,"courses, learners, quick, team, advising, advisor",0.019242413,2796,courses,courses
+9/27/2016,"program, bachelor, information, enrollment, counselor, kaplan",0.047841509,3820,program,courses
+10/7/2016,"program, questions, information, enrollment, counselor, connect",0.060669478,4997,program,courses
+10/13/2016,"program, accredited, learning, school, regionally, commission, higher",0.007293247,431,program,courses
+9/28/2016,"program, accredited, work, regionally, commission, professional",0.007111938,556,program,courses
+10/12/2016,"program, quarter, work, start, accredited, cost, tuition, regionally",0.010066364,608,program,courses
+10/5/2016,"classes, school, work, degree, structure, professor, psychology, paper",0.004035082,154,classes,courses
+9/28/2016,"program, addiction, classes, state, gpa, depression, alternative",0.004074438,210,program,courses
+9/28/2016,"bit, classes, work, requirements, language, essentially, borrow, perspective",0.00213731,101,classes,courses
+9/28/2016,"balance, quarter, fall, spring, winter, existing",0.004845427,392,quarter,courses
+10/1/2016,"program, nursing, psychology, work, clinical, human",0.030373061,122,program,courses
+10/1/2016,"classes, weeks, email, send, paper, drop",0.022117265,90,classes,courses
+10/1/2016,"classes, semester, degree, school, eligible, site, internship",0.011566441,32,classes,courses
+10/1/2016,"follow, program, connect, degree, voice, info",0.039101557,138,program,courses
+10/6/2016,"books, access, bookstore, materials, purchase",0.014664659,1245,books,courses
+10/10/2016,"books, access, materials, bookstore, download, purchase",0.014140424,1332,books,courses
+10/5/2016,"books, assignments, unit, discussion, bookstore",0.014010285,1342,books,courses
+10/11/2016,"books, click, log, link, bookstore, download",0.021144988,2425,books,courses
+10/13/2016,"books, click, password, open, download, bookstore",0.014908067,1364,books,courses
+10/4/2016,"books, order, bookstore, resource, throw, purchase",0.009628995,705,books,courses
+10/3/2016,"books, registered, accept, offer, bookstore, congratulations",0.014809557,2150,books,courses
+10/7/2016,"books, resource, order, bookstore, purchase, store",0.017374219,1492,books,courses
+10/12/2016,"books, writing, paper, resources, download, library, bookstore",0.012251568,1032,books,courses
+10/3/2016,"assignments, discussion, reading, unit, feedback",0.007939028,948,assignments,courses
+10/10/2016,"quarter, loan, scholarship, student, tuition, cost",0.012442254,1639,quarter,courses
+10/12/2016,"program, counseling, license, masters, mental, clinical",0.016596305,1207,program,courses
+10/17/2016,"program, requirements, work, state, license, practicum, internship, residency",0.008418527,174,program,courses
+10/14/2016,"program, work, accredited, degree, internship, practicum, residency",0.006521824,277,program,courses
+10/13/2016,"program, work, license, accredited, internship, licensure",0.009773351,412,program,courses
+10/4/2016,"hours, work, half, job, spend, honestly, frame",0.009362337,1408,hours,courses
+10/12/2016,"courses, accounting, degree, requirements, mba, evaluation",0.012710538,1248,courses,courses
+10/17/2016,"courses, program, accredited, general, regionally",0.01095502,567,courses,courses
+10/13/2016,"courses, program, general, complete, elective, specialization",0.013209379,1481,courses,courses
+10/5/2016,"enter, capstone, plan, search, temporary",0.00349954,140,capstone,courses
+10/8/2016,"classes, flex, weeks, average, semester",0.011692613,42,classes,courses
+10/8/2016,"classes, transfer, sounds, start, info, bit",0.035519483,218,classes,courses
+10/8/2016,"program, doctor, education, school, kids, teaching",0.028294897,175,program,courses
+10/12/2016,"program, doctor, phd, research, dissertation",0.010291387,613,program,courses
+10/13/2016,"program, doctor, research, phd, dissertation",0.013034525,968,program,courses
+10/17/2016,"program, doctor, teaching, phd, dissertation",0.01268693,363,program,courses
+10/14/2016,"program, research, doctor, phd, dissertation",0.008643661,389,program,courses
+10/11/2016,"program, research, phd, work, dissertation, residency",0.009150723,473,program,courses
+10/10/2016,"program, work, start, quarter, dissertation, residency, terms, flexibility",0.009774768,784,program,courses
+10/10/2016,"courses, basically, military, list, benefits",0.011693672,1925,courses,courses
+10/11/2016,"classes, work, clinical, nursing, informatics, complain, msn",0.001507783,40,classes,courses
+10/12/2016,"classes, find, change, figure, justice, criminal, surprised",0.019492371,3330,classes,courses
+10/12/2016,"program, certificate, therapy, requirements, plate, therapist",0.003488143,58,program,courses
+10/13/2016,"direct, department, giving, details, deposit",0.009641599,1886,department,courses
+10/14/2016,"courses, transfer, human, science, electives",0.00676288,380,courses,courses
+10/14/2016,"program, online, roughly, classes, deadlines, bigger, response",0.002315226,94,program,courses
+10/14/2016,"hours, residency, half, new_york, atlanta, hotel",0.009551144,682,hours,courses
+10/15/2016,"challenge, class, complete, work, level, cover",0.011184781,22,class,courses
+10/15/2016,"part, class, student, online, fast",0.011175952,60,class,courses
+10/17/2016,"program, degree, bachelor, complete, fit, associates",0.01831692,930,program,courses
+10/15/2016,"quarter, start, program, cost, pass, format",0.012140994,30,quarter,courses
+10/15/2016,"class, pick, work, guess, system",0.030285022,111,class,courses
+10/15/2016,"courses, class, program, wonderful, additional, education",0.019229303,47,courses,courses
+10/17/2016,"program, courses, evaluation, gpa, emergency, jacksonville",0.007432487,131,program,courses
+10/17/2016,"hours, guess, care, schedule, tied",0.017235899,1512,hours,courses
+8/26/2016,"social, family, human, services, profit, drug, addiction",0.00991971,394,social,degrees
+10/14/2016,"masters, program, degree, bachelor, psychology, criminal",0.039479686,3104,masters,degrees
+9/3/2016,"masters, psychology, program, work, touch, child",0.051523239,190,masters,degrees
+9/12/2016,"nursing, bsn, msn, online, dnp",0.010492615,668,nursing,degrees
+9/6/2016,"nursing, bsn, msn, program, informatics",0.009750584,351,nursing,degrees
+9/28/2016,"nursing, bsn, msn, program, instance",0.00753752,327,nursing,degrees
+9/26/2016,"nursing, bsn, program, msn, dnp",0.01109943,678,nursing,degrees
+9/14/2016,"nursing, bsn, program, msn, informatics",0.009508029,378,nursing,degrees
+9/1/2016,"nursing, program, bsn, msn, city",0.01044134,384,nursing,degrees
+9/8/2016,"nursing, program, bsn, msn, dnp",0.008089746,285,nursing,degrees
+9/2/2016,"nursing, program, bsn, msn, dnp",0.01153213,325,nursing,degrees
+8/29/2016,"nursing, program, bsn, msn, dnp",0.009970239,336,nursing,degrees
+9/29/2016,"nursing, program, bsn, msn, dnp",0.01140962,893,nursing,degrees
+8/26/2016,"nursing, program, bsn, msn, dnp",0.008836297,215,nursing,degrees
+9/13/2016,"nursing, program, bsn, msn, informatics",0.007810652,324,nursing,degrees
+9/16/2016,"nursing, program, bsn, msn, informatics",0.010603499,546,nursing,degrees
+8/31/2016,"nursing, program, bsn, msn, partner",0.009322209,324,nursing,degrees
+9/7/2016,"nursing, program, bsn, msn, practitioner",0.011044002,366,nursing,degrees
+9/30/2016,"nursing, program, bsn, msn, practitioner",0.007253643,251,nursing,degrees
+9/27/2016,"nursing, program, bsn, msn, ship, dnp",0.008459912,317,nursing,degrees
+8/30/2016,"nursing, program, msn, bsn, dnp, practitioner",0.009405585,295,nursing,degrees
+9/9/2016,"certificate, apply, behavior, program, aba, pennsylvania",0.007837382,497,certificate,degrees
+9/1/2016,"certificate, behavior, certified, degree, aba",0.007765656,454,certificate,degrees
+9/14/2016,"certificate, masters, graduate, work, aba, addiction, certified",0.010475652,925,certificate,degrees
+8/30/2016,"certificate, program, behavior, masters, aba, analysis",0.009847138,491,certificate,degrees
+8/26/2016,"certificate, program, masters, behavior, aba, analysis",0.012639807,541,certificate,degrees
+9/16/2016,"certificate, program, masters, behavior, analysis, credential",0.013215144,968,certificate,degrees
+9/13/2016,"certificate, social, program, masters, behavior, aba",0.011135069,987,certificate,degrees
+9/14/2016,"accounting, project, work, reimbursement, income",0.004423384,267,accounting,degrees
+8/26/2016,"psychology, counseling, program, masters, psychologist, clinical, mental",0.013536969,737,psychology,degrees
+8/29/2016,"psychology, program, masters, clinical, psychologist, behavior",0.010516476,722,psychology,degrees
+8/30/2016,"psychology, program, masters, counseling, psychologist, clinical, addiction",0.014365871,1169,psychology,degrees
+9/1/2016,"masters, psychology, program, interested, child, guarantee",0.013999214,1294,masters,degrees
+9/7/2016,"degree, accredited, application, start, commission, regionally, due",0.009943768,474,degree,degrees
+8/30/2016,"nursing, bsn, program, session, flex_path, standard",0.003796653,96,nursing,degrees
+8/27/2016,"psychology, courses, start, research, quarter, compare",0.012002461,32,psychology,degrees
+8/27/2016,"degree, resources, management, information, experience, required",0.017916348,51,degree,degrees
+9/16/2016,"degree, bachelor, masters, program, accounting, batches",0.024296403,2570,degree,degrees
+9/14/2016,"degree, bachelor, masters, transfer, associates, accounting",0.024675041,3055,degree,degrees
+8/27/2016,"degree, bachelor, psychology, masters, study",0.029898961,91,degree,degrees
+9/10/2016,"masters, degree, psychology, counseling",0.033545721,348,masters,degrees
+9/8/2016,"degree, masters, bachelor, psychology",0.022416887,2259,degree,degrees
+9/13/2016,"degree, masters, bachelor, services, human",0.029882488,3804,degree,degrees
+9/12/2016,"masters, psychology, social, degree, worker",0.019810269,2752,masters,degrees
+9/2/2016,"social, services, human, work, profit, worker",0.009507184,472,social,degrees
+9/22/2016,"license, state, requirements, program, internship, licensure, practicum",0.011856539,677,license,degrees
+10/13/2016,"social, work, field, student, yahoo, worker",0.006967074,548,social,degrees
+9/9/2016,"social, work, program, field, worker, practicum",0.006606626,387,social,degrees
+9/1/2016,"social, work, program, worker, carry, canada",0.007665557,378,social,degrees
+9/2/2016,"doctor, education, teaching, phd",0.01107512,570,doctor,degrees
+10/3/2016,"doctor, phd, research, teaching, dissertation",0.008146003,784,doctor,degrees
+9/1/2016,"doctor, program, teaching, degree, phd, teacher",0.010502069,875,doctor,degrees
+10/4/2016,"doctor, research, phd, program, dissertation",0.007492839,427,doctor,degrees
+9/29/2016,"doctor, teaching, phd, education, dissertation",0.008755728,827,doctor,degrees
+9/6/2016,"doctor, teaching, phd, education, teacher",0.014485865,1142,doctor,degrees
+8/29/2016,"social, program, residency, work, worker, canada",0.007954294,473,social,degrees
+10/13/2016,"psychology, counseling, masters, health, mental, behavior",0.015840991,1514,psychology,degrees
+9/2/2016,"license, program, state, family, marriage, therapy, internship",0.013023827,397,license,degrees
+9/29/2016,"psychology, program, clinical, behavior, psychologist",0.012574057,1344,psychology,degrees
+9/15/2016,"psychology, program, clinical, masters, psychologist, behavior",0.012957528,1061,psychology,degrees
+9/14/2016,"psychology, program, clinical, research, psychologist",0.011421512,1217,psychology,degrees
+9/13/2016,"psychology, program, doctor, clinical, psychologist",0.012199523,1077,psychology,degrees
+9/19/2016,"psychology, services, behavior, human, forensic",0.018299444,2353,psychology,degrees
+9/6/2016,"license, state, counseling, program, internship, practicum, licensure",0.017381129,853,license,degrees
+9/6/2016,"degree, bachelor, masters, certificate",0.04386596,3758,degree,degrees
+8/29/2016,"degree, bachelor, offer, program, batches",0.016831708,2103,degree,degrees
+8/31/2016,"degree, bachelor, program, transfer, criminal, associates",0.023571642,2046,degree,degrees
+8/30/2016,"degree, program, masters, bachelor, accounting",0.02863456,3250,degree,degrees
+10/10/2016,"doctor, education, teaching, masters, phd, teacher",0.016151896,2708,doctor,degrees
+9/21/2016,"masters, line, hold, transfer, advising, advisor, moment",0.03831992,4871,masters,degrees
+9/22/2016,"psychology, health, healthcare, administration",0.012660789,1497,psychology,degrees
+9/20/2016,"psychology, program, masters, work, behavior, clinical, aba",0.013822418,1186,psychology,degrees
+8/29/2016,"license, state, requirements, program, licensure, practicum",0.01042281,746,license,degrees
+10/5/2016,"masters, certificate, graduate, program, certified",0.016444671,2450,masters,degrees
+8/29/2016,"masters, certificate, program, graduate, certified, waste",0.011486566,1192,masters,degrees
+9/21/2016,"psychology, classes, program, student, pell, criminal, career",0.004055905,81,psychology,degrees
+9/13/2016,"concentration, psychology, questions, courses, forensics, addiction, marketing",0.002606644,85,psychology,degrees
+8/30/2016,"doctor, phd, level, study, consulting",0.009285745,739,doctor,degrees
+10/8/2016,"degree, classes, pay, questions, flex_path, typically, traditional, materials",0.011597057,47,degree,degrees
+10/6/2016,"degree, learning, program, school, accredited, flexibility, regionally, competency",0.010539577,776,degree,degrees
+9/15/2016,"degree, associates, work, classes, road, major, save",0.007248033,659,degree,degrees
+9/8/2016,"registered, accept, admissions, offer, admitted",0.015904476,1822,registered,degrees
+8/31/2016,"doctor, work, child, email, experiencing, heart, adolescent",0.004976785,151,doctor,degrees
+9/21/2016,"social, work, program, masters, worker, possibility, human",0.008504717,572,social,degrees
+9/8/2016,"state, certificate, program, requirements, aba, licensure",0.010397558,1057,certificate,degrees
+9/1/2016,"degree, bachelor, college, associates",0.01759778,1785,degree,degrees
+9/30/2016,"doctor, program, research, phd, dissertation",0.00697178,400,doctor,degrees
+9/27/2016,"doctor, program, work, health, practicum, capstone, public",0.003961172,162,doctor,degrees
+10/12/2016,"degree, work, business, education, path, model, traditional, marketing",0.001665495,32,degree,degrees
+9/7/2016,"degree, guess, bachelor, work, associates, semester",0.023886431,2505,degree,degrees
+9/26/2016,"psychology, clinical, doctor, research, psychologist, child",0.010755361,1007,psychology,degrees
+9/2/2016,"psychology, counseling, program, clinical, behavior, psychologist",0.016440856,692,psychology,degrees
+9/16/2016,"psychology, counseling, program, license, marriage, clinical",0.018365444,1550,psychology,degrees
+9/6/2016,"psychology, masters, degree, clinical, psychologist, aba, behavior",0.019469895,1365,psychology,degrees
+9/28/2016,"degree, program, masters, bachelor, psychology",0.036923917,3741,degree,degrees
+9/23/2016,"psychology, program, masters, clinical, behavior, development",0.010731048,957,psychology,degrees
+9/7/2016,"masters, psychology, program, work, behavior, clinical, counseling",0.028098414,1947,masters,degrees
+9/2/2016,"graduate, enter, federal, application, eligible",0.006583477,315,graduate,degrees
+9/3/2016,"nursing, department, online, capella, associates, flexibility",0.019823579,67,nursing,degrees
+9/3/2016,"bachelor, accreditation, sounds, lead, team",0.024452705,92,bachelor,degrees
+9/3/2016,"certificate, classes, masters, money, sit",0.011238099,36,certificate,degrees
+9/26/2016,"degree, bachelor, masters, level, undergraduate",0.019406249,2910,degree,degrees
+9/24/2016,"degree, bachelor, offer, nursing",0.026869969,219,degree,degrees
+9/19/2016,"masters, degree, program, work, addiction, social",0.025124156,2906,masters,degrees
+10/6/2016,"masters, degree, psychology, program, bachelor",0.028216027,2839,masters,degrees
+10/8/2016,"masters, degree, work, counseling, phd",0.044805487,253,masters,degrees
+9/22/2016,"degree, masters, bachelor, certificate, graduate",0.019977411,2868,degree,degrees
+10/4/2016,"masters, program, degree, bachelor, psychology",0.032424966,3986,masters,degrees
+10/7/2016,"masters, psychology, degree, work, social, human",0.032318363,3355,masters,degrees
+9/17/2016,"masters, psychology, program, degree, chat, enrollment",0.055026734,318,masters,degrees
+9/23/2016,"nursing, bsn, program, msn, practitioner",0.010099239,586,nursing,degrees
+10/7/2016,"nursing, bsn, program, paper, msn, north",0.009470209,358,nursing,degrees
+10/4/2016,"nursing, healthcare, bsn, program, msn",0.011486074,996,nursing,degrees
+9/22/2016,"nursing, program, bsn, convenience, msn",0.018294731,1252,nursing,degrees
+10/5/2016,"nursing, program, bsn, education, msn, coordination",0.009309635,850,nursing,degrees
+9/21/2016,"nursing, program, bsn, msn, practitioner",0.010065406,570,nursing,degrees
+9/20/2016,"nursing, program, bsn, msn, practitioner",0.011222035,994,nursing,degrees
+10/6/2016,"nursing, program, bsn, paper, income, hospital",0.010985972,818,nursing,degrees
+10/3/2016,"nursing, program, bsn, work, msn, hospital",0.009520727,460,nursing,degrees
+9/9/2016,"doctor, program, health, public, emergency",0.012618339,852,doctor,degrees
+9/14/2016,"doctor, work, hospital, experience, capstone, practicum",0.005998085,303,doctor,degrees
+9/15/2016,"certificate, education, teaching, work, certified",0.011754668,1081,certificate,degrees
+9/12/2016,"doctor, education, phd, masters, criminal, justice",0.012104488,1704,doctor,degrees
+9/28/2016,"doctor, program, phd, work, dissertation, retired",0.0079981,536,doctor,degrees
+9/8/2016,"doctor, program, research, phd, corporate",0.007835277,696,doctor,degrees
+9/26/2016,"doctor, program, research, phd, dissertation, residency",0.00783456,540,doctor,degrees
+10/7/2016,"certificate, program, education, masters, aba, designed, analysis",0.012177705,842,certificate,degrees
+10/13/2016,"nursing, bsn, msn, reimbursement, practitioner",0.007093135,282,nursing,degrees
+10/17/2016,"nursing, program, bsn, informatics, dnp",0.012782916,362,nursing,degrees
+9/9/2016,"nursing, program, bsn, msn, dnp",0.008596879,292,nursing,degrees
+10/10/2016,"nursing, program, bsn, msn, practitioner",0.01154473,753,nursing,degrees
+10/11/2016,"nursing, program, bsn, work, dnp, msn",0.010564475,678,nursing,degrees
+10/12/2016,"nursing, program, bsn, work, msn, dnp",0.010254578,506,nursing,degrees
+10/5/2016,"registered, academic, plan, courses, advisor, worth",0.014537071,2255,registered,degrees
+9/10/2016,"nursing, team, science, connect, healthcare, details",0.019980734,247,nursing,degrees
+9/10/2016,"certificate, clinical, license, counseling, study",0.011615794,98,certificate,degrees
+10/4/2016,"graduate, certificate, public, couple, grad",0.009576709,1853,certificate,degrees
+9/12/2016,"graduate, certificate, undergrad, level, grad",0.009506066,1594,certificate,degrees
+9/13/2016,"accounting, justice, criminal, requirements, safety",0.00691018,341,accounting,degrees
+9/28/2016,"accounting, pathway, job, degree, marine, tax",0.002968113,168,accounting,degrees
+9/27/2016,"accounting, requirements, courses, program, pathway, scenario, mba",0.005868122,216,accounting,degrees
+9/16/2016,"registered, change, balance, drop, participate",0.015553843,2077,registered,degrees
+10/3/2016,"social, work, worker, hours, florida, clients",0.00580142,556,social,degrees
+9/27/2016,"degree, business, start, courses, britney, fundamentals, baby, earn",0.001317814,24,degree,degrees
+9/17/2016,"license, kids, masters, state, counseling",0.016524415,95,license,degrees
+9/30/2016,"degree, evaluation, transfer, complete, earn, international",0.00679365,468,degree,degrees
+10/10/2016,"degree, school, learning, courses, division, accredited, earn",0.012427638,1264,degree,degrees
+9/21/2016,"degree, transfer, evaluation, accredited, accounting, agree",0.011969618,972,degree,degrees
+9/21/2016,"certificate, system, graduate, automatically, automated",0.013533653,2272,certificate,degrees
+9/24/2016,"masters, psychology, program, counseling, curriculum",0.027813686,146,masters,degrees
+9/24/2016,"masters, area, problem, rolling",0.025840056,207,masters,degrees
+9/26/2016,"graduate, program, public, health, justice, criminal",0.01093468,1449,graduate,degrees
+9/26/2016,"accounting, degree, basically, job, county, pathway, network",0.007585073,559,accounting,degrees
+9/26/2016,"certificate, behavior, graduate, hours, analysis, certified",0.006990184,530,certificate,degrees
+9/27/2016,"certificate, behavior, graduate, program, aba, analysis",0.008938626,563,certificate,degrees
+10/14/2016,"certificate, behavior, masters, work, handle, aba",0.005306259,300,certificate,degrees
+10/12/2016,"psychology, behavior, work, certificate, aba, child",0.008222199,557,psychology,degrees
+10/3/2016,"certificate, graduate, behavior, apply, analysis, aba",0.009481568,1114,certificate,degrees
+9/27/2016,"registered, academic, access, calendar, opt",0.008066422,612,registered,degrees
+10/14/2016,"nursing, program, bsn, msn, dnp",0.010114946,331,nursing,degrees
+10/17/2016,"masters, counseling, psychology, program, mental, psychologist",0.018587858,672,masters,degrees
+10/7/2016,"registered, accept, admissions, offer, mission",0.021044142,3508,registered,degrees
+9/29/2016,"registered, accept, offer, admissions, congratulations",0.014163032,2305,registered,degrees
+10/6/2016,"registered, process, accept, admissions, registration, review",0.021688711,3383,registered,degrees
+10/1/2016,"certificate, work, benefit, degree, minnesota, hard",0.011513259,29,certificate,degrees
+10/1/2016,"bachelor, degree, psychology, interested, found",0.030054536,123,bachelor,degrees
+10/11/2016,"psychology, counseling, program, masters, mental, clinical",0.013817945,1277,psychology,degrees
+10/3/2016,"psychology, clinical, general, psychologist, specialty",0.005781166,782,psychology,degrees
+10/4/2016,"communication, english, locked, information, leaning",0.004445639,238,english,degrees
+10/4/2016,"accounting, mba, courses, business, individual, pathway",0.005806329,374,accounting,degrees
+10/8/2016,"bachelor, management, college, matter, science",0.018501282,105,bachelor,degrees
+10/8/2016,"nursing, click, deal, due",0.017519688,69,nursing,degrees
+10/10/2016,"registered, care, wonderful, fact, driver",0.006374,915,registered,degrees
+10/11/2016,"registered, accept, orientation, submit, drop",0.023052199,2924,registered,degrees
+10/14/2016,"registered, case, process, back, literally, escalation, registration",0.012688315,922,registered,degrees
+10/15/2016,"psychology, home, sounds, start, bad, couple",0.029979452,172,psychology,degrees
+10/15/2016,"masters, work, case, social, human",0.03801474,159,masters,degrees
+10/15/2016,"degree, bachelor, offer, graduate, state",0.020644188,114,degree,degrees
+10/15/2016,"nursing, bsn, class, next, flex_path, additional",0.012504466,38,nursing,degrees
+10/17/2016,"certificate, information, technology, system, network",0.014013007,812,certificate,degrees
+10/17/2016,"registered, submit, plan, stuff, template, food",0.011156192,671,registered,degrees
+8/26/2016,"financial, aid, note, loan, promissory",0.022455241,1435,financial,financial aid
+10/3/2016,"loans, fast, note, student, promissory, entrance",0.008688372,949,loans,financial aid
+9/1/2016,"loans, student, counseling, fast, grants, promissory, entrance",0.01095618,689,loans,financial aid
+10/15/2016,"financial, aid, semester, guess, pull",0.032688858,107,financial,financial aid
+10/5/2016,"financial, aid, accept, offer, award, package",0.01970414,2633,financial,financial aid
+9/13/2016,"financial, aid, apply, loans, award, promissory",0.018577844,2211,financial,financial aid
+9/26/2016,"financial, aid, award, accept, refund",0.013464311,1645,financial,financial aid
+10/4/2016,"financial, aid, award, capella, agreement",0.014430094,1621,financial,financial aid
+9/1/2016,"financial, aid, award, cover, adults",0.019077697,1510,financial,financial aid
+9/28/2016,"financial, aid, award, email, agreement",0.015113332,1729,financial,financial aid
+10/3/2016,"financial, aid, award, form, package",0.014446415,1794,financial,financial aid
+10/6/2016,"financial, aid, award, questions, agreement",0.018867302,2205,financial,financial aid
+9/30/2016,"financial, aid, award, questions, agreement",0.014042965,1480,financial,financial aid
+9/21/2016,"financial, aid, classes, loans, award",0.028739174,2733,financial,financial aid
+9/6/2016,"financial, aid, complete, note, promissory, award",0.033886717,3299,financial,financial aid
+10/1/2016,"financial, aid, email, complete, fast, loans",0.033524083,141,financial,financial aid
+9/7/2016,"financial, aid, loan, student, award, promissory",0.032119033,3299,financial,financial aid
+9/29/2016,"financial, aid, loan, student, promissory",0.017745997,1873,financial,financial aid
+9/14/2016,"financial, aid, loans, accept, award, promissory",0.023302746,2577,financial,financial aid
+9/8/2016,"financial, aid, loans, award, promissory",0.024601292,2325,financial,financial aid
+9/9/2016,"financial, aid, loans, complete, promissory",0.022859415,2228,financial,financial aid
+9/19/2016,"financial, aid, loans, complete, promissory",0.021666807,2621,financial,financial aid
+8/29/2016,"financial, aid, loans, eligible, award, federal",0.018721486,1586,financial,financial aid
+9/20/2016,"financial, aid, loans, fast, award, promissory",0.019335793,2446,financial,financial aid
+9/2/2016,"financial, aid, loans, note, promissory, award",0.023009272,1658,financial,financial aid
+9/16/2016,"financial, aid, loans, student, award",0.0197284,1838,financial,financial aid
+9/15/2016,"financial, aid, loans, student, award",0.021478068,2133,financial,financial aid
+8/30/2016,"financial, aid, loans, student, award",0.020265431,1969,financial,financial aid
+9/23/2016,"financial, aid, loans, student, award",0.017009233,1800,financial,financial aid
+9/27/2016,"financial, aid, loans, student, award",0.021798833,1941,financial,financial aid
+9/12/2016,"financial, aid, loans, student, award, promissory",0.019438575,2383,financial,financial aid
+9/22/2016,"financial, aid, loans, student, promissory, award",0.019289553,2063,financial,financial aid
+10/7/2016,"financial, aid, loans, student, refund, award",0.025689523,2793,financial,financial aid
+9/3/2016,"financial, aid, questions, federal, eligible",0.025465964,104,financial,financial aid
+9/10/2016,"financial, aid, representative, support, advising",0.013714716,123,financial,financial aid
+8/31/2016,"financial, aid, student, questions, award, package",0.016524776,1429,financial,financial aid
+9/3/2016,"loans, student, direct, process, amount",0.018303147,58,loans,financial aid
+9/17/2016,"aid, financial, turn, work, lead",0.011292232,38,financial,financial aid
+9/24/2016,"financial, aid, application, complete, due, steps",0.019618934,103,financial,financial aid
+9/24/2016,"financial, receive, complete, aid, loans",0.01728348,70,financial,financial aid
+9/29/2016,"financial, aid, letter, reimbursement, disconnected, quest",0.013227525,1698,financial,financial aid
+10/8/2016,"financial, aid, click, sounds, sit",0.028101539,169,financial,financial aid
+10/14/2016,"financial, aid, loan, student, award",0.017365299,1690,financial,financial aid
+10/13/2016,"financial, aid, loans, fast, promissory",0.020064244,1879,financial,financial aid
+10/12/2016,"financial, aid, loans, note, promissory",0.024617779,2572,financial,financial aid
+10/11/2016,"financial, aid, loans, student, award",0.021579817,2534,financial,financial aid
+10/17/2016,"financial, aid, loans, student, key",0.018239518,1035,financial,financial aid
+10/10/2016,"financial, aid, questions, award, promissory",0.01773825,2248,financial,financial aid
+9/30/2016,"healthcare, administration, leadership, health, public",0.009915181,948,healthcare,healthcare
+8/26/2016,"healthcare, administration, program, management, medical, health",0.008659367,322,healthcare,healthcare
+9/15/2016,"healthcare, nursing, administration, health, msn",0.016523524,1551,healthcare,healthcare
+9/8/2016,"healthcare, administration, health, public, criminal",0.008928977,735,healthcare,healthcare
+10/17/2016,"healthcare, administration, health, work, public",0.017375007,866,healthcare,healthcare
+9/1/2016,"healthcare, program, administration, health, public",0.009902564,598,healthcare,healthcare
+9/23/2016,"healthcare, administration, health, public, policy",0.01136764,1059,healthcare,healthcare
+9/27/2016,"healthcare, program, health, work, adult, training, informatics",0.005921669,307,healthcare,healthcare
+10/8/2016,"healthcare, program, health, administration, field",0.016873603,94,healthcare,healthcare
+9/3/2016,"potentially, healthcare, university, office, administration",0.048635742,140,healthcare,healthcare
+9/7/2016,"healthcare, transfer, administration, health, voicemail, chat, medical",0.021071665,2580,healthcare,healthcare
+9/20/2016,"health, public, masters, doctor, new_york, mass",0.014971666,2041,health,healthcare
+9/20/2016,"healthcare, administration, management, program, human, mba",0.014528515,1776,healthcare,healthcare
+10/11/2016,"healthcare, health, administration, work, public",0.010173947,941,healthcare,healthcare
+9/21/2016,"healthcare, administration, assistance, medical, wireless",0.014760316,2063,healthcare,healthcare
+10/3/2016,"care, tax, patient, population, coordination",0.006427557,659,care,healthcare
+10/10/2016,"health, public, organization, customer",0.009665529,1122,health,healthcare
+10/15/2016,"care, important, stuff, hospital, goal, picture",0.014770302,54,care,healthcare
+9/9/2016,"residency, program, quarter, travel, atlanta, hotel",0.004725949,200,residency,living
+9/1/2016,"residency, work, program, quarter, travel, supervision, faculty",0.005939117,272,residency,living
+10/7/2016,"residency, dissertation, work, phd, organizational, law",0.005369464,210,residency,living
+9/8/2016,"dissertation, residency, research, terms, topic, mentor",0.004247054,196,residency,living
+9/30/2016,"totally, residency, roughly, stuff, occasion",0.006282616,336,residency,living
+8/26/2016,"discount, free, opportunity, questions, include",0.010556155,512,discount,payment
+9/6/2016,"pay, loans, scholarship, apply, balance",0.02485778,3067,pay,payment
+9/7/2016,"pay, quarter, apply, scholarship, discount, out_of_pocket",0.023475304,2787,pay,payment
+9/9/2016,"pay, quarter, scholarship, tuition, reimbursement",0.020384235,2103,pay,payment
+8/30/2016,"pay, scholarship, apply, money, out_of_pocket",0.017534933,1910,pay,payment
+8/27/2016,"pay, classes, basically, papers",0.016075635,42,pay,payment
+8/29/2016,"pay, apply, application, fee, waive",0.011322711,1468,pay,payment
+9/20/2016,"pay, money, cover, tuition, reimbursement, out_of_pocket",0.012900891,2012,pay,payment
+9/26/2016,"pay, money, payment, loans, balance",0.01194538,1878,pay,payment
+9/28/2016,"pay, scholarship, cost, loans, out_of_pocket, minimum",0.013278604,1555,pay,payment
+8/31/2016,"pay, plan, payment, balance",0.01146233,1443,pay,payment
+9/1/2016,"pay, plan, office, payment, balance",0.014004271,2142,pay,payment
+9/27/2016,"pay, school, online, company, wife, laptop, looked",0.014699317,1418,pay,payment
+9/9/2016,"phd, program, research, dissertation, consulting, liberty",0.003409396,116,phd,payment
+9/8/2016,"pay, home, money, house, found",0.017351213,2524,pay,payment
+9/10/2016,"pass, cost, type, start, practice",0.006130881,55,cost,payment
+9/12/2016,"pay, finish, money, basically, out_of_pocket, period",0.010916889,1932,pay,payment
+9/12/2016,"payment, run, pay, partner, portion, bucks",0.008687537,979,payment,payment
+9/13/2016,"pay, office, payment, business, balance",0.014698043,2735,pay,payment
+10/10/2016,"pay, office, payment, plan, balance",0.019011758,3230,pay,payment
+10/12/2016,"pay, office, payment, quarter, registered",0.021107288,3017,pay,payment
+9/16/2016,"pay, money, payment, back, out_of_pocket",0.012162617,1493,pay,payment
+9/23/2016,"phd, justice, criminal, classes, safety",0.006402419,216,phd,payment
+9/26/2016,"discount, military, apply, benefits, veteran",0.005079733,386,discount,payment
+9/27/2016,"payment, pay, balance, drop, report",0.01189357,939,payment,payment
+9/30/2016,"pay, money, stuff, work, grand, semester",0.016029765,1807,pay,payment
+10/1/2016,"pay, classes, add, program, file, federal",0.023665367,86,pay,payment
+10/5/2016,"pay, loan, payment, student, amount, out_of_pocket",0.014924746,2099,pay,payment
+10/3/2016,"pay, money, company, reimbursement, paperwork",0.012419227,2111,pay,payment
+10/4/2016,"pay, money, point, amount, reimbursement",0.010035974,1494,pay,payment
+10/6/2016,"pay, payment, military, months, benefits",0.01687793,2820,pay,payment
+10/11/2016,"pay, reimbursement, grade, degree, official, tuition",0.007160986,587,pay,payment
+10/13/2016,"pay, money, college, graduate, community",0.010965968,1831,pay,payment
+10/14/2016,"pay, finish, back, money, balance, payment",0.019568506,2631,pay,payment
+10/17/2016,"pay, money, payment, order, out_of_pocket",0.010793986,805,pay,payment
+9/12/2016,"administration, healthcare, health, public, customer",0.011839622,1477,administration,university
+10/3/2016,"administration, healthcare, public, health, justice",0.015282284,1892,administration,university
+8/26/2016,"school, college, degree, graduate, associates, teacher",0.023103432,1714,school,university
+8/31/2016,"school, college, education, online, high, closer",0.017591064,2381,school,university
+8/29/2016,"school, college, high, criminal, justice",0.017244954,2354,school,university
+9/2/2016,"school, degree, familiar, requirements, accredited, international",0.015531597,1469,school,university
+9/13/2016,"school, guess, online, college, high",0.021739799,3813,school,university
+9/6/2016,"school, healthcare, administration, health, partner, public",0.019094302,2597,school,university
+8/30/2016,"school, high, kids, new_york",0.012206486,1936,school,university
+9/15/2016,"school, online, college, graduate, found",0.018833633,3118,school,university
+9/8/2016,"school, online, college, graduate, high",0.01805462,2965,school,university
+9/12/2016,"school, online, college, high",0.0187467,3734,school,university
+9/7/2016,"school, online, high, work, diploma",0.021564753,3464,school,university
+9/14/2016,"school, online, receive, student, high, medical",0.021603367,4288,school,university
+9/17/2016,"school, work, field, education, high, counseling",0.01676843,91,school,university
+9/16/2016,"school, work, student, high, florida, college",0.014434442,2248,school,university
+9/21/2016,"admissions, documents, review, update, letter",0.022328329,2856,admissions,university
+8/29/2016,"university, capella, follow, receive, giving",0.03597892,3480,university,university
+9/8/2016,"university, education, department, giving, kaplan",0.017869395,2838,university,university
+8/30/2016,"university, touch, office, based, voice",0.028447405,3052,university,university
+8/26/2016,"capella, university, questions, follow, touch",0.056787347,3089,capella,university
+9/17/2016,"university, voicemail, back, request, hold",0.011793923,195,university,university
+10/1/2016,"school, program, classes, bad, state, family, counseling",0.006864494,17,school,university
+8/29/2016,"school, work, internship, degree, maryland, facebook, template",0.003567003,124,school,university
+8/26/2016,"business, management, degree, specialization, mba",0.016276166,1127,business,university
+8/31/2016,"business, management, healthcare, administration",0.017799553,1737,business,university
+8/30/2016,"business, specialization, management, area, human",0.013137979,1355,business,university
+8/29/2016,"business, specialization, mba, accounting, marketing",0.012341103,1248,business,university
+9/6/2016,"accredited, degree, work, start, regionally, commission, higher",0.012083813,714,accredited,university
+9/1/2016,"accredited, program, learning, online, regionally, commission",0.009581432,504,accredited,university
+8/30/2016,"accredited, program, online, regionally, commission, higher",0.008310792,527,accredited,university
+10/14/2016,"accredited, transfer, security, classes, network, regionally",0.00623359,338,accredited,university
+8/27/2016,"school, stuff, college, work, community",0.017888047,64,school,university
+8/27/2016,"school, start, masters, next, prefer, teaching",0.027003114,160,school,university
+8/27/2016,"university, information, business, bachelor, technology",0.095912947,209,university,university
+9/17/2016,"capella, afternoon, weekend, public",0.025822522,385,capella,university
+9/1/2016,"capella, ahead, online, power, location",0.013484884,2533,capella,university
+9/20/2016,"university, capella, follow, direct, kaplan",0.045519888,5517,university,university
+9/27/2016,"university, capella, follow, interested, central",0.053236727,4335,university,university
+9/23/2016,"university, capella, follow, program, kaplan, convenience",0.06302362,4638,university,university
+9/24/2016,"university, capella, interested, questions, missions",0.062729239,352,university,university
+9/28/2016,"university, capella, program, interested, kaplan, convenience",0.075792693,5328,university,university
+9/22/2016,"university, counselor, follow, connect, central",0.029967577,4121,university,university
+9/19/2016,"capella, follow, problem, morning, central, afternoon",0.041241982,5257,capella,university
+9/29/2016,"university, interested, program, information, kaplan, inquiry",0.062584717,4849,university,university
+8/27/2016,"capella, program, wrong, save",0.016439403,129,capella,university
+9/30/2016,"university, program, capella, interested, pursuing, kaplan",0.092122983,4888,university,university
+9/26/2016,"capella, university, hear, follow",0.03108266,4989,capella,university
+9/14/2016,"education, teaching, phd, program, child",0.009575292,821,education,university
+9/12/2016,"university, capella, afternoon, morning, central",0.036531737,5280,university,university
+9/9/2016,"university, capella, contact, interested, inquiry, pursue, event",0.03105493,3148,university,university
+10/11/2016,"university, capella, follow, mailbox, convenience, inquiry",0.053978815,4857,university,university
+10/12/2016,"university, capella, interested, program, pursuing, convenience",0.077879321,4930,university,university
+10/14/2016,"university, capella, interested, program, pursuing, inquiry",0.071238173,4410,university,university
+10/10/2016,"university, capella, problem, kaplan, compelling",0.038633645,5445,university,university
+10/13/2016,"university, interested, capella, program, inquiry, kaplan, pursuing",0.044546219,3927,university,university
+9/10/2016,"university, interested, capella, pursue, age",0.048560729,562,university,university
+9/13/2016,"capella, university, follow, hear, afternoon",0.052269425,5650,capella,university
+10/1/2016,"capella, university, questions, next, public, date_of_brith",0.044950259,219,capella,university
+8/31/2016,"education, certificate, teaching, program, teacher, instructions",0.009121848,406,education,university
+9/27/2016,"school, education, teaching, program, teacher, childhood",0.013775792,1173,school,university
+9/21/2016,"education, program, teaching, masters, teacher, curriculum",0.011543541,810,education,university
+9/16/2016,"education, program, teaching, online, teacher, development",0.011821016,906,education,university
+9/19/2016,"education, teaching, degree, masters, teacher, curriculum",0.012610877,1100,education,university
+9/26/2016,"education, teaching, masters, teacher, classroom",0.007915112,601,education,university
+9/9/2016,"education, teaching, program, masters, teacher, childhood",0.014326749,1165,education,university
+10/14/2016,"education, teaching, program, masters, teacher, income",0.008688418,593,education,university
+9/20/2016,"education, teaching, program, student, teacher, classroom",0.009181981,990,education,university
+8/30/2016,"education, teaching, program, teacher, curriculum",0.008418091,505,education,university
+9/2/2016,"education, teaching, program, terms, designed, teacher, curriculum",0.005408423,180,education,university
+8/29/2016,"education, teaching, school, child, teacher",0.009805007,597,education,university
+9/22/2016,"education, teaching, school, teacher, childhood",0.009674358,1012,education,university
+9/8/2016,"education, teaching, teacher, program, texas, endorsement",0.00601988,310,education,university
+10/10/2016,"education, work, point, questions, regulations, regulatory, rubric, relationships",0.00280364,162,education,university
+8/31/2016,"university, capella, program, information, afternoon, inquiry",0.06202965,3738,university,university
+9/1/2016,"university, program, interested, information, excellent, inquired, wonderful",0.045735078,3244,university,university
+8/30/2016,"capella, questions, follow, program, central, afternoon",0.045869175,3438,capella,university
+9/6/2016,"university, reach, capella, enrollment, voice, services",0.068623015,4196,university,university
+9/2/2016,"capella, university, connect, direct, inquiry",0.042502965,2750,capella,university
+9/9/2016,"college, semester, degree, online, community, associates",0.011343182,869,college,university
+8/30/2016,"college, work, hard, company, math, community",0.010987502,990,college,university
+10/4/2016,"accredited, learning, work, online, regionally, flexibility, environment",0.007402468,509,accredited,university
+10/3/2016,"business, program, courses, management, accounting, marketing, skills, environment",0.00874525,622,business,university
+9/26/2016,"accredited, discussion, assignments, weeks, paper, structure",0.007042549,556,accredited,university
+9/9/2016,"school, work, guess, job, child, hospital",0.022718685,1616,school,university
+10/5/2016,"business, management, healthcare, administration, mba",0.016125081,2554,business,university
+9/27/2016,"school, college, transfer, degree, high, associates, semester",0.01327015,1057,school,university
+9/2/2016,"admissions, accept, offer, voice, admitted",0.019281056,1769,admissions,university
+9/13/2016,"admissions, registered, accept, review, admitted",0.017491148,2521,admissions,university
+9/9/2016,"school, accredited, work, program, regionally, fit, role",0.008440375,447,school,university
+9/1/2016,"school, online, high, kids",0.017157799,2229,school,university
+9/1/2016,"education, general, human, specialization, english",0.01111863,1280,education,university
+9/8/2016,"business, accounting, mba, administration, intelligence",0.008059719,712,business,university
+9/1/2016,"business, management, accounting, mba",0.014415131,1595,business,university
+9/26/2016,"business, mba, marketing, general, showed",0.011659816,2278,business,university
+9/2/2016,"business, teaching, throw, work, died, law",0.004021903,100,business,university
+9/2/2016,"advising, advisor, program, courses, capstone, portal",0.008336854,234,advisor,university
+10/14/2016,"school, online, college, graduate, high",0.022060828,2893,school,university
+9/15/2016,"school, work, point, referral, organization, analytics, biggest",0.004302768,189,school,university
+9/7/2016,"business, courses, specialization, management, accounting, mba",0.020311107,2601,business,university
+9/2/2016,"business, management, administration, healthcare",0.02051084,1429,business,university
+9/12/2016,"business, management, degree, accounting, mba",0.01954806,3294,business,university
+9/16/2016,"business, management, project, degree, healthcare, marketing",0.015442174,1657,business,university
+9/6/2016,"business, management, project, mba",0.019687726,2272,business,university
+9/15/2016,"business, management, project, mba",0.016179407,1962,business,university
+9/3/2016,"school, college, classes, online, community, box",0.027687493,130,school,university
+9/19/2016,"school, online, college, classes, high",0.026497477,4040,school,university
+9/22/2016,"school, stuff, job, finish, husband, texas, high",0.019941769,2292,school,university
+9/21/2016,"school, work, online, classes, high, college, job",0.027770461,3221,school,university
+9/20/2016,"school, work, online, job, college, husband",0.026851609,3552,school,university
+9/15/2016,"university, capella, interested, program, kaplan, inquiry",0.069513879,4088,university,university
+9/14/2016,"university, interested, capella, program, inquiry, kaplan",0.074012267,4139,university,university
+9/16/2016,"university, program, capella, interested, inquiry, convenience",0.108200401,4330,university,university
+10/8/2016,"business, classes, data, administration, traditional",0.015975678,95,business,university
+9/3/2016,"business, traditional, specialization, management, area",0.018970444,86,business,university
+10/7/2016,"school, program, doctor, psychologist, supervision, practicum, essentially",0.003149547,118,school,university
+9/27/2016,"business, management, degree, courses, project, marketing",0.012822319,1178,business,university
+10/14/2016,"business, management, degree, program, accounting, healthcare",0.023790017,2645,business,university
+9/21/2016,"business, management, degree, project, mba",0.01291914,1122,business,university
+9/19/2016,"business, management, healthcare, administration",0.022331076,2994,business,university
+10/10/2016,"business, management, healthcare, administration, mba",0.016915314,2460,business,university
+9/23/2016,"business, management, mba, project",0.015394983,2086,business,university
+10/17/2016,"business, management, project, accounting, mba",0.016227078,1114,business,university
+9/22/2016,"business, management, project, degree, mba",0.016570933,2193,business,university
+9/20/2016,"business, management, project, specialization, marketing",0.014713008,2605,business,university
+9/28/2016,"business, management, specialization, mba, project",0.014831653,2003,business,university
+9/30/2016,"business, management, work, project, marketing",0.01477996,1830,business,university
+9/8/2016,"capella, follow, free, happy, checkin",0.018785107,3122,capella,university
+10/5/2016,"education, psychology, program, teaching, teacher",0.013744052,1268,education,university
+10/6/2016,"education, teaching, certificate, program, teacher",0.011885519,1140,education,university
+9/28/2016,"education, teaching, program, masters, teacher, curriculum",0.008974914,667,education,university
+10/4/2016,"school, teaching, program, education, psychologist, opposed, curriculum",0.003925795,199,school,university
+10/11/2016,"education, terms, sort, experience, role, relevant",0.007390534,657,education,university
+9/9/2016,"paper, business, accounting, worse, articles, quote",0.004029464,153,business,university
+9/9/2016,"school, grand, money, questions, canyon, daughter, estimate",0.005281431,174,school,university
+9/9/2016,"office, business, assistance, hold, enter, purposes",0.016887283,1851,business,university
+9/10/2016,"academic, advisor, student, loans, data",0.009008899,67,academic,university
+10/15/2016,"school, business, worry, interested, chance",0.018663337,133,school,university
+9/10/2016,"school, decide, new, minute",0.017093132,304,school,university
+10/17/2016,"school, online, education, high, ways",0.016122093,1728,school,university
+9/10/2016,"school, online, guess, helping, head",0.011352995,86,school,university
+9/10/2016,"capella, couple, level, hours",0.016368617,379,capella,university
+9/29/2016,"capella, luck, pallet, nutrition",0.01277216,2627,capella,university
+10/15/2016,"service, business, line, counselor",0.061351781,209,business,university
+9/22/2016,"interested, capella, program, pursuing, inquiry",0.045927199,3931,capella,university
+10/4/2016,"university, capella, information, program, kaplan, criminal",0.058933963,5572,university,university
+10/5/2016,"university, capella, interested, follow, convenience, inquiry",0.055578316,4939,university,university
+10/3/2016,"university, capella, program, interested, kaplan, inquiry",0.062480581,5788,university,university
+9/21/2016,"university, capella, program, interested, pursuing",0.082270613,4703,university,university
+10/7/2016,"university, leave, capella, interested, inquiry",0.091487257,4320,university,university
+10/6/2016,"university, program, capella, interested, kaplan, inquiry",0.07587111,5285,university,university
+9/13/2016,"college, wife, diploma, married, new_york",0.008263753,846,college,university
+9/15/2016,"academic, advisor, point, advising, florida",0.009965434,815,academic,university
+9/20/2016,"admissions, accept, registered, orientation, update",0.024413358,3585,admissions,university
+10/12/2016,"school, business, partner, program, phoenix, discover, aspect",0.004134421,239,school,university
+10/15/2016,"university, information, follow, interested",0.051570844,203,university,university
+9/17/2016,"university, interested, questions, masters, bad",0.051776727,421,university,university
+9/24/2016,"college, program, classes, flex, paced, including",0.014869161,68,college,university
+9/17/2016,"business, start, save, click, ready",0.015750764,153,business,university
+10/11/2016,"business, courses, management, program, accounting, mba",0.017394686,2134,business,university
+10/12/2016,"business, management, program, courses, leadership, marketing",0.009899634,630,business,university
+10/14/2016,"administration, leadership, public, program, customer",0.010588767,943,administration,university
+9/22/2016,"college, military, benefits, community, retired",0.006905486,726,college,university
+9/26/2016,"school, college, community, deal, history",0.011400461,2359,school,university
+9/30/2016,"school, college, education, online, high, law",0.020583547,3055,school,university
+9/29/2016,"school, college, high, live, street",0.018969176,3352,school,university
+10/5/2016,"school, guess, online, job, husband, hospital, medical, kids",0.025329447,2889,school,university
+10/10/2016,"school, job, online, college, community, kids",0.021378099,2061,school,university
+9/24/2016,"school, online, bit, degree, study",0.018760161,189,school,university
+9/28/2016,"school, online, college, high",0.017732734,3182,school,university
+10/4/2016,"school, online, high, basically, test",0.01608766,3118,school,university
+10/6/2016,"school, online, live, high, kids",0.019222683,3972,school,university
+10/11/2016,"school, online, work, degree, high, semester",0.023180326,3539,school,university
+9/23/2016,"school, student, high, route, english, childhood",0.013114291,1823,school,university
+10/12/2016,"school, work, online, college, high",0.023059398,3229,school,university
+10/7/2016,"school, work, online, college, semester",0.023841432,2221,school,university
+9/24/2016,"education, doctor, mentioned, teaching",0.018713222,113,education,university
+9/24/2016,"business, sounds, middle, administration",0.019894218,223,business,university
+9/27/2016,"school, kids, child, field, minus, parents",0.004920382,296,school,university
+9/27/2016,"school, data, customer, program, analytics, network",0.002886954,103,school,university
+10/4/2016,"school, start, program, work, security, network, accredited, usual",0.001828484,43,school,university
+10/1/2016,"waiting, business, box, moment, shoot",0.022537909,177,business,university
+10/1/2016,"school, online, university, company, phoenix",0.01558601,35,school,university
+10/1/2016,"business, work, management, group, security, side",0.010327129,17,business,university
+10/1/2016,"education, degree, masters, student, wonderful, higher",0.0173729,40,education,university
+10/3/2016,"business, office, plan, payment, balance",0.015307267,3866,business,university
+10/3/2016,"school, online, college, graduate, high",0.017860169,3981,school,university
+10/3/2016,"study, education, teaching, addiction, childhood, teacher",0.007594119,734,education,university
+10/4/2016,"office, business, afternoon, central, evening, clock",0.020554472,4827,business,university
+10/5/2016,"school, work, california, psychologist, district, arizona",0.004138614,192,school,university
+10/6/2016,"business, accounting, college, marketing",0.015252917,2630,business,university
+10/7/2016,"school, child, work, kids, teacher, parents",0.004435079,227,school,university
+10/8/2016,"school, real, writing, degree, research, study",0.00778816,31,school,university
+10/11/2016,"college, work, back, computer, community, medical, local",0.012929469,1500,college,university
+10/11/2016,"accredited, back, school, quest, fan, rock, mobile",0.004305174,170,accredited,university
+10/13/2016,"school, education, teaching, high, teacher",0.014251513,1699,school,university
+10/15/2016,"capella, request, forward, kaplan, morning",0.031933147,137,capella,university
+10/17/2016,"college, work, degree, graduate, communication, community, phoenix",0.013017556,797,college,university
+8/26/2016,"away, money, pay, pretty, commitment, expensive",0.011963802,1305,away,wait
+10/13/2016,"back, home, ahead, figure, wrong, late",0.03106942,3681,back,wait
+8/26/2016,"back, stuff, wait, remember, middle",0.030461113,2955,back,wait
+8/29/2016,"back, ahead, figure, order, explain",0.025706036,3958,back,wait
+10/3/2016,"back, chance, left, answer, knee",0.025221195,5955,back,wait
+8/30/2016,"back, change, minutes, check, won",0.042291543,4267,back,wait
+10/1/2016,"back, half, hours, questions, miss",0.038110834,276,back,wait
+9/24/2016,"back, live, soon, better, care",0.034482375,352,back,wait
+9/15/2016,"back, local, care, billing, sing, equipment",0.021728647,4306,back,wait
+9/8/2016,"back, minutes, soon, ahead, sheree",0.023448576,4404,back,wait
+9/10/2016,"back, miss, problem, wait",0.042631518,638,back,wait
+9/22/2016,"back, miss, soon, return, marine",0.030053651,5150,back,wait
+9/16/2016,"back, problem, work, find, ready, minutes",0.043418345,4941,back,wait
+8/27/2016,"back, questions, close, office, enjoy, open",0.049962715,221,back,wait
+9/23/2016,"back, soon, couple, chance",0.032905995,5145,back,wait
+9/20/2016,"back, threat, circle, left, bedroom",0.022628075,5614,back,wait
+9/30/2016,"back, wait, couple, care, noon, device",0.029726789,5204,back,wait
+9/19/2016,"back, work, guess, hours, figure",0.042185783,6024,back,wait
+8/31/2016,"back, work, minutes, soon, tonight, late",0.036285505,4088,back,wait
+10/4/2016,"back, work, morning, minutes",0.039704443,6428,back,wait
+9/9/2016,"back, work, morning, miss, tonight",0.045782956,4406,back,wait
+9/21/2016,"back, work, remember, office, ago",0.03738925,5364,back,wait
+10/7/2016,"back, form, sign, fill, fax",0.02543228,3802,back,wait
+9/27/2016,"back, home, ready, fortunately",0.027275595,4543,back,wait
+9/7/2016,"back, leave, office, hold, moment, representative",0.056495308,4172,back,wait
+9/26/2016,"back, leave, soon, cellphone",0.054159452,5149,back,wait
+9/6/2016,"back, leave, soon, return",0.041288879,4392,back,wait
+9/3/2016,"back, message, reach, forward",0.072142118,181,back,wait
+10/5/2016,"back, office, afternoon, code, large",0.030493127,5663,back,wait
+9/28/2016,"back, problem, check, afternoon, stupid",0.034352009,5736,back,wait
+10/6/2016,"back, return, ring, verizon, favorite",0.024757069,5479,back,wait
+8/29/2016,"wait, morning, kids, total, funny, mom",0.010208357,1459,wait,wait
+9/13/2016,"back, deal, drop, point, confused, pick",0.014007443,2298,back,wait
+8/30/2016,"back, place, walk, rent, deposit, sister",0.006266597,312,back,wait
+9/14/2016,"back, email, work, remote, quizzes, quiz, text",0.003603257,85,back,wait
+8/31/2016,"wait, file, fast, confirm",0.014831532,1761,wait,wait
+9/2/2016,"back, leave, miss, left, desk",0.041549602,2905,back,wait
+9/29/2016,"back, leave, miss, left, modify",0.060367493,4910,back,wait
+9/1/2016,"back, minutes, walk, meet, chart",0.023342074,3561,back,wait
+9/12/2016,"back, office, minutes, miss, clock",0.038497527,6191,back,wait
+10/5/2016,"back, case, process, conversation, remote, perceptive, resume, content",0.004408628,162,back,wait
+10/17/2016,"back, check, soon, miss, disconnected",0.035263147,2668,back,wait
+10/15/2016,"back, full, computer, meet, website",0.035321825,249,back,wait
+10/8/2016,"back, message, soon, automatically",0.063019313,291,back,wait
+10/10/2016,"back, miss, soon, ready, earlier",0.034422715,6395,back,wait
+9/7/2016,"wait, back, change, documents, drop",0.030818303,4084,wait,wait
+9/13/2016,"back, remember, read, miss, tonight, forget",0.020553416,3314,back,wait
+9/13/2016,"back, medical, mom, pay, disability, surgery",0.007837087,648,back,wait
+9/17/2016,"away, assessment, complete, skills, personal",0.022159449,219,away,wait
+9/17/2016,"back, decide, wait, figure, situation",0.022985801,267,back,wait
+9/23/2016,"wait, stuff, pay, asked, cancel, paperwork",0.017161921,2274,wait,wait
+10/7/2016,"back, customer, questions, money, disability, control, movie",0.009952038,841,back,wait
+10/8/2016,"back, work, pretty, friends, clock, ago",0.028459743,117,back,wait
+10/12/2016,"back, work, start, guess, ahead, tonight",0.050091004,5620,back,wait
+10/17/2016,"back, point, game, run, score, play, bucks",0.006736459,203,back,wait
+10/14/2016,"back, data, verizon, active, ring",0.017198293,2119,back,wait
+10/17/2016,"wait, find, new, won, computer, mail",0.015238475,1693,wait,wait
+9/6/2016,"work, residency, dissertation, quarter, faculty, face",0.008320481,381,work,work
+9/8/2016,"work, best, sea, tile",0.018022768,3945,work,work
+9/10/2016,"work, better, prepare, business",0.02008343,445,work,work
+9/14/2016,"work, college, online, job, community, retired, husband",0.014743095,1071,work,work
+9/1/2016,"work, guess, job, start, honestly",0.030959267,3948,work,work
+9/12/2016,"work, hours, job, part, air",0.02357916,5443,work,work
+9/13/2016,"work, job, figure, interested, child, kids",0.018878202,2710,work,work
+9/15/2016,"work, job, pay, interested, weird, life, daughter",0.020257921,2030,work,work
+8/26/2016,"work, part, job, field",0.02553901,3048,work,work
+9/2/2016,"work, start, apply, qualify, helpful",0.02060265,2975,work,work
+9/8/2016,"work, business, application, degree, marketing, wrote, project, format",0.002573658,19,work,work
+10/4/2016,"flex, complete, pass, weeks, flex_path, traditional, pace",0.010106458,753,flex,work
+10/5/2016,"flex, weeks, program, complete, flex_path, traditional",0.008763897,753,flex,work
+8/27/2016,"work, program, counseling, social, concern, process",0.021732263,139,work,work
+10/14/2016,"work, back, start, find, home",0.033734864,4834,work,work
+10/6/2016,"work, better, finish, home, looked, drive",0.022162993,5327,work,work
+10/13/2016,"work, finish, live, ready, husband, eat, life",0.025185598,3626,work,work
+10/5/2016,"work, morning, hours, better, clock",0.022770455,5466,work,work
+10/10/2016,"work, stuff, part, bit, medical, hard",0.023975735,5450,work,work
+8/27/2016,"work, sounds, live, bit, schedule, job, research",0.022251776,73,work,work
+8/27/2016,"work, standard, back, morning, short, semester",0.024196979,119,work,work
+8/29/2016,"work, job, better, enjoy, husband",0.019755578,3708,work,work
+8/30/2016,"work, social, job, field, child, worker",0.016804105,1740,work,work
+9/6/2016,"work, social, services, worker, act, human",0.01207253,940,work,work
+8/31/2016,"work, social, worker, accredited, bank, canada",0.008237522,504,work,work
+8/27/2016,"work, technical, area, computer",0.019175881,92,work,work
+9/22/2016,"flex, program, traditional, pass, flex_path, pace",0.008440784,468,flex,work
+9/1/2016,"flex, program, complete, traditional, flex_path, assessment",0.013467082,682,flex,work
+8/31/2016,"flex, program, flex_path, pass, traditional, pace",0.011449903,638,flex,work
+9/27/2016,"flex, program, weeks, traditional, flex_path, path",0.007685881,474,flex,work
+9/26/2016,"flex, traditional, flex_path, degree, expensive",0.008755611,711,flex,work
+8/30/2016,"flex, traditional, program, weeks, flex_path, structure",0.00825732,411,flex,work
+8/29/2016,"flex, weeks, flex_path, traditional, session",0.011225303,639,flex,work
+8/29/2016,"work, email, career, meet, interview, invite, pdf, lawyer",0.005591846,244,work,work
+10/4/2016,"work, complete, tennessee, program, practicum, minneapolis, clinical",0.001851723,55,work,work
+10/5/2016,"work, start, program, email, profit, practicum, poor, language",0.001662516,22,work,work
+9/28/2016,"work, flex, program, degree, traditional, flex_path, division",0.009212206,547,work,work
+9/30/2016,"flex, traditional, weeks, flex_path, pace",0.010212875,589,flex,work
+10/3/2016,"job, interested, education, work, career, child, medical",0.011121769,1242,job,work
+9/14/2016,"work, job, company, point, mom, profit, training, church",0.009172784,733,work,work
+8/31/2016,"work, job, money, interested, daughter, husband, stop",0.013250707,961,work,work
+8/30/2016,"work, kids, life, hospital, daughter, medical, husband",0.009460328,530,work,work
+9/19/2016,"job, work, company, position, director",0.015172662,1516,job,work
+10/11/2016,"work, remember, stuff, start, christmas, minnesota, play, wife",0.015203956,2166,work,work
+8/31/2016,"training, stuff, management, pet, emergency, government",0.004277127,151,training,work
+8/31/2016,"work, hospital, online, medical, facility, semester",0.008950146,432,work,work
+9/20/2016,"work, program, classes, social, resume, supervisor, statement",0.004496958,219,work,work
+9/30/2016,"work, social, psychology, masters, child, behavior",0.016969051,1779,work,work
+10/1/2016,"work, social, school, license, job, counseling",0.016975372,49,work,work
+8/31/2016,"statement, resume, goal, application, template",0.006361618,265,resume,work
+9/23/2016,"work, guess, pretty, middle",0.022801626,4470,work,work
+10/7/2016,"work, hours, minutes, figure, ago",0.026230989,4767,work,work
+10/11/2016,"work, program, residency, teaching, language, fantastic, dissertation",0.00214394,41,work,work
+9/6/2016,"work, school, home, start, kids, mom, girl, daughter",0.037182147,3115,work,work
+9/3/2016,"work, school, degree, code, big, development, career",0.010301386,23,work,work
+9/3/2016,"work, fill, form, complete, matter, status",0.025230011,86,work,work
+9/3/2016,"work, management, project, degree, associates, company",0.014537097,34,work,work
+9/12/2016,"flex, complete, weeks, pass, flex_path, traditional",0.012359111,1115,flex,work
+9/9/2016,"flex, flex_path, complete, traditional, format",0.007665451,378,flex,work
+9/16/2016,"flex, program, traditional, flex_path, pace",0.011601669,686,flex,work
+9/15/2016,"flex, program, weeks, traditional, flex_path, pace",0.010196039,605,flex,work
+9/14/2016,"flex, weeks, pass, flex_path, traditional, session",0.008338457,570,flex,work
+9/8/2016,"flex, weeks, pass, traditional, flex_path",0.012639875,988,flex,work
+9/6/2016,"work, sounds, questions, hear, afternoon, problem",0.057571742,4991,work,work
+9/7/2016,"work, home, hours, morning, late, drive",0.04917185,4270,work,work
+9/9/2016,"work, couple, strange, student, recall, weather, function",0.005210399,133,work,work
+10/11/2016,"work, back, team, point, app, cash, target, referral",0.00729411,544,work,work
+9/9/2016,"app, work, rent, room, nervous",0.00722854,339,work,work
+10/11/2016,"work, back, stuff, home, tonight, clock, house",0.043630346,5244,work,work
+9/13/2016,"work, funny, back, pretty, wireless, movie, brother",0.011674416,1377,work,work
+10/12/2016,"work, back, learners, questions, leader, reduce, framework",0.001967023,37,work,work
+9/23/2016,"work, back, open, bank, receipt, frustrated, season",0.004755338,164,work,work
+9/20/2016,"work, interested, business, program, analytics, remote, operations, chair",0.004228645,173,work,work
+9/26/2016,"work, hours, job, home, shift",0.019979612,5091,work,work
+9/15/2016,"work, morning, home, hours, clock, evening",0.036372576,4441,work,work
+9/27/2016,"work, pretty, hours, basically",0.025131669,4554,work,work
+9/15/2016,"work, supervisor, point, push, exist, reality",0.010084081,537,work,work
+9/29/2016,"work, social, hours, population, worker",0.018848129,4680,work,work
+9/28/2016,"work, social, job, community, worker",0.019316027,2755,work,work
+9/16/2016,"work, social, worker, questions, midnight, client",0.009437135,616,work,work
+9/16/2016,"job, work, start, college, company, employer",0.011539303,1155,job,work
+9/17/2016,"work, stuff, morning, better, wonderful",0.024593594,380,work,work
+9/19/2016,"work, sounds, accredited, job, california, veteran, center, coordination",0.008435538,599,work,work
+9/20/2016,"work, accredited, learning, interested, maryland, surgery, goodness, national",0.005967082,429,work,work
+9/20/2016,"work, couple, questions, next, ahead, chance, care",0.04908099,6316,work,work
+10/3/2016,"work, evening, tonight, schedule, clock",0.018645197,5139,work,work
+10/1/2016,"work, ready, line, finish, excited",0.035570891,198,work,work
+9/24/2016,"work, social, chance, mind",0.032670579,355,work,work
+9/22/2016,"work, start, job, part, decide, training",0.020719666,4043,work,work
+9/24/2016,"job, guess, company, management",0.010102004,82,job,work
+9/26/2016,"training, travel, improvement, learning, performance",0.003519058,236,training,work
+9/27/2016,"work, program, classes, degree, google, retail, indiana, internship",0.002316539,97,work,work
+9/27/2016,"work, program, school, learning, tied, body, adult, translate",0.001650273,55,work,work
+10/7/2016,"work, program, start, school, mobile, evacuate, personal, industry",0.005865625,129,work,work
+10/8/2016,"cover, work, program, school, job, data, type",0.006509143,31,work,work
+9/28/2016,"crazy, work, turn, listen, legal, ridiculous",0.007489253,562,work,work
+9/29/2016,"job, pay, start, money, husband, guarantee, child",0.009112234,864,job,work
+9/30/2016,"work, hours, writing, read, discussion, unit, paper",0.015540654,2432,work,work
+10/1/2016,"work, classes, rolling, program, drive, community, gpa",0.015413951,38,work,work
+10/4/2016,"job, agree, company, paper, tele, sales, strong",0.00794522,693,job,work
+10/17/2016,"work, social, child, worker, status",0.012414363,561,work,work
+10/4/2016,"work, social, education, child, teacher, childhood",0.010518427,1092,work,work
+10/11/2016,"work, social, family, marriage, worker",0.009887898,1046,work,work
+10/8/2016,"work, analytics, online, school, psychology, scholarship",0.023183373,130,work,work
+10/8/2016,"work, classes, online, school, noticed, honestly, post",0.023446973,106,work,work
+10/12/2016,"work, study, questions, services, remote, hire, borrow",0.003466044,145,work,work
+10/12/2016,"work, group, sounds, classes, frustrating, grand, wear",0.003861815,196,work,work
+10/14/2016,"work, google, back, email, texas, contract, password",0.00411188,117,work,work
+10/15/2016,"work, pay, job, hospital, security, high",0.015223845,31,work,work
+10/17/2016,"work, hard, figure, wrong, lunch, drive",0.022223034,1552,work,work
+10/17/2016,"faculty, work, start, meet, mentor, engineering, transition",0.004778507,79,work,work
+8/29/2016,"company, management, resource, career, complicated, governors",0.006291358,374,company,work 
+10/5/2016,"company, sort, degree, experience, reimbursement, performance",0.007864666,702,company,work 
+8/31/2016,"company, position, job, work, america, mass, childhood",0.010313692,791,company,work 
+9/12/2016,"finance, company, marketing, sales, bank",0.009590844,1072,company,work 
+10/6/2016,"company, learning, training, data, customer, performance",0.011420428,1298,company,work 
+9/28/2016,"counseling, family, license, counselor, marriage, mental, therapy",0.012314182,972,counseling,degrees
+9/27/2016,"counseling, license, mental, health, therapy",0.0119133,792,counseling,degrees
+9/29/2016,"counseling, license, state, mental, marriage",0.01320837,1076,counseling,degrees
+9/26/2016,"counseling, program, family, mental, marriage",0.009446409,731,counseling,degrees
+9/23/2016,"counseling, program, license, state, licensure",0.015173271,1136,counseling,degrees
+9/1/2016,"counseling, clinical, program, mental, addiction",0.010679318,508,counseling,degrees
+8/29/2016,"counseling, family, health, mental, addiction, therapy",0.010500145,580,counseling,degrees
+8/31/2016,"counseling, health, mental, behavior, therapy",0.014847899,798,counseling,degrees
+9/8/2016,"counseling, license, program, masters, mental, worker",0.01185396,660,counseling,degrees
+9/9/2016,"counseling, license, program, state, internship, mental",0.015366665,777,counseling,degrees
+9/12/2016,"counseling, license, state, requirements, internship, mental",0.015036099,1128,counseling,degrees
+9/13/2016,"counseling, program, license, work, mental, marriage",0.012044772,950,counseling,degrees
+9/14/2016,"counseling, work, social, mental, marriage, therapy",0.0125476,997,counseling,degrees
+9/15/2016,"counseling, work, state, program, internship, mental, marriage",0.017572107,1098,counseling,degrees
+9/3/2016,"counseling, work, license, clinical, job",0.026006249,73,counseling,degrees
+9/19/2016,"health, counseling, mental, public",0.012393278,1459,counseling,degrees
+9/22/2016,"counseling, family, child, mental, marriage",0.008733515,839,counseling,degrees
+10/14/2016,"counseling, program, license, state, mental, clinical",0.016766504,1429,counseling,degrees
+10/5/2016,"counseling, clinical, health, mental, marriage, therapy",0.011774201,1110,counseling,degrees
+10/6/2016,"counseling, health, mental, license, marriage, addiction",0.012179205,976,counseling,degrees
+10/4/2016,"counseling, license, state, program, mental, health",0.014940328,1426,counseling,degrees
+10/3/2016,"counseling, license, state, requirements, mental, licensure",0.014165626,1599,counseling,degrees
+10/7/2016,"counseling, program, license, state, mental, marriage",0.018746046,1433,counseling,degrees
+10/10/2016,"counseling, psychology, social, clinical, mental, marriage, therapy",0.016690381,1673,counseling,degrees
+10/15/2016,"counseling, past, sounds, place, password",0.017526472,89,counseling,degrees
+8/30/2016,"services, enrollment, file, verify",0.026887704,3344,services,enroll
+8/29/2016,"services, enrollment, hold, line, assistance",0.031360529,3596,services,enroll
+10/17/2016,"services, enrollment, counselor, connect",0.045910574,2362,services,enroll
+9/9/2016,"services, enrollment, counselor, human, organization",0.017908206,2732,services,enroll
+9/8/2016,"services, enrollment, counselor, social, justice",0.01625047,2571,services,enroll
+9/1/2016,"services, enrollment, line, hold, assist",0.022915272,2987,services,enroll
+9/22/2016,"services, enrollment, social, human",0.01905406,3232,services,enroll
+9/12/2016,"services, line, assist, verify, advisor",0.028609399,5185,services,enroll
+9/10/2016,"services, social, human, longer",0.013308784,224,services,enroll
+9/26/2016,"services, social, human, resources, cell",0.01203475,2388,services,enroll
+9/27/2016,"services, social, masters, human, community",0.014330299,2090,services,enroll
+9/24/2016,"services, next, stay, hold, assist",0.026129585,241,services,enroll
+9/13/2016,"assist, services, record, customer, representative, disconnected",0.018262791,3504,services,enroll
+9/14/2016,"services, mail, roll, longer, tech, extension",0.014110346,3443,services,enroll
+9/28/2016,"services, healthcare, certificate, administration, public",0.020931546,3166,services,enroll
+10/3/2016,"services, enrollment, counselor, human, disconnected",0.019096797,3983,services,enroll
+10/5/2016,"services, human, department, social",0.015632298,3492,services,enroll
+10/6/2016,"services, learners, advising, academic, criminal, justice",0.022241789,4076,services,enroll
+10/13/2016,"services, quick, real, order, brand",0.016911053,3228,services,enroll
+8/29/2016,"home, friends, house, boy, girl, sleep, dad",0.020073398,1676,home,family
+8/30/2016,"home, morning, close, stop, verizon, wife, mobile",0.009558722,1515,home,family
+9/1/2016,"home, friends, house, kids, mom",0.022625494,1720,home,family
+9/19/2016,"home, kids, house, live, mom, baby, parents, crazy",0.022429281,2282,home,family
+9/21/2016,"home, stuff, house, pay, mom, lady, boy",0.025606294,2702,home,family
+9/9/2016,"home, computer, click, screen, holiday, internet, browser, task",0.015638434,1566,home,family
+9/29/2016,"home, kids, hear, new, mom, game, girl, drive",0.019973068,1739,home,family
+9/30/2016,"home, work, house, stuff, tonight, daughter",0.024789532,2987,home,family
+9/10/2016,"home, back, next, sit, test, open",0.008599002,64,home,family
+9/12/2016,"home, bad, watch, weird, funny, girl, crazy",0.021975259,2451,home,family
+9/13/2016,"home, pretty, hear, stuff, desk, crazy, weird, drive",0.026058873,3352,home,family
+9/14/2016,"home, live, morning, finance, girl, clean, baby, game",0.015705139,1630,home,family
+9/22/2016,"home, house, play, pick, apartment, locked, new_york",0.01768784,2241,home,family
+10/1/2016,"home, worry, figure, asked",0.008044448,85,home,family
+10/3/2016,"home, computer, house, hours, drive, daughter, town",0.020837706,3469,home,family
+10/5/2016,"home, computer, minutes, play, lunch, crazy, dad",0.015553066,2562,home,family
+10/10/2016,"home, stuff, house, run, quote, water, drink, town",0.022857322,3120,home,family
+9/16/2016,"kids, work, family, live, medical, sister, husband, looked",0.010827372,937,kids,family
+9/8/2016,"kids, live, ago, life, mom, daughter, husband",0.015488754,1668,kids,family
+9/9/2016,"kids, play, watch, game, amazing, girl",0.012425745,990,kids,family
+9/15/2016,"kids, wonderful, age, texas, coordinator, strictly",0.004905061,358,kids,family
+10/3/2016,"kids, mom, funny, excited, dog",0.009692112,1361,kids,family
+9/21/2016,"chat, learners, team, work, remote, window",0.009246015,510,learners,family
+10/5/2016,"learning, paper, format, work, model, style",0.003607527,173,learning,family
+9/27/2016,"learning, degree, discussion, questions, due, division, instructor",0.005458319,321,learning,family
+9/7/2016,"student, program, work, experience, opportunity, transition, determine",0.008869455,596,student,financial aid
+9/12/2016,"student, application, start, loans, federal, eligible, ethnicity",0.005953757,383,student,financial aid
+9/24/2016,"student, loans, order, work, option",0.010818554,64,student,financial aid
+10/1/2016,"student, start, loans, pay, catch, payment",0.014610971,55,student,financial aid
+8/29/2016,"student, military, benefits, veteran",0.006603601,529,student,financial aid
+8/30/2016,"student, phoenix, program, fantastic, kill, california",0.00434358,187,student,financial aid
+9/2/2016,"student, center, reach, free, machine",0.005118963,156,student,financial aid
+9/16/2016,"student, work, worry, find, feedback, calendar, consulting",0.008618582,427,student,financial aid
+9/17/2016,"student, classes, hang, weeks, loans",0.015854084,101,student,financial aid
+9/19/2016,"student, side, basically, yahoo, reimbursement, potentially",0.008068885,906,student,financial aid
+9/26/2016,"student, academic, plan, requirements, coach, advisor",0.007997948,990,student,financial aid
+10/6/2016,"student, loan, cost, cover, limit, federal",0.010344242,1291,student,financial aid
+10/8/2016,"student, offer, interested, questions, power",0.022515914,238,student,financial aid
+8/26/2016,"online, apply, support, schedule",0.01107905,1666,online,online
+8/27/2016,"online, student, classes, work, cover, eligible",0.014221008,36,online,online
+8/29/2016,"online, live, new, line, medical, hospital",0.010894486,1272,online,online
+9/2/2016,"online, college, school, high, associates",0.016481162,1102,online,online
+10/13/2016,"online, degree, school, bachelor, associates, science, math",0.013862139,1265,online,online
+9/3/2016,"online, learning, pay, understand, undergrad, flex, flex_path",0.013629212,50,online,online
+9/17/2016,"online, learning, work, difference, writing",0.015285094,117,online,online
+9/26/2016,"online, find, high, live, house, clean",0.014653058,3137,online,online
+9/29/2016,"online, school, complete, associates, strong, agree, campus",0.008054848,1037,online,online
+8/26/2016,"guess, questions, home, problem, found, eat, confusing",0.021764653,2204,guess,probe
+10/3/2016,"guess, find, pretty, open, drop, sort",0.015684871,4261,guess,probe
+8/27/2016,"guess, find, start, classes, high, pick",0.01575409,123,guess,probe
+8/29/2016,"guess, find, mind, interested, mass, fix, found",0.012782386,2047,guess,probe
+9/16/2016,"guess, courses, work, pretty, considered, familiar",0.014057388,2236,guess,probe
+8/30/2016,"guess, online, work, start, ago, remember",0.025924878,3617,guess,probe
+9/6/2016,"guess, start, pretty, interested, honestly, awesome",0.02555428,3900,guess,probe
+9/14/2016,"guess, pretty, stuff, awesome, minutes, tonight",0.033233985,4899,guess,probe
+8/31/2016,"guess, stuff, home, remember",0.022604627,2917,guess,probe
+9/21/2016,"guess, work, sounds, pretty, figure",0.029742997,4887,guess,probe
+9/2/2016,"guess, read, minutes, writing",0.022955615,2471,guess,probe
+9/3/2016,"guess, work, back, mail, ago, stuff",0.034595047,142,guess,probe
+9/8/2016,"guess, moment, assist, verify, disconnected",0.012373658,2566,guess,probe
+9/15/2016,"guess, understand, figure, part, interview",0.016161581,3109,guess,probe
+9/20/2016,"guess, stuff, figure, understand, drop",0.026732886,4171,guess,probe
+9/22/2016,"guess, online, find, understand, notice",0.017652644,3235,guess,probe
+9/30/2016,"guess, figure, bit, stuff, head, hate",0.015346118,2561,guess,probe
+10/7/2016,"guess, pretty, awesome, bit, hurricane, paperwork",0.02300016,3658,guess,probe
+9/26/2016,"guess, pretty, figure, remember, looked",0.016858315,3921,guess,probe
+10/6/2016,"guess, questions, asked, answer, shot, enjoy",0.014884847,3555,guess,probe
+9/27/2016,"guess, questions, figure, stuff, asked, confused, curious",0.022588629,3548,guess,probe
+9/28/2016,"guess, find, understand, list, apologize",0.015004926,3186,guess,probe
+10/10/2016,"guess, questions, understand, read, looked, assuming, forget",0.019426969,4170,guess,probe
+10/4/2016,"guess, understand, problem, wrong, true",0.011730138,2641,guess,probe
+9/29/2016,"guess, sort, honestly, approved, curious",0.012501893,2358,guess,probe
+10/1/2016,"difference, guess, remember, start, friend",0.012176444,50,guess,probe
+10/8/2016,"guess, online, plan, start, wonderful",0.01967447,179,guess,probe
+10/11/2016,"guess, understand, answer, questions, tax, wrong, married",0.020472174,3420,guess,probe
+10/13/2016,"guess, job, close, house, notice",0.018509468,2925,guess,probe
+10/14/2016,"guess, stuff, pretty, wait, husband",0.018556022,2356,guess,probe
+10/17/2016,"life, guess, understand, work, personal, north",0.010150293,453,guess,probe
+10/11/2016,"sounds, check, back, next, touch, awesome",0.072222675,6396,sounds,probe
+10/12/2016,"sounds, questions, next, awesome, worry, checkin",0.054262079,5522,sounds,probe
+9/29/2016,"sounds, awesome, bit, hear, touch, chat",0.023894015,5362,sounds,probe
+9/28/2016,"sounds, based, touch, bit, wonderful",0.01723019,3788,sounds,probe
+8/29/2016,"sounds, bit, best, sense",0.021907315,3817,sounds,probe
+10/6/2016,"sounds, bit, pretty, awesome",0.022219384,4987,sounds,probe
+8/26/2016,"sounds, bit, project, wonderful, excellent",0.016286848,2274,sounds,probe
+10/10/2016,"sounds, couple, awesome, pretty, chance",0.02299071,5788,sounds,probe
+9/14/2016,"sounds, capella, university, questions, follow, touch",0.050518019,5458,sounds,probe
+9/9/2016,"sounds, awesome, bit, pretty, excited",0.02456717,3801,sounds,probe
+8/30/2016,"sounds, hear, pretty, problem, ahead",0.026378401,4159,sounds,probe
+9/15/2016,"sounds, pretty, bit, start, couple",0.027725178,4580,sounds,probe
+9/22/2016,"sounds, pretty, hours, bit, clock, better",0.021499943,4219,sounds,probe
+9/2/2016,"sounds, problem, awesome, pretty, morning, care",0.041123237,3210,sounds,probe
+9/1/2016,"sounds, chance, case, helping, frame",0.012756955,2499,sounds,probe
+9/13/2016,"sounds, work, pretty, best",0.010262468,2493,sounds,probe
+9/7/2016,"sounds, work, information, questions, best, hear, awesome",0.04940961,4956,sounds,probe
+9/20/2016,"sounds, hear, awesome, check, glad",0.026147427,5530,sounds,probe
+9/12/2016,"sounds, hear, problem, awesome, touch",0.034589812,6384,sounds,probe
+9/16/2016,"sounds, hear, touch, scholarship, luck",0.027324878,4236,sounds,probe
+9/23/2016,"sounds, weekend, check, ahead, ready",0.034256776,4848,sounds,probe
+10/4/2016,"sounds, plan, academic, pretty, coach",0.013641063,3850,sounds,probe
+9/26/2016,"sounds, plan, total, mentioned, earlier",0.011540045,2971,sounds,probe
+9/27/2016,"sounds, change, problem, find, ago",0.026538704,4574,sounds,probe
+9/30/2016,"sounds, work, bit, pretty, excellent, initial",0.01882466,3690,sounds,probe
+10/3/2016,"sounds, understand, better, figure",0.011222741,3272,sounds,probe
+10/13/2016,"sounds, pretty, stuff, bit, honestly",0.02055135,3263,sounds,probe
+9/29/2016,"check, click, log, complete, dial",0.021554294,3306,check,verify
+9/22/2016,"check, file, wait, submit, update, letter, statement",0.022671645,3136,check,verify
+8/26/2016,"check, change, quick, file, update",0.02553235,2715,check,verify
+8/29/2016,"check, file, quick, pull, update",0.024291892,3261,check,verify
+8/31/2016,"check, hear, quick, double, cellphone",0.017344492,3212,check,verify
+9/30/2016,"check, quick, double, real, country",0.01332442,2457,check,verify
+9/8/2016,"check, quick, office, double",0.019359143,3659,check,verify
+9/1/2016,"check, change, complete, end, double, switch",0.024804849,3361,check,verify
+9/2/2016,"check, ahead, enrollment, file",0.017821537,2643,check,verify
+9/21/2016,"check, enrollment, services, change",0.027728877,4907,check,verify
+9/3/2016,"check, end, morning, better",0.024891161,170,check,verify
+9/14/2016,"check, next, orientation, registered, chance",0.025378122,3625,check,verify
+10/6/2016,"check, quick, wait, update, double",0.035068102,5410,check,verify
+9/7/2016,"check, file, registered, quick, verify",0.041928399,4221,check,verify
+9/6/2016,"check, hold, line, office, verify, advising",0.052420753,4568,check,verify
+9/13/2016,"check, quick, file, pull, verify, double",0.023191422,4588,check,verify
+9/9/2016,"check, file, moment, verify",0.024765964,3366,check,verify
+9/10/2016,"check, bit, country, matter",0.007107287,123,check,verify
+9/12/2016,"check, wait, ahead, couple, remember",0.023847082,4620,check,verify
+9/19/2016,"check, office, services, double, disconnected",0.022795702,4724,check,verify
+9/24/2016,"finance, check, next, understand, documents, based",0.016654406,109,check,verify
+9/26/2016,"check, mail, issues, update, double, reset",0.024392622,4670,check,verify
+10/3/2016,"check, ahead, review, morning, double",0.017027839,4117,check,verify
+10/4/2016,"check, registered, double, registration",0.013773059,3034,check,verify
+10/8/2016,"check, read, send, assessment, company",0.025814152,195,check,verify
+10/10/2016,"check, certificate, double, criminal, justice",0.012283776,3245,check,verify
+10/12/2016,"receive, check, decision, process, income, withdraw",0.015549127,2368,check,verify
+9/13/2016,"reach, forward, system, quicker, buzz",0.041239386,3630,reach,voicemail
+8/29/2016,"reach, forward, voice, voicemail, mailbox",0.053463327,2235,reach,voicemail
+8/30/2016,"reach, mailbox, accept, calendar, pill",0.017761465,1750,reach,voicemail
+8/31/2016,"reach, record, mailbox, disconnected",0.025348128,1839,reach,voicemail
+10/3/2016,"reach, record, press, dial, notification",0.031687466,3840,reach,voicemail
+10/5/2016,"reach, set, voicemail, free, pallet",0.027580553,3404,reach,voicemail
+8/26/2016,"reach, soon, mailbox, accept",0.031937787,1660,reach,voicemail
+10/4/2016,"reach, voice, services, mailbox, followup",0.055130642,3815,reach,voicemail
+9/10/2016,"reach, automated, free, read, located, personal",0.066489489,537,reach,voicemail
+9/9/2016,"reach, forward, move, automatically, automated",0.022444645,2388,reach,voicemail
+9/8/2016,"reach, forward, voice, mailbox",0.038877049,2160,reach,voicemail
+9/1/2016,"reach, forward, voice, system, voicemail",0.033350684,2187,reach,voicemail
+9/12/2016,"reach, leave, soon, mailbox, modify",0.062383458,3845,reach,voicemail
+10/7/2016,"reach, forward, voice, mailbox",0.056927738,3420,reach,voicemail
+9/19/2016,"reach, leave, voice, soon, return",0.070716791,3918,reach,voicemail
+10/10/2016,"reach, voice, box, voicemail",0.054172454,4050,reach,voicemail
+10/15/2016,"reach, accept, voicemail, office",0.055387343,174,reach,voicemail
+10/14/2016,"reach, box, longer, oclock",0.035215897,3128,reach,voicemail
+10/12/2016,"reach, forward, voice, mailbox",0.076827042,3684,reach,voicemail
+10/13/2016,"reach, voice, mailbox, voicemail",0.073416697,2906,reach,voicemail
+9/29/2016,"reach, automatic, mailbox, automated",0.037084817,3158,reach,voicemail
+9/23/2016,"reach, box, extension, direct, bless",0.028947545,3073,reach,voicemail
+9/24/2016,"reach, box, set, voicemail",0.092409366,302,reach,voicemail
+9/27/2016,"reach, extension, belonging, best, pole",0.023013091,2246,reach,voicemail
+9/28/2016,"reach, forward, emissions, grand",0.03548741,3439,reach,voicemail
+9/22/2016,"reach, forward, system, automatic, automated",0.043077012,3246,reach,voicemail
+9/21/2016,"reach, forward, voice, mailbox",0.062658507,3583,reach,voicemail
+9/26/2016,"reach, free, disconnected, ease",0.021955754,3082,reach,voicemail
+9/20/2016,"reach, longer, check, dial, disconnected",0.034933166,3713,reach,voicemail
+9/16/2016,"reach, set, box, answer, toll",0.028626654,3122,reach,voicemail
+10/1/2016,"reach, sounds, enrollment, new",0.027662511,186,reach,voicemail
+9/30/2016,"reach, box, return, telephone",0.03187617,3276,reach,voicemail
+10/6/2016,"hold, enrollment, line, moment, verify, assist",0.044858529,5491,hold,wait
+9/14/2016,"hold, line, answer, transfer, assist, verify",0.031354522,4928,hold,wait
+10/5/2016,"hold, line, moment, verify, pop",0.030636142,4684,hold,wait
+9/26/2016,"hold, line, transfer, assist, verify",0.025994713,4592,hold,wait
+9/23/2016,"hold, line, transfer, assist, verify",0.029321774,4180,hold,wait
+9/30/2016,"hold, line, transfer, moment, verify, assistance",0.036299166,4417,hold,wait
+9/22/2016,"hold, transfer, pull, quick, verify, advisor",0.022791495,3601,hold,wait
+9/2/2016,"hold, record, press, verify",0.031690946,2213,hold,wait
+9/10/2016,"counselor, hold, stay, line",0.022770898,369,hold,wait
+9/12/2016,"hold, moment, pop, advising",0.016733934,4145,hold,wait
+10/7/2016,"hold, academic, line, next, advising, advisor",0.026915425,4361,hold,wait
+10/11/2016,"hold, assist, press, line, advisor",0.03280823,5057,hold,wait
+9/29/2016,"hold, line, morning, assist",0.021494567,4331,hold,wait
+10/3/2016,"hold, line, transfer, quick, assistance, pop",0.027053751,5328,hold,wait
+10/4/2016,"hold, line, verify, assist, advisor",0.030217743,5218,hold,wait
+10/8/2016,"hold, email, middle, moment, birthday, confirm",0.024910608,221,hold,wait
+10/17/2016,"hold, line, transfer, support, assistance, operator",0.028941964,2168,hold,wait
+8/26/2016,"line, answer, minutes, reason, head",0.012632229,2172,line,wait
+8/27/2016,"line, hold, services, sounds, stay, advisor",0.034165804,142,line,wait
+9/27/2016,"line, hold, assistance, verify, moment, representative",0.026631066,3713,line,wait
+9/8/2016,"line, decide, ship, group, diploma",0.005211,347,line,wait
+10/8/2016,"line, next, counselor, stay, assist",0.027098727,224,line,wait
+9/22/2016,"line, moment, support, pop, sports",0.017619005,3331,line,wait
+9/15/2016,"soon, record, press, hang, tone",0.027860754,2884,soon,wait
+9/1/2016,"soon, mail, clock, central, phones",0.009027776,1694,soon,wait
+9/2/2016,"soon, follow, chance, department, giving",0.019461044,2158,soon,wait
+9/10/2016,"soon, accept, return, offer",0.019911182,398,soon,wait
+9/29/2016,"soon, better, center, town, phase",0.012236357,3035,soon,wait
+9/30/2016,"soon, wrong, apologize, supervisor",0.014380403,2939,soon,wait
+10/3/2016,"soon, minutes, won, meet, catch",0.012076118,3942,soon,wait
+10/4/2016,"soon, touch, chance, based, tonight",0.017593601,4323,soon,wait
+10/11/2016,"soon, set, box, full, return, voicemail",0.037557056,4377,soon,wait
+10/15/2016,"soon, email, work, point, better, afternoon",0.024441702,152,soon,wait
+9/13/2016,"teaching, program, education, teacher, travel, classroom",0.006605798,418,teaching,degrees
+9/7/2016,"teaching, teacher, masters, education, district, blow",0.010897174,754,teaching,degrees
+10/11/2016,"teaching, education, program, doctor, teacher, hotel, childhood",0.00748882,566,teaching,degrees
+9/3/2016,"teaching, program, license, learning, teacher, rolling",0.017705318,51,teaching,degrees
+9/23/2016,"teaching, education, program, research, curriculum",0.008076962,499,teaching,degrees
+9/12/2016,"child, teaching, education, early, teacher",0.005625325,498,teaching,degrees
+8/30/2016,"orientation, access, complete, questions, assessment, writing",0.018075516,1680,orientation,enroll
+9/9/2016,"orientation, access, weekend, next, early",0.027585834,2550,orientation,enroll
+9/6/2016,"orientation, click, complete, log, section, unit",0.030061584,2999,orientation,enroll
+9/8/2016,"orientation, complete, access, weekend, unit",0.024055895,2375,orientation,enroll
+9/2/2016,"orientation, discussion, unit, assignments",0.010403282,518,orientation,enroll
+8/29/2016,"orientation, click, access, unit, campus",0.014012484,1201,orientation,enroll
+9/12/2016,"orientation, registered, admissions, accept, access",0.020708416,3037,orientation,enroll
+8/31/2016,"orientation, next, touch, steps, access, weekend",0.02448687,2333,orientation,enroll
+9/10/2016,"orientation, start, drop, send, payment, move",0.012185187,44,orientation,enroll
+10/6/2016,"orientation, complete, access, unit, assignment",0.025405172,2659,orientation,enroll
+10/1/2016,"orientation, classes, work, united, letters, weekend",0.030666582,101,orientation,enroll
+10/8/2016,"orientation, registered, accept, finish, tonight",0.027506926,163,orientation,enroll
+10/4/2016,"start, next, orientation, couple, access",0.031133307,4800,start,enroll
+10/7/2016,"start, next, weekend, questions, orientation, access, touch",0.060108538,5041,start,enroll
+10/3/2016,"start, orientation, awesome, next, early, access",0.023951259,4205,start,enroll
+10/5/2016,"start, sounds, next, complete, ready, touch",0.038840458,5740,start,enroll
+9/12/2016,"start, guess, next, plan",0.027616125,5295,start,enroll
+9/9/2016,"start, next, ahead, finish, ready",0.035029084,4317,start,enroll
+9/13/2016,"start, next, couple, ahead",0.036445115,5752,start,enroll
+8/26/2016,"start, next, end, weeks, early",0.02750145,3045,start,enroll
+8/29/2016,"start, next, months, ready, sell",0.018296275,3435,start,enroll
+9/10/2016,"start, next, ready, pay, load, books",0.018691517,240,start,enroll
+9/14/2016,"start, questions, process, decide",0.012740243,2943,start,enroll
+10/1/2016,"start, questions, school, move, answer, change",0.033577849,230,start,enroll
+9/8/2016,"start, sounds, awesome, next, excited",0.030319341,4603,start,enroll
+8/31/2016,"start, sounds, next, bit, ahead",0.035341563,4244,start,enroll
+9/3/2016,"start, classes, quarter, program, social",0.027094079,86,start,enroll
+9/29/2016,"start, program, work, professor, passion, capstone, practicum",0.004138322,234,start,enroll
+8/26/2016,"start, school, classes, quarter, zone, baby, fit, qualify",0.002559909,11,start,enroll
+8/27/2016,"start, financial, aid, classes, new",0.029689387,158,start,enroll
+9/20/2016,"start, process, wife, bit, language, exception, product",0.007974349,694,start,enroll
+9/1/2016,"start, next, awesome, orientation, weekend, holiday, checkin",0.03280684,3386,start,enroll
+10/4/2016,"start, award, email, program, adjust, clue, word",0.002640661,75,start,enroll
+9/2/2016,"biggest, start, focus, school, girl, challenge",0.005877222,194,start,enroll
+9/3/2016,"start, next, new, buy, computer",0.030772208,132,start,enroll
+9/3/2016,"start, classes, finish, payment, awesome",0.027055142,107,start,enroll
+9/7/2016,"start, orientation, admissions, access, afternoon",0.05628899,4070,start,enroll
+9/6/2016,"start, process, forward, admissions, review, touch",0.046979732,4506,start,enroll
+10/5/2016,"start, bunch, back, helpful, treat, impact, solid",0.003036345,98,start,enroll
+9/14/2016,"start, back, pay, wait, balance, drop, sign",0.028413121,3301,start,enroll
+9/16/2016,"start, next, questions, work, orientation, weekend",0.046044257,4561,start,enroll
+9/19/2016,"start, questions, next, couple, orientation, review, touch, awesome",0.052589409,5764,start,enroll
+9/21/2016,"start, problem, ready, move, hoping",0.021759591,3849,start,enroll
+9/24/2016,"start, ahead, orientation, basically",0.016495595,124,start,enroll
+9/27/2016,"start, move, new, apply, new_york",0.01427711,2643,start,enroll
+9/26/2016,"start, next, basically, months",0.015336256,3445,start,enroll
+9/29/2016,"start, next, orientation, wait, weekend",0.029647901,4271,start,enroll
+9/28/2016,"start, process, application, next, steps",0.024637854,3911,start,enroll
+9/28/2016,"expensive, start, education, big, referral, ashford, funds",0.002829177,169,start,enroll
+9/30/2016,"start, scholarship, ready, offer, benefits",0.015326941,2597,start,enroll
+10/8/2016,"start, school, work, new, hoping, issue, point",0.024823039,106,start,enroll
+10/15/2016,"start, guess, work, kids, minutes, awesome",0.0351705,119,start,enroll
+10/17/2016,"start, sounds, work, next, awesome, ahead",0.031340117,2516,start,enroll
+9/2/2016,"information, technology, program, security, network, data",0.006720142,208,information,information
+9/12/2016,"information, contact, security, current",0.015134653,4004,information,information
+9/26/2016,"information, quick, contact, ahead, touch",0.019738342,5180,information,information
+8/29/2016,"information, scholarship, direct, find, ths, texas",0.011850818,2183,information,information
+9/28/2016,"information, email, send, contact, gmail, range",0.025869264,4433,information,information
+9/6/2016,"information, letter, issue, website, drop, dot",0.020049191,3081,information,information
+10/3/2016,"information, hear, contact, direct, race",0.019324856,5582,information,information
+9/10/2016,"information, stuff, plan, email, college, mess",0.018582079,199,information,information
+10/10/2016,"information, questions, interested, connect, follow",0.048084088,5969,information,information
+9/30/2016,"information, follow, directly, contact, free",0.019506032,4090,information,information
+10/12/2016,"information, email, transfer, line, eventually, operator",0.035590571,5012,information,information
+8/29/2016,"questions, answer, couple, contact, deadlines",0.017872465,3588,questions,information
+9/1/2016,"questions, answer, understand, concerns",0.017753203,3348,questions,information
+9/8/2016,"questions, couple, answer, chance",0.019254536,4190,questions,information
+9/10/2016,"questions, enrollment, answer, information, pop",0.022917382,402,questions,information
+9/2/2016,"questions, information, answer, receive",0.029423405,3236,questions,information
+10/4/2016,"questions, enrollment, connect, moment, counselor",0.03516234,5349,questions,information
+9/3/2016,"questions, find, half, change",0.026181671,143,questions,information
+9/9/2016,"questions, capella, follow, connect",0.032906977,3977,questions,information
+9/22/2016,"questions, information, hear, answer",0.036079968,5525,questions,information
+9/21/2016,"questions, program, information, connect, follow, answer",0.047712058,5082,questions,information
+9/9/2016,"questions, school, specialization, texas, corporate, river, battery",0.002130346,54,questions,information
+9/30/2016,"questions, work, finish, find, size, couple",0.00580646,133,questions,information
+9/24/2016,"questions, point, life, end",0.010603609,105,questions,information
+9/29/2016,"questions, answer, asked, idea, true",0.01573927,4177,questions,information
+10/5/2016,"questions, answer, information, benefits",0.015710296,4173,questions,information
+9/26/2016,"questions, bit, ready, answer, middle",0.016455231,4632,questions,information
+10/14/2016,"questions, information, services, answer, social",0.033230418,4387,questions,information
+9/30/2016,"questions, services, answer, miss, cap",0.0197348,4280,questions,information
+10/3/2016,"questions, voicemail, middle, asked",0.013384045,4091,questions,information
+9/28/2016,"questions, awesome, quick, couple, reference, resume",0.019409303,3552,questions,information
+10/13/2016,"questions, capella, answer, follow, convenience",0.028958527,4388,questions,information
+10/15/2016,"questions, discussion, post, assignments, respond",0.032119611,108,questions,information
+10/17/2016,"questions, hear, answer, follow, chance",0.027663239,2621,questions,information
+9/23/2016,"open, issue, close, new, figure, wrong",0.019389417,3572,issue,issue
+10/6/2016,"issue, morning, case, technical, tech",0.013221325,3167,issue,issue
+9/28/2016,"issues, financial, application, email, christmas, experiencing, waiver",0.002841758,90,issues,issue
+9/27/2016,"frustrating, issues, program, stuff, lead, control, app",0.004052469,194,issues,issue
+9/16/2016,"issues, turn, enter, wait, apologize, remove",0.013536563,1617,issues,issue
+8/29/2016,"problem, case, wrong, pop",0.014089404,2792,problem,issue
+8/31/2016,"problem, change, morning, computer, clock, international, screen",0.021891087,3052,problem,issue
+9/1/2016,"problem, quick, file, pull, verify",0.021215926,3151,problem,issue
+9/8/2016,"problem, won, worry, issue, fair",0.013137651,2859,problem,issue
+9/22/2016,"problem, won, worry, list, withdraw",0.010984984,2682,problem,issue
+9/9/2016,"problem, care, support, technically, tech",0.014156658,2677,problem,issue
+9/13/2016,"problem, hold, morning, minutes, apologize",0.024081389,4910,problem,issue
+9/17/2016,"problem, hear, glad, best, game",0.020877464,335,problem,issue
+9/23/2016,"problem, questions, mind, better, depaul",0.007021143,1053,problem,issue
+9/26/2016,"problem, morning, office, better, hoping, central, clock",0.023802707,4879,problem,issue
+10/13/2016,"problem, office, morning, better, evening",0.025722484,4231,problem,issue
+9/30/2016,"problem, minutes, ahead, ago, clock",0.018951089,4413,problem,issue
+10/3/2016,"problem, team, list, wrong, apologize",0.011143827,3342,problem,issue
+10/5/2016,"problem, issue, hear, run, tech, internet",0.01573615,3523,problem,issue
+10/6/2016,"problem, ahead, care, touch",0.021150627,5089,problem,issue
+10/14/2016,"problem, care, minutes, understand, product",0.024378994,4253,problem,issue
+10/15/2016,"problem, work, open, include, related",0.016732731,84,problem,issue
+9/1/2016,"interested, figure, sort, money, looked",0.015769208,2078,interested,probe
+9/3/2016,"interested, line, capella, full, balance",0.024607748,175,interested,probe
+9/12/2016,"interested, bachelor, degree, pursuing, kaplan",0.034054055,4004,interested,probe
+10/17/2016,"stuff, work, kids, home, husband, mom, enjoy",0.01568774,816,stuff,probe
+8/29/2016,"stuff, remember, ago, open, nervous",0.01755622,2057,stuff,probe
+9/27/2016,"stuff, classes, online, college, married, hospital, medical, phoenix",0.005340184,293,stuff,probe
+8/30/2016,"stuff, wait, finish, miss, tonight, lady",0.023549276,2832,stuff,probe
+9/1/2016,"stuff, wait, left, ago, tax, sign",0.01711079,2209,stuff,probe
+9/12/2016,"stuff, home, guess, house, husband, daughter, parents",0.025588457,3093,stuff,probe
+10/14/2016,"stuff, home, kids, crazy, mom, sister, house",0.010251215,866,stuff,probe
+9/26/2016,"stuff, home, kids, friends, mom, daughter",0.023225818,2850,stuff,probe
+9/23/2016,"stuff, hours, kids, bit, dad, mom, drive, dog",0.017039921,1375,stuff,probe
+9/2/2016,"stuff, live, home, money, husband, mom, daughter",0.02571888,1689,stuff,probe
+9/22/2016,"stuff, watch, crazy, kids, golf, water",0.01752764,1690,stuff,probe
+9/7/2016,"stuff, work, friends, kids, mom, husband, crazy",0.047448687,3571,stuff,probe
+9/8/2016,"stuff, part, figure, basically, looked",0.020204911,3128,stuff,probe
+9/9/2016,"stuff, minutes, house, pretty, act",0.017477378,2287,stuff,probe
+10/7/2016,"stuff, home, friends, bad, mom, birthday, sister",0.027359565,2964,stuff,probe
+10/12/2016,"stuff, home, morning, hours, clock",0.03202692,3764,stuff,probe
+9/15/2016,"stuff, wait, drop, computer, withdraw, husband",0.020166621,2705,stuff,probe
+10/1/2016,"stuff, classes, program, courses, paced",0.021104564,122,stuff,probe
+9/19/2016,"stuff, computer, money, read, new_york, sit",0.019162831,3078,stuff,probe
+9/28/2016,"stuff, writing, questions, read, tutor, assessment",0.011896557,1829,stuff,probe
+9/29/2016,"stuff, pretty, reading, remember, tonight",0.019483274,3353,stuff,probe
+10/3/2016,"stuff, start, basically, semester, honestly, realize",0.016003123,2740,stuff,probe
+10/4/2016,"stuff, finish, college, part, phoenix",0.012677261,2421,stuff,probe
+10/5/2016,"stuff, figure, wrong, forget, boy",0.019467391,3267,stuff,probe
+10/6/2016,"stuff, funny, middle, hurricane",0.013261485,2225,stuff,probe
+10/10/2016,"stuff, bad, weekend, power, crazy, stress, accommodation",0.022244957,2785,stuff,probe
+10/13/2016,"stuff, pick, house, sick, christmas, lunch, fire",0.017439229,1402,stuff,probe
+8/26/2016,"leave, forward, back, automatically, cancel",0.041925412,1912,leave,voicemail
+10/1/2016,"leave, forward, receive, services, room",0.045350121,159,leave,voicemail
+9/3/2016,"leave, accept, email, return",0.023351839,143,leave,voicemail
+9/1/2016,"leave, afternoon, miss, return, modify, convenient",0.028534389,1857,leave,voicemail
+8/27/2016,"leave, full, finish, soon, box",0.028334775,137,leave,voicemail
+8/29/2016,"leave, left, office, modify, interpreter",0.020304932,1376,leave,voicemail
+10/14/2016,"leave, mailbox, soon, press, tone",0.076060082,2940,leave,voicemail
+10/11/2016,"leave, moment, tone, accept, unavailable",0.051532335,3706,leave,voicemail
+10/12/2016,"leave, record, soon, press",0.066012244,3611,leave,voicemail
+10/13/2016,"leave, return, miss, pound",0.03642955,2317,leave,voicemail
+8/31/2016,"leave, return, soon, tone, dial",0.033205172,1627,leave,voicemail
+10/10/2016,"leave, return, system, giving, followup",0.035681522,3216,leave,voicemail
+10/15/2016,"leave, soon, moment, miss, details",0.042316461,127,leave,voicemail
+8/30/2016,"leave, soon, return, system, google",0.028130956,2495,leave,voicemail
+9/13/2016,"leave, back, soon, inquiry, earliest, convenience",0.064118921,4009,leave,voicemail
+9/14/2016,"leave, back, soon, record, press, tone",0.068497477,3643,leave,voicemail
+9/21/2016,"leave, back, soon, return, unable",0.055946102,3477,leave,voicemail
+9/20/2016,"leave, press, soon, record, tone, hang",0.072929546,3951,leave,voicemail
+9/22/2016,"leave, voice, voicemail, mailbox",0.075556412,3032,leave,voicemail
+9/28/2016,"leave, soon, press, tone, unavailable",0.056659807,3117,leave,voicemail
+9/17/2016,"leave, back, soon, miss",0.092793882,397,leave,voicemail
+9/8/2016,"leave, hang, press, record",0.028255651,1956,leave,voicemail
+9/10/2016,"leave, press, tone, record",0.064690919,445,leave,voicemail
+9/16/2016,"leave, soon, return, unable",0.043091191,2739,leave,voicemail
+9/9/2016,"leave, voice, hang, return",0.038230484,2074,leave,voicemail
+9/15/2016,"leave, voice, mailbox, system, notification",0.065414611,2423,leave,voicemail
+9/24/2016,"leave, forward, miss, management",0.06640717,244,leave,voicemail
+9/30/2016,"leave, moment, unavailable, modify, notification",0.041513193,2851,leave,voicemail
+9/23/2016,"leave, press, record, tone",0.059689793,2953,leave,voicemail
+10/4/2016,"leave, return, hang, moment, dial",0.042810162,3293,leave,voicemail
+10/5/2016,"leave, return, miss, accept, modify, unable",0.041325979,2955,leave,voicemail
+10/3/2016,"leave, return, miss, tone, earliest",0.039533875,3306,leave,voicemail
+10/6/2016,"leave, voicemail, soon, box, tone",0.060434805,3218,leave,voicemail
+10/8/2016,"leave, reach, morning, record",0.047722874,249,leave,voicemail
+10/17/2016,"leave, reach, voice, record, mailbox",0.099026717,2003,leave,voicemail
+9/12/2016,"behavior, education, certificate, masters, aba, certified, analysis",0.006180546,415,behavior,degrees
+9/8/2016,"behavior, family, masters, addiction, therapy, marriage",0.006339173,418,behavior,degrees
+9/22/2016,"behavior, aba, certificate, work, certified, credential",0.003171117,117,behavior,degrees
+9/28/2016,"behavior, certificate, apply, masters, aba, certified, analysis",0.006386537,376,behavior,degrees
+10/11/2016,"behavior, classes, work, program, aba, analysis, board",0.004234162,145,behavior,degrees
+10/4/2016,"behavior, quote, student, aba, certified",0.004183298,228,behavior,degrees
+10/17/2016,"house, behavior, study, live, lifetime, certified",0.006840816,250,behavior,degrees
+8/30/2016,"criminal, justice, bachelor, work, forensic, career",0.00702744,199,criminal,degrees
+9/30/2016,"criminal, justice, work, program, north, forensics",0.004943989,147,criminal,degrees
+9/15/2016,"hoping, criminal, justice, electives, emergency",0.006452078,297,criminal,degrees
+9/28/2016,"criminal, justice, campus, work, blue",0.003600119,183,criminal,degrees
+10/13/2016,"criminal, justice, concentration, psychology, forensics",0.004231473,156,criminal,degrees
+8/29/2016,"management, administration, healthcare, leadership",0.009228234,686,management,degrees
+10/4/2016,"management, project, degree, security, technology",0.008656938,570,management,degrees
+9/7/2016,"management, project, work, job, analytics, company",0.013064384,818,management,degrees
+8/30/2016,"management, project, work, program, operations, leadership",0.006211677,200,management,degrees
+10/15/2016,"management, focus, start, school, certificate, resources",0.008269831,19,management,degrees
+10/6/2016,"management, healthcare, program, administration, leadership",0.015757441,2018,management,degrees
+10/7/2016,"management, program, healthcare, business, leadership, administration",0.019337059,1703,management,degrees
+8/30/2016,"mess, management, project, basically, model, format",0.003009659,87,management,degrees
+9/13/2016,"management, business, healthcare, administration, project",0.016440863,1769,management,degrees
+9/14/2016,"management, business, healthcare, courses, marketing",0.014201409,971,management,degrees
+9/26/2016,"management, healthcare, administration, leadership",0.009930668,1060,management,degrees
+9/29/2016,"management, business, degree, administration, healthcare, mba",0.018792942,2870,management,degrees
+10/13/2016,"management, business, healthcare, administration",0.01895659,1941,management,degrees
+9/9/2016,"management, business, healthcare, administration, project",0.015253541,1149,management,degrees
+9/8/2016,"management, degree, leadership, specialization, project",0.010582428,910,management,degrees
+9/10/2016,"management, degree, cut, start, assessment, experience",0.006949899,50,management,degrees
+9/17/2016,"management, level, reason, classes, data",0.009748408,56,management,degrees
+10/3/2016,"management, project, approved, international, arrangements",0.007047541,663,management,degrees
+10/5/2016,"management, emergency, work, start, mix, safety, undergrad",0.001976938,60,management,degrees
+8/29/2016,"research, dissertation, area, phd, topic",0.005947625,401,research,degrees
+9/22/2016,"research, dissertation, residency, work, emergency",0.005784991,318,research,degrees
+9/13/2016,"research, program, doctor, dissertation, mentor, capstone",0.005998188,354,research,degrees
+9/12/2016,"research, writing, terms, doctor, accommodation, perspective, dissertation",0.005293389,404,research,degrees
+10/1/2016,"doctoral, research, conversation, program, schedule",0.014308652,46,research,degrees
+9/8/2016,"security, information, accredited, technology, network, virtual",0.005250531,238,security,degrees
+9/9/2016,"security, information, program, commission, network, technology",0.005827009,260,security,degrees
+9/15/2016,"security, information, technology, center, network, engineering",0.008869317,533,security,degrees
+10/12/2016,"security, work, program, network, insurance, technology",0.00731766,348,security,degrees
+8/27/2016,"security, focus, friends, information, cover",0.011181699,30,security,degrees
+8/31/2016,"security, program, certificate, degree, network, tool, technology",0.005865218,176,security,degrees
+8/29/2016,"security, technology, program, development, digital, senior",0.004526058,164,security,degrees
+9/29/2016,"security, criminal, justice, technology",0.007797808,484,security,degrees
+9/20/2016,"security, information, degree, basically, technology, network, cyber",0.006010826,316,security,degrees
+9/19/2016,"security, program, certificate, work, network, technology, analytics",0.007543604,367,security,degrees
+9/30/2016,"security, accredited, program, school, engineering, network, technology",0.005405453,209,security,degrees
+10/17/2016,"security, justice, criminal, offer, homeland",0.005539801,107,security,degrees
+8/27/2016,"state, miss, degree, required, received",0.012907646,78,state,degrees
+9/1/2016,"state, program, license, requirements, licensure, internship",0.010354584,692,state,degrees
+10/11/2016,"state, requirements, license, program, addiction, texas",0.010745299,1149,state,degrees
+10/13/2016,"state, accounting, requirements, evaluation, exam",0.01039758,896,state,degrees
+9/26/2016,"complete, note, loans, fast, promissory, entrance, agreement",0.009470307,800,complete,enroll
+8/27/2016,"plan, complete, orientation, registered, road",0.025716489,104,complete,enroll
+8/29/2016,"complete, courses, requirements, additional, network",0.011418088,1661,complete,enroll
+9/29/2016,"complete, flex, weeks, assessment, flex_path, pace, traditional",0.01032935,668,complete,enroll
+8/31/2016,"complete, assessment, reading, writing, box",0.014332929,1731,complete,enroll
+9/7/2016,"reading, complete, writing, unit, assessment",0.026224646,3085,complete,enroll
+9/3/2016,"updated, complete, writing, confirmation, assessment",0.02171208,59,complete,enroll
+9/9/2016,"involved, complete, away, work, squared, court, goodness",0.006181228,237,complete,enroll
+9/10/2016,"ahead, complete, bsn, application, steps",0.013715027,205,complete,enroll
+9/23/2016,"complete, assessment, writing, read",0.01113006,1592,complete,enroll
+9/12/2016,"submit, complete, assessment, writing, statement, inventory",0.016503362,2192,complete,enroll
+9/21/2016,"complete, steps, next, fast, idea",0.011697296,2231,complete,enroll
+10/8/2016,"complete, application, admissions, back, personal",0.028670622,231,complete,enroll
+10/13/2016,"complete, submit, log, application, agreement, letter",0.014965961,1803,complete,enroll
+10/10/2016,"complete, orientation, click, assessment, button",0.015796646,2465,complete,enroll
+8/30/2016,"next, awesome, start, recommend, letter",0.023368115,3199,next,enroll
+9/27/2016,"next, complete, orientation, soon, ahead, wait",0.035929759,4342,next,enroll
+9/2/2016,"next, weekend, orientation, start, update, holiday",0.041451585,2786,next,enroll
+9/15/2016,"next, check, plan, questions, double, update",0.031629239,4111,next,enroll
+9/22/2016,"next, minutes, office, weekend",0.014802398,3307,next,enroll
+10/10/2016,"next, academic, assist, hold, advisor, advising",0.018033643,3962,next,enroll
+10/13/2016,"next, check, awesome, touch, orientation, checkin",0.032291176,4194,next,enroll
+10/14/2016,"next, sounds, check, weekend, touch",0.04882329,4746,next,enroll
+9/30/2016,"next, weekend, change, start, touch",0.028759083,4529,next,enroll
+10/5/2016,"next, assistance, continue, stay, prefer, representative",0.010502451,1641,next,enroll
+8/26/2016,"loan, quarter, student, cost, tuition, out_of_pocket",0.013771625,775,loan,financial aid
+10/4/2016,"loan, student, payment, federal, balance",0.008838731,1056,loan,financial aid
+8/31/2016,"case, questions, decision, worry, looked, safe",0.010295086,1028,case,issue
+9/28/2016,"case, process, application, file, exception, withdraw, multiple",0.007052076,330,case,issue
+9/15/2016,"case, work, review, wait, escalation, written, guarantee",0.00881886,724,case,issue
+9/22/2016,"issue, case, bad, fix, lost, app, ticket",0.013094669,1620,case,issue
+9/29/2016,"office, case, drop, advising, advisor",0.019185149,3895,case,issue
+9/30/2016,"move, case, stuff, new, appeal, switch",0.014249928,2093,case,issue
+10/3/2016,"case, process, issue, away, assuming",0.015674569,3732,case,issue
+10/5/2016,"case, weird, point, meeting, escalation, app",0.014911917,2415,case,issue
+10/17/2016,"case, box, understand, read, lady, content",0.018836021,1767,case,issue
+9/9/2016,"log, click, complete, application, password, user",0.024803107,2182,log,online
+8/30/2016,"log, click, password, issue, reset",0.025945139,2412,log,online
+10/7/2016,"log, click, link, orientation, enter, password",0.019840692,2341,log,online
+9/14/2016,"log, click, password, change, user",0.02140241,2267,log,online
+10/12/2016,"log, complete, orientation, click, access",0.02583517,2893,log,online
+8/26/2016,"log, hold, issue, password, reset, screen, tech",0.019821766,1520,log,online
+9/1/2016,"log, password, click, support, reset, user",0.019897556,1478,log,online
+9/2/2016,"log, password, computer, support, user",0.017334975,1253,log,online
+8/27/2016,"log, assessment, application, questions, writing, click",0.021319169,74,log,online
+9/23/2016,"log, application, complete, submit, blue, section, disclosure",0.012948214,1117,log,online
+9/21/2016,"log, click, application, capella, basis, tori",0.020910968,2189,log,online
+10/8/2016,"log, password, user, computer",0.040090463,147,log,online
+8/27/2016,"forward, moving, sounds, option, apologize, understand",0.010593675,59,forward,voicemail
+8/30/2016,"forward, move, system, work, stack",0.006555891,1008,forward,voicemail
+9/7/2016,"forward, system, mail, voice, mailbox",0.025403696,2405,forward,voicemail
+8/31/2016,"forward, system, voice, pace",0.022485027,1647,forward,voicemail
+10/14/2016,"forward, automatic, automated, clock",0.025707139,2362,forward,voicemail
+10/5/2016,"forward, move, automatically, automated",0.017961855,2541,forward,voicemail
+10/6/2016,"forward, move, automatically, statement",0.020619809,2977,forward,voicemail
+10/4/2016,"forward, move, end, direct",0.008211663,2063,forward,voicemail
+10/13/2016,"forward, move, system, automatic, automated",0.024272661,2511,forward,voicemail
+9/23/2016,"forward, move, system, process, clarification",0.017726193,2777,forward,voicemail
+10/3/2016,"forward, voice, system, full, dress",0.032271819,3279,forward,voicemail
+9/14/2016,"forward, move, end, system, automatically",0.021955386,3681,forward,voicemail
+9/12/2016,"forward, system, automatically, move, automated",0.019054993,2737,forward,voicemail
+10/11/2016,"forward, voice, automatic, system, automated",0.041110022,3477,forward,voicemail
+9/26/2016,"forward, accept, full, mailbox",0.020872165,2424,forward,voicemail
+9/30/2016,"forward, app, continue, respond, delete",0.01237579,1856,forward,voicemail
+9/19/2016,"forward, automatically, mailbox, system",0.020076832,2240,forward,voicemail
+9/20/2016,"forward, system, web, limit",0.015304556,2817,forward,voicemail
+9/16/2016,"forward, voice, automatic, mailbox",0.048410109,2631,forward,voicemail
+9/27/2016,"forward, accept, admissions, review, automatically",0.031553126,3376,forward,voicemail
+10/17/2016,"forward, touch, move, automatically, automated",0.028206823,1874,forward,voicemail
+9/10/2016,"forwarded, system, mail, free",0.048497566,392,forwarded,voicemail
+9/17/2016,"forwarded, automatic, easier, back, expect, mail, home",0.030894722,270,forwarded,voicemail
+9/29/2016,"record, hang, press, password, user",0.020122766,3400,record,voicemail
+9/22/2016,"record, learners, press, code, hang, rent",0.02041074,3112,record,voicemail
+9/26/2016,"record, press, hang, option, pound",0.017920794,2714,record,voicemail
+8/29/2016,"record, press, learners, code, receipt",0.014730226,1754,record,voicemail
+10/4/2016,"record, press, learning, learner, extension, reset",0.01295866,1784,record,voicemail
+9/12/2016,"record, hang, press, finish, apologize",0.013736835,2680,record,voicemail
+10/5/2016,"record, reason, team, conference, quality, proactive",0.006144709,372,record,voicemail
+10/14/2016,"set, academic, voicemail, schedule, appointment",0.014533273,2413,set,voicemail
+9/1/2016,"set, basically, box, open, access",0.008406551,1064,set,voicemail
+9/21/2016,"set, best, voicemail, mind, written",0.010493743,1786,set,voicemail
+9/10/2016,"set, box, computer, move, break",0.016763068,246,set,voicemail
+10/15/2016,"set, box, log, couple, based",0.012573382,85,set,voicemail
+10/3/2016,"set, important, half, instructions, future",0.005015412,446,set,voicemail
+8/26/2016,"set, plan, understand, break, coach, blue",0.011403775,1593,set,voicemail
+9/2/2016,"set, rest, voicemail, successful",0.007161175,656,set,voicemail
+8/30/2016,"set, voicemail, excuse, plan, cat",0.008984106,1061,set,voicemail
+8/31/2016,"set, voicemail, sign, appointment",0.008780873,1274,set,voicemail
+10/4/2016,"set, voicemail, tech, appointment, legal",0.011101362,2389,set,voicemail
+9/9/2016,"set, voicemail, worry, grab, doable",0.007571739,852,set,voicemail
+9/19/2016,"set, wonderful, box, voicemail",0.017563919,2762,set,voicemail
+9/6/2016,"set, plan, next, couple, box, worry",0.025312782,4178,set,voicemail
+9/8/2016,"set, type, open, box, chat",0.013928552,2756,set,voicemail
+9/28/2016,"set, box, ready, matter, eastern",0.009833036,1007,set,voicemail
+9/26/2016,"set, box, voicemail, appointment, movie, machine",0.018217398,2182,set,voicemail
+9/30/2016,"set, plan, payment, voicemail",0.014213251,2691,set,voicemail
+9/29/2016,"set, plenty, space, breakdown, snow",0.004836091,368,set,voicemail
+9/27/2016,"set, voicemail, solution, pri, buzz",0.008453311,590,set,voicemail
+9/13/2016,"set, meet, main, questions, deadlines",0.007896092,1216,set,voicemail
+9/14/2016,"set, academic, plan, coach, voicemail",0.013107471,2478,set,voicemail
+9/15/2016,"set, reach, box, voicemail, pen",0.01444604,1950,set,voicemail
+9/17/2016,"reached, set, remember, university, agree, happy",0.063409509,416,set,voicemail
+9/23/2016,"set, plan, office, payment, voicemail",0.017071518,3220,set,voicemail
+9/26/2016,"set, sort, sense, comfortable, sales",0.004627793,548,set,voicemail
+10/17/2016,"set, bit, point, sense, frame",0.008087682,567,set,voicemail
+9/10/2016,"automatic, voice, system, tone, bad, personal, apologize",0.019851761,251,voice,voicemail
+9/28/2016,"voice, automatic, system, mail, automated",0.02592991,2099,voice,voicemail
+9/30/2016,"voice, system, automatically, mail, automated",0.023624995,2138,voice,voicemail
+9/13/2016,"voice, automatic, mailbox, automated",0.033117595,2207,voice,voicemail
+9/10/2016,"voice, mailbox, full, switch",0.060756286,368,voice,voicemail
+9/12/2016,"voice, box, voicemail, set, appointment",0.033118654,3034,voice,voicemail
+9/23/2016,"voice, mailbox, automatic, full, verizon",0.030795369,1847,voice,voicemail
+9/17/2016,"voice, play, option, finish, expect",0.027681427,227,voice,voicemail
+9/27/2016,"voice, return, full, mailbox, disconnected",0.032801548,2263,voice,voicemail
+9/24/2016,"voice, system, program, send, pursuing",0.020522128,146,voice,voicemail
+9/26/2016,"voice, part, reference, kaplan, referral, bird",0.012825899,1897,voice,voicemail
+9/29/2016,"voice, full, accept, mail, belonging",0.021436855,1763,voice,voicemail
+10/14/2016,"voice, system, full, mail, belonging",0.022509219,1951,voice,voicemail
+10/5/2016,"voice, press, mailbox, record, recognized",0.031702836,2091,voice,voicemail
