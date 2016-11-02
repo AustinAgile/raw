@@ -7,6 +7,8 @@ angular.module('raw.controllers', [])
   .controller('RawCtrl', function ($scope, dataService) {
 
     $scope.samples = [
+      { title : 'Capella categorized (Aug, Sep, Oct)', url : 'data/capella.categorized.csv' },
+      { title : 'Capella uncategorized (Aug, Sep, Oct)', url : 'data/capella.uncategorized.csv' },
       { title : 'Hilton (April 2016)', url : 'data/hilton1.csv' },
       { title : 'Hilton (April 2016 * 3)', url : 'data/hilton2.csv' },
       { title : 'Cars (Multivariate)', url : 'data/multivariate.csv' },

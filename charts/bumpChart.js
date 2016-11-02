@@ -354,7 +354,7 @@
             .append('textPath')
             	.attr("id", "topicLabel")
             	.attr('xlink:xlink:href', textpathHref)
-            	.attr('startOffset', function(d) {
+            	.attr('startOffset', function(d, i) {
                 	var maxYr = 0, maxV = 0;
                 	d3.range(layers[0].length).forEach(function(i) {//Find the fatest part of the shape
                     	if (d[i].y > maxV) {
@@ -365,8 +365,26 @@
                 	//d.maxVal = d[maxYr].y;Don't need this
                 	d.offset = Math.round(x(d[maxYr].x) / x.range()[1] * 100);
                 	return Math.min(95, Math.max(5, d.offset))+'%';
+                	d.offset = x(d[maxYr].x);
+                	
+                	var id = textpathHref(d, i);
+                	var thePath = g.select('defs').select(id).node();
+                	console.log("thePath");
+                	console.log(id);
+                	console.log(thePath);
+                	console.log("x="+x(d[maxYr].x));
+                	console.log("offset="+d.offset);
+                	console.log(thePath.getPointAtLength(d.offset).x);
+                	while (thePath.getPointAtLength(d.offset).x < x(d[maxYr].x)) {
+                		d.offset += 1;
+//                		console.log("offset="+d.offset);
+//                		console.log(thePath.getPointAtLength(d.offset));
+                	}
+                	return d.offset;
             	})
             	.attr('text-anchor', function(d) {
+//                	return d.offset <= x.range()[0] ? 'start' : d.offset >= x.range()[1] ? 'end' : 'middle';
+//                	return 'middle';
                 	return d.offset > 90 ? 'end' : d.offset < 10 ? 'start' : 'middle';
             	})
             	.text(function(d){ return d[0].group; })
